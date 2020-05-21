@@ -13,6 +13,12 @@ The goal of this project is to attempt to create a complete consolidated list of
 |7            | Keep your ears open.                                                | "[In the Hands of the Prophets](http://memory-beta.wikia.com/wiki/In_the_Hands_of_the_Prophets)" (DS9 episode) |
 |8            | Small print leads to large risk.                                    | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 novel) |
 |9            | Opportunity plus instinct equals profit.                            | "[The Storyteller](http://memory-beta.wikia.com/wiki/The_Storyteller)" (DS9 episode) |
+|10           | Greed is eternal.                                                   | "[Prophet Motive](https://memory-beta.fandom.com/wiki/Prophet_Motive)" (DS9 episode) |
+|11           | Even if it's free, you can always buy it cheaper.                   | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 novel) |
+|12           | Anything worth selling is worth selling twice.                      | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 novel) |
+|13           | Anything worth doing is worth doing for money.                      | [Legends of the Ferengi](http://memory-beta.wikia.com/wiki/Legends_of_the_Ferengi) (DS9 novel) |
+|14           | Sometimes the quickest way to find profits is to let them find you. | [Fortune of War](https://memory-beta.fandom.com/wiki/Fortune_of_War) (TTN novel) |
+|15           | Dead men close no deals.                                            | [Demons of Air and Darkness](http://memory-beta.wikia.com/wiki/Demons_of_Air_and_Darkness) (DS9 novel) |
 
 ## Disclaimer
 The opinions and views expressed here are NOT the author's own and do not reflect the views of any party involved. While the collection contains material that may be considered prejudiced, stereotyped, or offensive, it should be remembered that this is only a fictional work from the Star Trek universe that is only meant to be taken as the business proverbs of the ultra-capitalist race known as the Ferengi. This is distributed in the hope that it will be useful, but without any level of warranty, implied or otherwise.
