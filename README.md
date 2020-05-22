@@ -19,6 +19,12 @@ The goal of this project is to attempt to create a complete consolidated list of
 |13           | Anything worth doing is worth doing for money.                      | [Legends of the Ferengi](http://memory-beta.wikia.com/wiki/Legends_of_the_Ferengi) (DS9 novel) |
 |14           | Sometimes the quickest way to find profits is to let them find you. | [Fortune of War](https://memory-beta.fandom.com/wiki/Fortune_of_War) (TTN novel) |
 |15           | Dead men close no deals.                                            | [Demons of Air and Darkness](http://memory-beta.wikia.com/wiki/Demons_of_Air_and_Darkness) (DS9 novel) |
+|16           | A deal is a deal.                                                   | "[Melora](https://memory-alpha.fandom.com/wiki/Melora_(episode))" (DS9 episode) |
+|16           | A deal is a deal... until a better one comes along.                 | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 novel) |
+|17           | A contract is a contract is a contract... but only between Ferengi. | "[Body Parts](http://memory-beta.wikia.com/wiki/Body_Parts)" (DS9 episode)      |
+|18           | A Ferengi without profit is no Ferengi at all.                      | "[Heart of Stone](https://memory-beta.fandom.com/wiki/Heart_of_Stone)" (DS9 episode) |
+|19           | Satisfaction is not guaranteed.                                     | [Legends of the Ferengi](http://memory-beta.wikia.com/wiki/Legends_of_the_Ferengi) (DS9 novel) |
+|20           | He who dives under the table today lives to profit tomorrow.        | [Ferenginar: Satisfaction is Not Guaranteed](https://memory-beta.fandom.com/wiki/Ferenginar:_Satisfaction_is_Not_Guaranteed) (DS9 novella) |
 
 ## Disclaimer
 The opinions and views expressed here are NOT the author's own and do not reflect the views of any party involved. While the collection contains material that may be considered prejudiced, stereotyped, or offensive, it should be remembered that this is only a fictional work from the Star Trek universe that is only meant to be taken as the business proverbs of the ultra-capitalist race known as the Ferengi. This is distributed in the hope that it will be useful, but without any level of warranty, implied or otherwise.
