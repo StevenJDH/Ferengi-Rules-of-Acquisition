@@ -25,6 +25,11 @@ The goal of this project is to attempt to create a complete consolidated list of
 |18           | A Ferengi without profit is no Ferengi at all.                      | "[Heart of Stone](https://memory-beta.fandom.com/wiki/Heart_of_Stone)" (DS9 episode) |
 |19           | Satisfaction is not guaranteed.                                     | [Legends of the Ferengi](http://memory-beta.wikia.com/wiki/Legends_of_the_Ferengi) (DS9 novel) |
 |20           | He who dives under the table today lives to profit tomorrow.        | [Ferenginar: Satisfaction is Not Guaranteed](https://memory-beta.fandom.com/wiki/Ferenginar:_Satisfaction_is_Not_Guaranteed) (DS9 novella) |
+|21           | Never place friendship above profit.                                | "[Rules of Acquisition](https://memory-alpha.fandom.com/wiki/Rules_of_Acquisition_(episode))" (DS9 episode) |
+|22           | A wise man can hear profit in the wind.                             | "[Rules of Acquisition](https://memory-alpha.fandom.com/wiki/Rules_of_Acquisition_(episode))" (DS9 episode) |
+|23           | Nothing is more important than your health... except for your money.| "[Acquisition](https://memory-beta.fandom.com/wiki/Acquisition)" (ENT episode)  |
+|27           | There's nothing more dangerous than an honest businessman.          | [Legends of the Ferengi](http://memory-beta.wikia.com/wiki/Legends_of_the_Ferengi) (DS9 novel) |
+|29           | What's in it for me?                                                | [Highest Score](https://memory-beta.fandom.com/wiki/Highest_Score) (DS9 novel)  |
 
 ## Disclaimer
 The opinions and views expressed here are NOT the author's own and do not reflect the views of any party involved. While the collection contains material that may be considered prejudiced, stereotyped, or offensive, it should be remembered that this is only a fictional work from the Star Trek universe that is only meant to be taken as the business proverbs of the ultra-capitalist race known as the Ferengi. This is distributed in the hope that it will be useful, but without any level of warranty, implied or otherwise.
