@@ -30,6 +30,13 @@ The goal of this project is to attempt to create a complete consolidated list of
 |23           | Nothing is more important than your health... except for your money.| "[Acquisition](https://memory-beta.fandom.com/wiki/Acquisition)" (ENT episode)  |
 |27           | There's nothing more dangerous than an honest businessman.          | [Legends of the Ferengi](http://memory-beta.wikia.com/wiki/Legends_of_the_Ferengi) (DS9 novel) |
 |29           | What's in it for me?                                                | [Highest Score](https://memory-beta.fandom.com/wiki/Highest_Score) (DS9 novel)  |
+|30           | Confidentiality equals profit.                                      | [The Badlands, Part IV](https://memory-beta.fandom.com/wiki/The_Badlands,_Part_IV) (DS9 novel) |
+|31           | Never make fun of a Ferengi's mother.                               | "[The Siege](https://memory-beta.fandom.com/wiki/The_Siege_(episode))" (DS9 episode) |
+|31           | Never make fun of a Ferengi's mother... insult something he cares about instead.| [Elite Force II](https://memory-beta.fandom.com/wiki/Elite_Force_II) (DS9 game) |
+|33           | It never hurts to suck up to the boss.                              | "[Rules of Acquisition](https://memory-alpha.fandom.com/wiki/Rules_of_Acquisition_(episode))" (DS9 episode) |
+|34           | War is good for business.                                           | "[Destiny](https://memory-beta.fandom.com/wiki/Destiny_(episode))" (DS9 episode) |
+|35           | Peace is good for business.                                         | "[Destiny](https://memory-beta.fandom.com/wiki/Destiny_(episode))" (DS9 episode) |
+|37           | The early investor reaps the most interest.                         | [Reservoir Ferengi](https://memory-beta.fandom.com/wiki/Reservoir_Ferengi) (ST novella) |
 
 ## Disclaimer
 The opinions and views expressed here are NOT the author's own and do not reflect the views of any party involved. While the collection contains material that may be considered prejudiced, stereotyped, or offensive, it should be remembered that this is only a fictional work from the Star Trek universe that is only meant to be taken as the business proverbs of the ultra-capitalist race known as the Ferengi. This is distributed in the hope that it will be useful, but without any level of warranty, implied or otherwise.
