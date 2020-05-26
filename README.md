@@ -7,20 +7,20 @@ The goal of this project is to attempt to create a complete consolidated list of
 |2            | The best deal is the one that brings the most profit.               | [The 34th Rule](https://memory-beta.fandom.com/wiki/The_34th_Rule) (DS9 novel)  |
 |2            | Money is everything.                                                | [Strange New Worlds 9](https://memory-beta.fandom.com/wiki/Strange_New_Worlds_9): "The Last Tree on Ferenginar: A Ferengi Fable From the Future" |
 |3            | Never spend more for an acquisition than you have to.               | "[The Maquis, Part II](https://memory-beta.fandom.com/wiki/The_Maquis,_Part_II)" (DS9 episode) |
-|4            | A woman wearing clothes is like a man in the kitchen.               | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 novel) |
+|4            | A woman wearing clothes is like a man in the kitchen.               | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
 |5            | Always exaggerate your estimates.                                   | [Cold Fusion](http://memory-beta.wikia.com/wiki/Cold_Fusion) (SCE novel)        |
 |6            | Never allow family to stand in the way of opportunity.              | "[The Nagus](http://memory-beta.wikia.com/wiki/The_Nagus)" (DS9 episode)        |
 |7            | Keep your ears open.                                                | "[In the Hands of the Prophets](http://memory-beta.wikia.com/wiki/In_the_Hands_of_the_Prophets)" (DS9 episode) |
-|8            | Small print leads to large risk.                                    | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 novel) |
+|8            | Small print leads to large risk.                                    | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
 |9            | Opportunity plus instinct equals profit.                            | "[The Storyteller](http://memory-beta.wikia.com/wiki/The_Storyteller)" (DS9 episode) |
 |10           | Greed is eternal.                                                   | "[Prophet Motive](https://memory-beta.fandom.com/wiki/Prophet_Motive)" (DS9 episode) |
-|11           | Even if it's free, you can always buy it cheaper.                   | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 novel) |
-|12           | Anything worth selling is worth selling twice.                      | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 novel) |
+|11           | Even if it's free, you can always buy it cheaper.                   | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
+|12           | Anything worth selling is worth selling twice.                      | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
 |13           | Anything worth doing is worth doing for money.                      | [Legends of the Ferengi](http://memory-beta.wikia.com/wiki/Legends_of_the_Ferengi) (DS9 novel) |
 |14           | Sometimes the quickest way to find profits is to let them find you. | [Fortune of War](https://memory-beta.fandom.com/wiki/Fortune_of_War) (TTN novel) |
 |15           | Dead men close no deals.                                            | [Demons of Air and Darkness](http://memory-beta.wikia.com/wiki/Demons_of_Air_and_Darkness) (DS9 novel) |
 |16           | A deal is a deal.                                                   | "[Melora](https://memory-alpha.fandom.com/wiki/Melora_(episode))" (DS9 episode) |
-|16           | A deal is a deal... until a better one comes along.                 | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 novel) |
+|16           | A deal is a deal... until a better one comes along.                 | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
 |17           | A contract is a contract is a contract... but only between Ferengi. | "[Body Parts](http://memory-beta.wikia.com/wiki/Body_Parts)" (DS9 episode)      |
 |18           | A Ferengi without profit is no Ferengi at all.                      | "[Heart of Stone](https://memory-beta.fandom.com/wiki/Heart_of_Stone)" (DS9 episode) |
 |19           | Satisfaction is not guaranteed.                                     | [Legends of the Ferengi](http://memory-beta.wikia.com/wiki/Legends_of_the_Ferengi) (DS9 novel) |
@@ -37,6 +37,12 @@ The goal of this project is to attempt to create a complete consolidated list of
 |34           | War is good for business.                                           | "[Destiny](https://memory-beta.fandom.com/wiki/Destiny_(episode))" (DS9 episode) |
 |35           | Peace is good for business.                                         | "[Destiny](https://memory-beta.fandom.com/wiki/Destiny_(episode))" (DS9 episode) |
 |37           | The early investor reaps the most interest.                         | [Reservoir Ferengi](https://memory-beta.fandom.com/wiki/Reservoir_Ferengi) (ST novella) |
+|39           | Don't tell customers more than they need to know.                   | [Ascendance](https://memory-beta.fandom.com/wiki/Ascendance) (DS9 novel)        |
+|40           | She can touch your lobes but never your latinum.                    | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
+|41           | Profit is its own reward.                                           | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
+|43           | Feed your greed, but not enough to choke it.                        | [The Buried Age](https://memory-beta.fandom.com/wiki/The_Buried_Age) (TNG novel) |
+|44           | Never confuse wisdom with luck.                                     | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
+|45           | Expand or die.                                                      | "[Acquisition](https://memory-beta.fandom.com/wiki/Acquisition)" (ENT episode)      |
 
 ## Disclaimer
 The opinions and views expressed here are NOT the author's own and do not reflect the views of any party involved. While the collection contains material that may be considered prejudiced, stereotyped, or offensive, it should be remembered that this is only a fictional work from the Star Trek universe that is only meant to be taken as the business proverbs of the ultra-capitalist race known as the Ferengi. This is distributed in the hope that it will be useful, but without any level of warranty, implied or otherwise.
