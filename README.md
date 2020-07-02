@@ -42,7 +42,10 @@ The goal of this project is to attempt to create a complete consolidated list of
 |41           | Profit is its own reward.                                           | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
 |43           | Feed your greed, but not enough to choke it.                        | [The Buried Age](https://memory-beta.fandom.com/wiki/The_Buried_Age) (TNG novel) |
 |44           | Never confuse wisdom with luck.                                     | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
-|45           | Expand or die.                                                      | "[Acquisition](https://memory-beta.fandom.com/wiki/Acquisition)" (ENT episode)      |
+|45           | Expand or die.                                                      | "[Acquisition](https://memory-beta.fandom.com/wiki/Acquisition)" (ENT episode)  |
+|47           | Don't trust a man wearing a better suit than your own.              | "[Rivals](https://memory-beta.fandom.com/wiki/Rivals_(episode))" (DS9 episode)  |
+|48           | The bigger the smile, the sharper the knife.                        | "[Rules of Acquisition](https://memory-alpha.fandom.com/wiki/Rules_of_Acquisition_(episode))" (DS9 episode) |
+|52           | Never ask when you can take.                                        | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
 
 ## Disclaimer
 The opinions and views expressed here are NOT the author's own and do not reflect the views of any party involved. While the collection contains material that may be considered prejudiced, stereotyped, or offensive, it should be remembered that this is only a fictional work from the Star Trek universe that is only meant to be taken as the business proverbs of the ultra-capitalist race known as the Ferengi. This is distributed in the hope that it will be useful, but without any level of warranty, implied or otherwise.
