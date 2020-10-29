@@ -1,4 +1,7 @@
 # Ferengi Rules of Acquisition
+
+![GitHub](https://img.shields.io/github/license/StevenJDH/Ferengi-Rules-of-Acquisition)
+
 The goal of this project is to attempt to create a complete consolidated list of all the known [Ferengi Rules of Acquisition](https://en.wikipedia.org/wiki/Rules_of_Acquisition).
 
 |Number       | Rule                                                                | Source                                                                          |
