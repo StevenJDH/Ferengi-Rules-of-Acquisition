@@ -52,6 +52,16 @@ The goal of this project is to attempt to create a complete consolidated list of
 |53           | Never trust anybody taller than you.                                | [Mission Gamma: Twilight](http://memory-beta.wikia.com/wiki/Twilight_%28novel%29) (DS9 novel) |
 |54           | Rate divided by time equals profit. (Also known as "The Velocity of Wealth.") | [Raise the Dawn](https://memory-beta.fandom.com/wiki/Raise_the_Dawn) (Typhon Pact novel) |
 |55           | Take joy from profit, and profit from joy.                          | [Worlds of Deep Space Nine: Bajor: Fragments and Omens](https://memory-beta.fandom.com/wiki/Bajor:_Fragments_and_Omens) (DS9 novel) |
+|57           | Good customers are as rare as latinum. Treasure them.               | "[Armageddon Game](https://memory-beta.fandom.com/wiki/Armageddon_Game)" (DS9 episode) |
+|58           | There is no substitute for success.                                 | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
+|59           | Free advice is seldom cheap.                                        | "[Rules of Acquisition](https://memory-beta.fandom.com/wiki/Rules_of_Acquisition_(episode))" (DS9 episode) |
+|60           | Keep your lies consistent.                                          | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
+|62           | The riskier the road, the greater the profit.                       | "[Rules of Acquisition](https://memory-beta.fandom.com/wiki/Rules_of_Acquisition_(episode))" (DS9 episode) |
+|63           | Work is the best therapy—at least for your employees.               | [Over a Torrent Sea](https://memory-beta.fandom.com/wiki/Over_a_Torrent_Sea) (TTN novel) |
+|65           | Win or lose, there's always Huyperian beetle snuff.                 | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
+|66           | Someone's always got bigger ears.                                   | [What Happens Now](https://memory-beta.fandom.com/wiki/What_Happens_Now) (Star Trek: The Last Generation #3, TNG comic) |
+|68           | Risk doesn't always equal reward.                                   | [Star Trek Online](https://memory-beta.fandom.com/wiki/Star_Trek_Online)        |
+|69           | Ferengi are not responsible for the stupidity of other races.       | [Balance of Power](https://memory-beta.fandom.com/wiki/Balance_of_Power) (TNG novel) |
 
 ## Disclaimer
 The opinions and views expressed here are NOT the author's own and do not reflect the views of any party involved. While the collection contains material that may be considered prejudiced, stereotyped, or offensive, it should be remembered that this is only a fictional work from the Star Trek universe that is only meant to be taken as the business proverbs of the ultra-capitalist race known as the Ferengi. This is distributed in the hope that it will be useful, but without any level of warranty, implied or otherwise.
