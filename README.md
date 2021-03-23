@@ -78,6 +78,22 @@ The goal of this project is to attempt to create a complete consolidated list of
 |89           | Ask not what your profits can do for you, but what you can do for your profits. | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
 |89           | [It is] better to lose some profit and live than lose all profit and die. | "[Best Tools Available](https://memory-beta.fandom.com/wiki/Best_Tools_Available)" (DS9 short story) |
 |92           | There are many paths to profit.                                     | [Highest Score](https://memory-beta.fandom.com/wiki/Highest_Score) (DS9 novel)  |
+|94           | Females and finances don't mix.                                     | "[Ferengi Love Songs](https://memory-beta.fandom.com/wiki/Ferengi_Love_Songs)" (DS9 episode) |
+|95           | Expand or die.                                                      | "[False Profits](https://memory-beta.fandom.com/wiki/False_Profits)" (VOY episode)    |
+|97           | Enough... is never enough.                                          | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
+|98           | Every man has his price.                                            | "[In the Pale Moonlight](https://memory-beta.fandom.com/wiki/In_the_Pale_Moonlight)" (DS9 episode) |
+|98           | If you can't take it with you, don't go.                            | [I, Q](https://memory-beta.fandom.com/wiki/I,_Q) (DS9 novel)                    |
+|99           | Trust is the biggest liability of all.                              | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
+|100          | When it's good for business, tell the truth.                        | [Ascendance](https://memory-beta.fandom.com/wiki/Ascendance) (DS9 novel)        |
+|101          | Profit trumps emotion.                                              | [The Long Mirage](https://memory-beta.fandom.com/wiki/Ascendance) (DS9 novel)   |
+|102          | Nature decays, but latinum lasts forever.                           | "[The Jem'Hadar](https://memory-beta.fandom.com/wiki/The_Jem%27Hadar)" (DS9 episode) |
+|103          | Sleep can interfere with opportunity.                               | "[Rules of Acquisition](https://memory-beta.fandom.com/wiki/Rules_of_Acquisition_(episode))" (DS9 episode) |
+|104          | Faith moves mountains... of inventory.                              | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
+|106          | There is no honor in poverty.                                       | [Sacraments of Fire](https://memory-beta.fandom.com/wiki/Sacraments_of_Fire) (DS9 novel)   |
+|108          | Hope doesn't keep the lights on.                                    | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
+|108          | A woman wearing clothes is like a man without any profits           | DS9 Novel                                                                       |
+|109          | Dignity and an empty sack is worth the sack.                        | "[Rivals](https://memory-beta.fandom.com/wiki/Rivals_(episode))" (DS9 episode)  |
+|110          | Exploitation begins at home.                                        | "[False Profits](https://memory-beta.fandom.com/wiki/False_Profits)" (VOY episode) |
 
 ## Disclaimer
 The opinions and views expressed here are NOT the author's own and do not reflect the views of any party involved. While the collection contains material that may be considered prejudiced, stereotyped, or offensive, it should be remembered that this is only a fictional work from the Star Trek universe that is only meant to be taken as the business proverbs of the ultra-capitalist race known as the Ferengi. This is distributed in the hope that it will be useful, but without any level of warranty, implied or otherwise.
