@@ -1,8 +1,11 @@
 # Ferengi Rules of Acquisition
 
+![Maintenance](https://img.shields.io/maintenance/yes/2021)
 ![GitHub](https://img.shields.io/github/license/StevenJDH/Ferengi-Rules-of-Acquisition)
 
 The goal of this project is to attempt to create a complete consolidated list of all the known [Ferengi Rules of Acquisition](https://en.wikipedia.org/wiki/Rules_of_Acquisition).
+
+[![Buy me a coffee](https://img.shields.io/static/v1?label=Buy%20me%20a&message=coffee&color=important&style=flat&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/stevenjdh)
 
 |Number       | Rule                                                                | Source                                                                          |
 |------------:|:--------------------------------------------------------------------|:--------------------------------------------------------------------------------|
@@ -62,6 +65,19 @@ The goal of this project is to attempt to create a complete consolidated list of
 |66           | Someone's always got bigger ears.                                   | [What Happens Now](https://memory-beta.fandom.com/wiki/What_Happens_Now) (Star Trek: The Last Generation #3, TNG comic) |
 |68           | Risk doesn't always equal reward.                                   | [Star Trek Online](https://memory-beta.fandom.com/wiki/Star_Trek_Online)        |
 |69           | Ferengi are not responsible for the stupidity of other races.       | [Balance of Power](https://memory-beta.fandom.com/wiki/Balance_of_Power) (TNG novel) |
+|74           | Knowledge equals profit.                                            | "[Inside Man](https://memory-beta.fandom.com/wiki/Inside_Man)" (VOY episode)    |
+|75           | Home is where the heart is, but the stars are made of latinum.      | "[Civil Defense](https://memory-beta.fandom.com/wiki/Civil_Defense)" (DS9 episode) |
+|76           | Every once in a while, declare peace. It confuses the hell out of your enemies. | "[The Homecoming](https://memory-beta.fandom.com/wiki/The_Homecoming)" (DS9 episode) |
+|77           | If you break it, I'll charge you for it!                            | [Star Trek Online](https://memory-beta.fandom.com/wiki/Star_Trek_Online)        |
+|79           | Beware of the Vulcan greed for knowledge.                           | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
+|82           | The flimsier the product, the higher the price.                     | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
+|85           | Never let the competition know what you're thinking.                | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
+|87           | Learn the customer's weaknesses, so that you can better take advantage of him. | [Highest Score](https://memory-beta.fandom.com/wiki/Highest_Score) (DS9 novel) |
+|88           | It ain't over 'til it's over.                                       | [Ferenginar: Satisfaction is Not Guaranteed](https://memory-beta.fandom.com/wiki/Ferenginar:_Satisfaction_is_Not_Guaranteed) (DS9 novella) |
+|88           | Vengeance will cost you everything.                                 | [The Poisoned Chalice](https://memory-beta.fandom.com/wiki/The_Poisoned_Chalice) (DS9 novel) |
+|89           | Ask not what your profits can do for you, but what you can do for your profits. | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
+|89           | [It is] better to lose some profit and live than lose all profit and die. | "[Best Tools Available](https://memory-beta.fandom.com/wiki/Best_Tools_Available)" (DS9 short story) |
+|92           | There are many paths to profit.                                     | [Highest Score](https://memory-beta.fandom.com/wiki/Highest_Score) (DS9 novel)  |
 
 ## Disclaimer
 The opinions and views expressed here are NOT the author's own and do not reflect the views of any party involved. While the collection contains material that may be considered prejudiced, stereotyped, or offensive, it should be remembered that this is only a fictional work from the Star Trek universe that is only meant to be taken as the business proverbs of the ultra-capitalist race known as the Ferengi. This is distributed in the hope that it will be useful, but without any level of warranty, implied or otherwise.
