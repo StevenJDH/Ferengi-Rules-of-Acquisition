@@ -91,9 +91,29 @@ The goal of this project is to attempt to create a complete consolidated list of
 |104          | Faith moves mountains... of inventory.                              | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
 |106          | There is no honor in poverty.                                       | [Sacraments of Fire](https://memory-beta.fandom.com/wiki/Sacraments_of_Fire) (DS9 novel)   |
 |108          | Hope doesn't keep the lights on.                                    | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
-|108          | A woman wearing clothes is like a man without any profits           | DS9 Novel                                                                       |
+|108          | A woman wearing clothes is like a man without any profits.          | DS9 Novel                                                                       |
 |109          | Dignity and an empty sack is worth the sack.                        | "[Rivals](https://memory-beta.fandom.com/wiki/Rivals_(episode))" (DS9 episode)  |
 |110          | Exploitation begins at home.                                        | "[False Profits](https://memory-beta.fandom.com/wiki/False_Profits)" (VOY episode) |
+|111          | Treat people in your debt like family... exploit them.              | "[Past Tense, Part I](https://memory-beta.fandom.com/wiki/Past_Tense,_Part_I)" (DS9 episode) |
+|112          | Never have sex with the boss' sister.                               | "[Playing God](https://memory-beta.fandom.com/wiki/Playing_God)" (DS9 episode)  |
+|113          | Always have sex with the boss.                                      | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
+|117          | You can't free a fish from water.                                   | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
+|121          | Everything is for sale, even friendship.                            | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
+|123          | Even a blind man can recognize the glow of Latinum.                 | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
+|125          | You can't make a deal if you're dead.                               | "[The Siege of AR-558](https://memory-beta.fandom.com/wiki/The_Siege_of_AR-558)" (DS9 episode) |
+|135          | Listen to secrets, but never repeat them.                           | [Ascendance](https://memory-beta.fandom.com/wiki/Ascendance) (DS9 novel)        |
+|139          | Wives serve, brothers inherit.                                      | "[Necessary Evil](https://memory-beta.fandom.com/wiki/Necessary_Evil_(episode))" (DS9 episode) |
+|141          | Only fools pay retail.                                              | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
+|144          | There's nothing wrong with charity... as long as it winds up in your pocket. | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
+|147          | People love the bartender.                                          | [Fearful Symmetry](https://memory-beta.fandom.com/wiki/Fearful_Symmetry) (DS9 novel) |
+|151          | Even when you're a customer, sell yourself.                         | [The Long Mirage](https://memory-beta.fandom.com/wiki/The_Long_Mirage) (DS9 novel) |
+|153          | Sell the sizzle, not the steak.                                     | "[Deep Space Mine](https://memory-beta.fandom.com/wiki/Deep_Space_Mine)" (DS9 comic) |
+|162          | Even in the worst of times, someone turns a profit.                 | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
+|168          | Whisper your way to success.                                        | "[Treachery, Faith, and the Great River](https://memory-beta.fandom.com/wiki/Treachery,_Faith,_and_the_Great_River)" (DS9 episode) |
+|177          | Know your enemies... but do business with them always.              | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
+|181          | Not even dishonesty can tarnish the shine of profit.                | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
+|183          | When life hands you ungaberries, make detergent.                    | [Hollow Men](https://memory-beta.fandom.com/wiki/Hollow_Men) (DS9 novel)        |
+|184          | A Ferengi waits to bid until his opponents have exhausted themselves. | [Balance of Power](https://memory-beta.fandom.com/wiki/Balance_of_Power) (TNG novel) |
 
 ## Disclaimer
 The opinions and views expressed here are NOT the author's own and do not reflect the views of any party involved. While the collection contains material that may be considered prejudiced, stereotyped, or offensive, it should be remembered that this is only a fictional work from the Star Trek universe that is only meant to be taken as the business proverbs of the ultra-capitalist race known as the Ferengi. This is distributed in the hope that it will be useful, but without any level of warranty, implied or otherwise.
