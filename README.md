@@ -114,6 +114,16 @@ The goal of this project is to attempt to create a complete consolidated list of
 |181          | Not even dishonesty can tarnish the shine of profit.                | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
 |183          | When life hands you ungaberries, make detergent.                    | [Hollow Men](https://memory-beta.fandom.com/wiki/Hollow_Men) (DS9 novel)        |
 |184          | A Ferengi waits to bid until his opponents have exhausted themselves. | [Balance of Power](https://memory-beta.fandom.com/wiki/Balance_of_Power) (TNG novel) |
+|188          | Not even dishonesty can tarnish the shine of profit.                | [Star Trek Online](https://memory-beta.fandom.com/wiki/Star_Trek_Online)        |
+|189          | Let others keep their reputation. You keep their money.             | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
+|190          | Hear all, trust nothing.                                            | "[Call to Arms](https://memory-beta.fandom.com/wiki/Call_to_Arms_(episode))" (DS9 episode) |
+|192          | Never cheat a Klingon... unless you're sure you can get away with it. | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
+|193          | Trouble comes in threes.                                            | [Star Trek Online](https://memory-beta.fandom.com/wiki/Star_Trek_Online)        |
+|193          | It's never too late to fire the staff.                              | [Cathedral](https://memory-beta.fandom.com/wiki/Cathedral) (DS9 novel)          |
+|194          | It's always good business to know about new customers before they walk in your door. | "[Whispers](https://memory-beta.fandom.com/wiki/Whispers)" (DS9 episode) |
+|199          | Location, location, location.                                       | [The Soul Key](https://memory-beta.fandom.com/wiki/The_Soul_Key) (DS9 novel)    |
+|200          | A Ferengi chooses no side but his own.                              | [Ferenginar: Satisfaction is Not Guaranteed](https://memory-beta.fandom.com/wiki/Ferenginar:_Satisfaction_is_Not_Guaranteed) (DS9 novel) |
+|202          | The justification for profit is profit.                             | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
 
 ## Disclaimer
 The opinions and views expressed here are NOT the author's own and do not reflect the views of any party involved. While the collection contains material that may be considered prejudiced, stereotyped, or offensive, it should be remembered that this is only a fictional work from the Star Trek universe that is only meant to be taken as the business proverbs of the ultra-capitalist race known as the Ferengi. This is distributed in the hope that it will be useful, but without any level of warranty, implied or otherwise.
