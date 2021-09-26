@@ -3,7 +3,7 @@
 ![Maintenance](https://img.shields.io/maintenance/yes/2021)
 ![GitHub](https://img.shields.io/github/license/StevenJDH/Ferengi-Rules-of-Acquisition)
 
-The goal of this project is to attempt to create a complete consolidated list of all the known [Ferengi Rules of Acquisition](https://en.wikipedia.org/wiki/Rules_of_Acquisition).
+The goal of this project is to attempt to create a complete consolidated list of all the known [Ferengi Rules of Acquisition](https://en.wikipedia.org/wiki/Rules_of_Acquisition), which as stated in "[The Maquis, Part I](https://memory-beta.fandom.com/wiki/The_Maquis,_Part_I)" (DS9 episode), "Every Ferengi business transaction is governed by 285 Rules of Acquisition to ensure a fair and honest deal for all parties concerned. Well, most of them, anyway."
 
 [![Buy me a coffee](https://img.shields.io/static/v1?label=Buy%20me%20a&message=coffee&color=important&style=flat&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/stevenjdh)
 
@@ -124,6 +124,16 @@ The goal of this project is to attempt to create a complete consolidated list of
 |199          | Location, location, location.                                       | [The Soul Key](https://memory-beta.fandom.com/wiki/The_Soul_Key) (DS9 novel)    |
 |200          | A Ferengi chooses no side but his own.                              | [Ferenginar: Satisfaction is Not Guaranteed](https://memory-beta.fandom.com/wiki/Ferenginar:_Satisfaction_is_Not_Guaranteed) (DS9 novel) |
 |202          | The justification for profit is profit.                             | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
+|203          | New customers are like razor-toothed gree worms. They can be succulent, but sometimes they bite back. | "[Little Green Men](https://memory-beta.fandom.com/wiki/Little_Green_Men)" (DS9 episode) |
+|208          | Sometimes, the only thing more dangerous than a question is an answer. | "[Ferengi Love Songs](https://memory-beta.fandom.com/wiki/Ferengi_Love_Songs)" (DS9 episode) |
+|211          | Employees are the rungs on the ladder of success. Don't hesitate to step on them. | "[Bar Association](https://memory-beta.fandom.com/wiki/Bar_Association)" (DS9 episode) |
+|212          | A good lie is easier to believe than the truth.                     | [Star Trek Online](https://memory-beta.fandom.com/wiki/Star_Trek_Online)        |
+|214          | Never begin a business negotiation on an empty stomach.             | "[The Maquis, Part I](https://memory-beta.fandom.com/wiki/The_Maquis,_Part_I)" (DS9 episode) |
+|216          | Never gamble with a telepath.                                       | [The Laertian Gamble](https://memory-beta.fandom.com/wiki/The_Laertian_Gamble) (DS9 novel) |
+|217          | You can't free a fish from water.                                   | "[Past Tense, Part I](https://memory-beta.fandom.com/wiki/Past_Tense,_Part_I)" (DS9 episode) |
+|217          | Always know what you're buying.                                     | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
+|218          | Sometimes what you get free costs entirely too much.                | [Baby on Board](https://memory-beta.fandom.com/wiki/Baby_on_Board) (DS9 Malibu Comics) |
+|219          | Possession is eleven-tenths of the law!                             | [Balance of Power](https://memory-beta.fandom.com/wiki/Balance_of_Power) (TNG novel) |
 
 ## Disclaimer
 The opinions and views expressed here are NOT the author's own and do not reflect the views of any party involved. While the collection contains material that may be considered prejudiced, stereotyped, or offensive, it should be remembered that this is only a fictional work from the Star Trek universe that is only meant to be taken as the business proverbs of the ultra-capitalist race known as the Ferengi. This is distributed in the hope that it will be useful, but without any level of warranty, implied or otherwise.
