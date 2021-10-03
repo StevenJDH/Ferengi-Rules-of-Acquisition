@@ -79,7 +79,7 @@ The goal of this project is to attempt to create a complete consolidated list of
 |89           | [It is] better to lose some profit and live than lose all profit and die. | "[Best Tools Available](https://memory-beta.fandom.com/wiki/Best_Tools_Available)" (DS9 short story) |
 |92           | There are many paths to profit.                                     | [Highest Score](https://memory-beta.fandom.com/wiki/Highest_Score) (DS9 novel)  |
 |94           | Females and finances don't mix.                                     | "[Ferengi Love Songs](https://memory-beta.fandom.com/wiki/Ferengi_Love_Songs)" (DS9 episode) |
-|95           | Expand or die.                                                      | "[False Profits](https://memory-beta.fandom.com/wiki/False_Profits)" (VOY episode)    |
+|95           | Expand or die.                                                      | "[False Profits](https://memory-beta.fandom.com/wiki/False_Profits)" (VOY episode) |
 |97           | Enough... is never enough.                                          | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
 |98           | Every man has his price.                                            | "[In the Pale Moonlight](https://memory-beta.fandom.com/wiki/In_the_Pale_Moonlight)" (DS9 episode) |
 |98           | If you can't take it with you, don't go.                            | [I, Q](https://memory-beta.fandom.com/wiki/I,_Q) (DS9 novel)                    |
@@ -89,7 +89,7 @@ The goal of this project is to attempt to create a complete consolidated list of
 |102          | Nature decays, but latinum lasts forever.                           | "[The Jem'Hadar](https://memory-beta.fandom.com/wiki/The_Jem%27Hadar)" (DS9 episode) |
 |103          | Sleep can interfere with opportunity.                               | "[Rules of Acquisition](https://memory-beta.fandom.com/wiki/Rules_of_Acquisition_(episode))" (DS9 episode) |
 |104          | Faith moves mountains... of inventory.                              | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
-|106          | There is no honor in poverty.                                       | [Sacraments of Fire](https://memory-beta.fandom.com/wiki/Sacraments_of_Fire) (DS9 novel)   |
+|106          | There is no honor in poverty.                                       | [Sacraments of Fire](https://memory-beta.fandom.com/wiki/Sacraments_of_Fire) (DS9 novel) |
 |108          | Hope doesn't keep the lights on.                                    | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
 |108          | A woman wearing clothes is like a man without any profits.          | DS9 Novel                                                                       |
 |109          | Dignity and an empty sack is worth the sack.                        | "[Rivals](https://memory-beta.fandom.com/wiki/Rivals_(episode))" (DS9 episode)  |
@@ -134,6 +134,19 @@ The goal of this project is to attempt to create a complete consolidated list of
 |217          | Always know what you're buying.                                     | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
 |218          | Sometimes what you get free costs entirely too much.                | [Baby on Board](https://memory-beta.fandom.com/wiki/Baby_on_Board) (DS9 Malibu Comics) |
 |219          | Possession is eleven-tenths of the law!                             | [Balance of Power](https://memory-beta.fandom.com/wiki/Balance_of_Power) (TNG novel) |
+|223          | Beware the man who doesn't take time for Oo-mox.                    | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
+|227          | If that's what's written, then that's what's written.               | [Star Trek Online](https://memory-beta.fandom.com/wiki/Star_Trek_Online)        |
+|229          | Latinum lasts longer than lust.                                     | "[Ferengi Love Songs](https://memory-beta.fandom.com/wiki/Ferengi_Love_Songs)" (DS9 episode) |
+|235          | Duck; death is tall.                                                | [Mission Gamma: Twilight](https://memory-beta.fandom.com/wiki/Twilight_(novel)) (DS9 novel) |
+|236          | You can't buy fate.                                                 | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
+|239          | Never be afraid to mislabel a product.                              | "[Body Parts](https://memory-beta.fandom.com/wiki/Body_Parts)" (DS9 episode)    |
+|240          | Time, like latinum, is a highly limited commodity.                  | [Star Trek Online](https://memory-beta.fandom.com/wiki/Star_Trek_Online)        |
+|242          | More is good... all is better.                                      | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
+|243          | Always leave yourself an out.                                       | [Sacraments of Fire](https://memory-beta.fandom.com/wiki/Sacraments_of_Fire) (DS9 novel) |
+|248          | The definition of insanity is trying the same failed scheme & expecting different results. | [Department of Temporal Investigations 3: Shield of the Gods, pg. 11](https://memory-beta.fandom.com/wiki/Shield_of_the_Gods) (DS9 e-novella) |
+|255          | A wife is luxury... a smart accountant a necessity.                 | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
+|257          | When the messenger comes to appropriate your profits, kill the messenger. | "[False Profits](https://memory-beta.fandom.com/wiki/False_Profits)" (VOY episode) |
+|261          | A wealthy man can afford anything except a conscience.              | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
 
 ## Disclaimer
 The opinions and views expressed here are NOT the author's own and do not reflect the views of any party involved. While the collection contains material that may be considered prejudiced, stereotyped, or offensive, it should be remembered that this is only a fictional work from the Star Trek universe that is only meant to be taken as the business proverbs of the ultra-capitalist race known as the Ferengi. This is distributed in the hope that it will be useful, but without any level of warranty, implied or otherwise.
