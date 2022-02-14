@@ -1,6 +1,6 @@
 # Ferengi Rules of Acquisition
 
-![Maintenance](https://img.shields.io/maintenance/yes/2021)
+![Maintenance](https://img.shields.io/maintenance/yes/2022)
 ![GitHub](https://img.shields.io/github/license/StevenJDH/Ferengi-Rules-of-Acquisition)
 
 The goal of this project is to attempt to create a complete consolidated list of all the known [Ferengi Rules of Acquisition](https://en.wikipedia.org/wiki/Rules_of_Acquisition), which as stated in "[The Maquis, Part I](https://memory-beta.fandom.com/wiki/The_Maquis,_Part_I)" (DS9 episode), "Every Ferengi business transaction is governed by 285 Rules of Acquisition to ensure a fair and honest deal for all parties concerned. Well, most of them, anyway."
@@ -147,6 +147,23 @@ The goal of this project is to attempt to create a complete consolidated list of
 |255          | A wife is luxury... a smart accountant a necessity.                 | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
 |257          | When the messenger comes to appropriate your profits, kill the messenger. | "[False Profits](https://memory-beta.fandom.com/wiki/False_Profits)" (VOY episode) |
 |261          | A wealthy man can afford anything except a conscience.              | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
+|263          | Never allow doubt to tarnish your lust for latinum.                 | "[Bar Association](https://memory-beta.fandom.com/wiki/Bar_Association)" (DS9 episode) |
+|266          | When in doubt, lie.                                                 | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
+|267          | If you believe it, they believe it.                                 | [Taking Wing](https://memory-beta.fandom.com/wiki/Taking_Wing) (DS9 novel)      |
+|272          | Always inspect the merchandise before making a deal.                | [Star Trek Online](https://memory-beta.fandom.com/wiki/Star_Trek_Online)        |
+|280          | If it ain't broke, don't fix it.                                    | [Ferenginar: Satisfaction is Not Guaranteed](https://memory-beta.fandom.com/wiki/Ferenginar:_Satisfaction_is_Not_Guaranteed) (DS9 novella) |
+|284          | Deep down, everyone's a Ferengi.                                    | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
+|285          | No good deed ever goes unpunished.                                  | "[The Collaborator](https://memory-beta.fandom.com/wiki/The_Collaborator)" (DS9 episode) |
+|287          | Always get somebody else to do the lifting.                         | "[N-Vector](https://memory-beta.fandom.com/wiki/N-Vector)" (DS9 comic)          |
+|288          | Never get into anything that you can't get out of.                  | "[N-Vector](https://memory-beta.fandom.com/wiki/N-Vector)" (DS9 comic)          |
+|289          | A man is only worth the sum of his possessions.                     | "[Acquisition](https://memory-beta.fandom.com/wiki/Acquisition)" (ENT episode)  |
+|290          | An angry man is an enemy, and a satisfied man is an ally.           | [Antimatter](https://memory-beta.fandom.com/wiki/Antimatter) (DS9 novel)        |
+|291          | The less employees know about the cash flow, the smaller the share they can demand. | [Betrayal](https://memory-beta.fandom.com/wiki/Betrayal) (DS9 novel) |
+|292          | Only a fool passes up a business opportunity.                       | [Elite Force II](https://memory-beta.fandom.com/wiki/Elite_Force_II) (DS9 game) |
+|293          | The more time they take deciding, the more money they will spend.   | [Stowaways](https://memory-beta.fandom.com/wiki/Stowaways) (DS9 novel)          |
+|294          | A bargain usually isn't.                                            | [The Pet](https://memory-beta.fandom.com/wiki/The_Pet) (DS9 novel)              |
+|299          | Whenever you exploit someone, it never hurts to thank them... That way it's easier to exploit them the next time. | "[False Profits](https://memory-beta.fandom.com/wiki/False_Profits)" (VOY episode) |
+|431          | When the shooting starts, let the mercenaries handle it!            | [Star Trek Online](https://memory-beta.fandom.com/wiki/Star_Trek_Online) Mission: "Echoes of Light" |
 
 ## Disclaimer
 The opinions and views expressed here are NOT the author's own and do not reflect the views of any party involved. While the collection contains material that may be considered prejudiced, stereotyped, or offensive, it should be remembered that this is only a fictional work from the Star Trek universe that is only meant to be taken as the business proverbs of the ultra-capitalist race known as the Ferengi. This is distributed in the hope that it will be useful, but without any level of warranty, implied or otherwise.
