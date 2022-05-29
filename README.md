@@ -3,7 +3,7 @@
 ![Maintenance](https://img.shields.io/maintenance/yes/2022)
 ![GitHub](https://img.shields.io/github/license/StevenJDH/Ferengi-Rules-of-Acquisition)
 
-The goal of this project is to attempt to create a complete consolidated list of all the known [Ferengi Rules of Acquisition](https://en.wikipedia.org/wiki/Rules_of_Acquisition), which as stated in "[The Maquis, Part I](https://memory-beta.fandom.com/wiki/The_Maquis,_Part_I)" (DS9 episode), "Every Ferengi business transaction is governed by 285 Rules of Acquisition to ensure a fair and honest deal for all parties concerned. Well, most of them, anyway."
+The goal of this project is to attempt to create a complete consolidated list of all the known [Ferengi Rules of Acquisition](https://en.wikipedia.org/wiki/Rules_of_Acquisition), which as stated in "[The Maquis, Part I](https://memory-beta.fandom.com/wiki/The_Maquis,_Part_I)" (DS9 episode), "Every Ferengi business transaction is governed by 285+ Rules of Acquisition to ensure a fair and honest deal for all parties concerned. Well, most of them, anyway."
 
 [![Buy me a coffee](https://img.shields.io/static/v1?label=Buy%20me%20a&message=coffee&color=important&style=flat&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/stevenjdh)
 
@@ -162,8 +162,12 @@ The goal of this project is to attempt to create a complete consolidated list of
 |292          | Only a fool passes up a business opportunity.                       | [Elite Force II](https://memory-beta.fandom.com/wiki/Elite_Force_II) (DS9 game) |
 |293          | The more time they take deciding, the more money they will spend.   | [Stowaways](https://memory-beta.fandom.com/wiki/Stowaways) (DS9 novel)          |
 |294          | A bargain usually isn't.                                            | [The Pet](https://memory-beta.fandom.com/wiki/The_Pet) (DS9 novel)              |
-|299          | Whenever you exploit someone, it never hurts to thank them... That way it's easier to exploit them the next time. | "[False Profits](https://memory-beta.fandom.com/wiki/False_Profits)" (VOY episode) |
+|299          | Whenever you exploit someone, it never hurts to thank them... that way it's easier to exploit them the next time. | "[False Profits](https://memory-beta.fandom.com/wiki/False_Profits)" (VOY episode) |
 |431          | When the shooting starts, let the mercenaries handle it!            | [Star Trek Online](https://memory-beta.fandom.com/wiki/Star_Trek_Online) Mission: "Echoes of Light" |
+
+> 📜**Invoking the unwritten rule:**
+> 
+> When no appropriate rule applies... make one up. — "[False Profits](https://memory-beta.fandom.com/wiki/False_Profits)" (VOY episode)
 
 ## Disclaimer
 The opinions and views expressed here are NOT the author's own and do not reflect the views of any party involved. While the collection contains material that may be considered prejudiced, stereotyped, or offensive, it should be remembered that this is only a fictional work from the Star Trek universe that is only meant to be taken as the business proverbs of the ultra-capitalist race known as the Ferengi. This is distributed in the hope that it will be useful, but without any level of warranty, implied or otherwise.
