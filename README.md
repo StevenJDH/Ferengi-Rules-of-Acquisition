@@ -169,6 +169,16 @@ The goal of this project is to attempt to create a complete consolidated list of
 > 
 > When no appropriate rule applies... make one up. — "[False Profits](https://memory-beta.fandom.com/wiki/False_Profits)" (VOY episode)
 
+## The Five Stages of Acquisition
+
+1. Infatuation
+2. Justification
+3. Appropriation
+4. Obsession
+5. Resale
+
+Source: "[Alice](https://memory-alpha.fandom.com/wiki/Alice_(episode))" (VOY episode)
+
 ## Disclaimer
 The opinions and views expressed here are NOT the author's own and do not reflect the views of any party involved. While the collection contains material that may be considered prejudiced, stereotyped, or offensive, it should be remembered that this is only a fictional work from the Star Trek universe that is only meant to be taken as the business proverbs of the ultra-capitalist race known as the Ferengi. This is distributed in the hope that it will be useful, but without any level of warranty, implied or otherwise.
 
