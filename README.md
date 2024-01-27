@@ -1,6 +1,6 @@
 # Ferengi Rules of Acquisition
 
-![Maintenance](https://img.shields.io/maintenance/yes/2022)
+![Maintenance](https://img.shields.io/maintenance/yes/2024)
 ![GitHub](https://img.shields.io/github/license/StevenJDH/Ferengi-Rules-of-Acquisition)
 
 The goal of this project is to attempt to create a complete consolidated list of all the known [Ferengi Rules of Acquisition](https://en.wikipedia.org/wiki/Rules_of_Acquisition), which as stated in "[The Maquis, Part I](https://memory-beta.fandom.com/wiki/The_Maquis,_Part_I)" (DS9 episode), "Every Ferengi business transaction is governed by 285+ Rules of Acquisition to ensure a fair and honest deal for all parties concerned. Well, most of them, anyway."
@@ -165,8 +165,8 @@ The goal of this project is to attempt to create a complete consolidated list of
 |299          | Whenever you exploit someone, it never hurts to thank them... that way it's easier to exploit them the next time. | "[False Profits](https://memory-beta.fandom.com/wiki/False_Profits)" (VOY episode) |
 |431          | When the shooting starts, let the mercenaries handle it!            | [Star Trek Online](https://memory-beta.fandom.com/wiki/Star_Trek_Online) Mission: "Echoes of Light" |
 
-> 📜**Invoking the unwritten rule:**
-> 
+> [!NOTE]
+> 📜**Invoking the unwritten rule:**\
 > When no appropriate rule applies... make one up. — "[False Profits](https://memory-beta.fandom.com/wiki/False_Profits)" (VOY episode)
 
 ## The Five Stages of Acquisition
@@ -184,17 +184,10 @@ The opinions and views expressed here are NOT the author's own and do not reflec
 
 ## Want to show your support?
 
-|Method       | Address                                                                                                    |
-|------------:|:-----------------------------------------------------------------------------------------------------------|
-|PayPal:      | [https://www.paypal.me/stevenjdh](https://www.paypal.me/stevenjdh "Steven's Paypal Page")                  |
-|Bitcoin:     | 3GyeQvN6imXEHVcdwrZwKHLZNGdnXeDfw2                                                                         |
-|Litecoin:    | MAJtR4ccdyUQtiiBpg9PwF2AZ6Xbk5ioLm                                                                         |
-|Ethereum:    | 0xa62b53c1d49f9C481e20E5675fbffDab2Fcda82E                                                                 |
-|Dash:        | Xw5bDL93fFNHe9FAGHV4hjoGfDpfwsqAAj                                                                         |
-|Zcash:       | t1a2Kr3jFv8WksgPBcMZFwiYM8Hn5QCMAs5                                                                        |
-|PIVX:        | DQq2qeny1TveZDcZFWwQVGdKchFGtzeieU                                                                         |
-|Ripple:      | rLHzPsX6oXkzU2qL12kHCH8G8cnZv1rBJh<br />Destination Tag: 2357564055                                        |
-|Monero:      | 4GdoN7NCTi8a5gZug7PrwZNKjvHFmKeV11L6pNJPgj5QNEHsN6eeX3D<br />&#8618;aAQFwZ1ufD4LYCZKArktt113W7QjWvQ7CWDXrwM8yCGgEdhV3Wt|
+|Method          | Address                                                                                   |
+|---------------:|:------------------------------------------------------------------------------------------|
+|PayPal:         | [https://www.paypal.me/stevenjdh](https://www.paypal.me/stevenjdh "Steven's Paypal Page") |
+|Cryptocurrency: | [Supported options](https://github.com/StevenJDH/StevenJDH/wiki/Donate-Cryptocurrency)    |
 
 
 // Steven Jenkins De Haro ("StevenJDH" on GitHub)
