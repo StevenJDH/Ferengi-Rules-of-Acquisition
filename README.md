@@ -1,5 +1,6 @@
 # Ferengi Rules of Acquisition
 
+[![gh-pages](https://github.com/StevenJDH/Ferengi-Rules-of-Acquisition/actions/workflows/jekyll-gh-pages-workflow.yml/badge.svg?branch=main)](https://github.com/StevenJDH/Ferengi-Rules-of-Acquisition/actions/workflows/jekyll-gh-pages-workflow.yml)
 ![Maintenance](https://img.shields.io/badge/yes-4FCA21?label=maintained&style=flat)
 ![GitHub](https://img.shields.io/github/license/StevenJDH/Ferengi-Rules-of-Acquisition)
 
