@@ -20,7 +20,7 @@ FROM ruby:3.4
 WORKDIR /srv/jekyll
 
 # Copy the Gemfile and install dependencies to use cache for speeding up builds later.
-COPY ./common/Gemfile ./
+COPY ./common/Gemfile ./common/Gemfile.lock* ./
 
 # Install gems.
 RUN gem install bundler && bundle install
