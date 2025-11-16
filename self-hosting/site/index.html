@@ -1,0 +1,33 @@
+---
+layout: default
+title: Ferengi Rules of Acquisition
+---
+
+<div class="centered-image">
+  <img src="{{ '/assets/images/ferengi-cover.jpg' | relative_url }}" alt="Ferengi cover image">
+  <figcaption>Image Source: <a href="https://trekmovie.com/2018/03/21/armin-shimerman-feels-responsible-for-failed-ferengi-introduction-on-star-trek-the-next-generation" target="_blank">TrekMovie.com</a></figcaption>
+</div>
+
+<h2>Consult the Rules</h2>
+
+<div class="filter-bar">
+  <div class="filter-group">
+    <label>
+      <strong>Search:</strong>
+      <input type="text" id="search" placeholder="Type a keyword..." />
+    </label>
+    <label>
+      <strong>Source&nbsp;Type:</strong>
+      <select id="typeFilter">
+        <option value="">All Types</option>
+      </select>
+    </label>
+  </div>
+</div>
+
+<div id="results"></div>
+
+<script>
+  const RULES_JSON_URL = "{{ '/assets/data/rules.json' | relative_url }}";
+</script>
+<script src="{{ '/assets/js/rules-filter.js' | relative_url }}"></script>

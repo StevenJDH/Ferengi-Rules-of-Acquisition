@@ -1,0 +1,14 @@
+title: Ferengi Rules of Acquisition
+theme: jekyll-theme-midnight
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
+  - LICENSE
+  - .gitignore
+  - docker-compose.yaml
+  - Dockerfile
+  - makefile

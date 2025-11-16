@@ -1,0 +1,210 @@
+/* Custom tweaks for Midnight theme */
+body {
+  font-family: system-ui, sans-serif;
+}
+
+#search, #typeFilter {
+  background: #111;
+  color: #ddd;
+  border: 1px solid #444;
+  padding: 0.4rem 0.6rem;
+  border-radius: 4px;
+}
+
+#results a {
+  color: #58a6ff;
+  text-decoration: none;
+}
+#results a:hover {
+  text-decoration: underline;
+}
+
+
+/* =========================
+   Cover image
+   ========================= */
+
+.centered-image {
+  display: flex;                 /* To enable and disable the cover image, set flex or none. */
+  flex-direction: column;        /* stack children vertically */ 
+  justify-content: center; /* horizontal centering */
+  align-items: center;     /* vertical centering within container */
+  margin: 2rem 0;          /* spacing above and below */
+}
+
+.centered-image img {
+  max-width: 100%;         /* responsive: doesn’t overflow container */
+  height: auto;            /* maintains aspect ratio */
+  display: block;          /* removes small inline spacing */
+}
+
+.centered-image figcaption {
+  font-size: 0.9rem;
+  color: #aaa;
+  margin-top: 0.5rem;
+}
+
+/* =========================
+   Filter bar base styles
+   ========================= */
+
+.filter-bar {
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+/* Default (mobile-first): stacked layout */
+.filter-group {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  width: 100%;
+}
+
+/* Each label/input pair stacked by default */
+.filter-bar label {
+  display: flex;
+  flex-direction: column; /* label text above input */
+  align-items: flex-start;
+  width: 100%;
+  gap: 0.25rem;
+}
+
+/* Inputs and dropdowns take full width */
+.filter-bar input[type="text"],
+.filter-bar select {
+  width: 100%;
+  padding: 0.4rem 0.6rem;
+  box-sizing: border-box;
+  border: 1px solid #444;
+  border-radius: 4px;
+  background: #111;
+  color: #ddd;
+}
+
+/* GitHub Header */
+#header {
+  display: none !important;
+}
+
+/* =========================
+   Desktop (side-by-side)
+   ========================= */
+@media (min-width: 768px) {
+  .filter-group {
+    flex-direction: row; /* both filters side by side */
+    align-items: center; /* vertically center them */
+    gap: 1rem;
+  }
+  
+  /* Label flex ratios (adjust as desired) */
+  .filter-group label:nth-child(1) {
+    flex: 0.4; /* Search: 40% */
+  }
+
+  .filter-group label:nth-child(2) {
+    flex: 0.6; /* Source: 60% */
+  }
+
+  .filter-bar label {
+    flex-direction: row; /* label text to the left of input */
+    align-items: center;
+    gap: 0.5rem; /* space between label and input */
+  }
+  
+  #header {
+    display: block !important;
+  }
+}
+
+
+/* ================
+    Custom dropdown arrow
+    ================ */
+
+/* Desktop custom arrow */
+#typeFilter {
+  -webkit-appearance: none;
+  appearance: none;
+
+  background-image: url("data:image/svg+xml;utf8,\
+<svg xmlns='http://www.w3.org/2000/svg' width='22' height='22' viewBox='0 0 15 24' fill='%23d4af37'>\
+<path d='M7 10l5 5 5-5z'/>\
+</svg>");
+  background-repeat: no-repeat;
+  background-position: right 0.6rem center;
+  padding-right: 2rem;
+
+  background-color: #111;
+  border: 1px solid #444;
+  color: #ddd;
+  border-radius: 4px;
+}
+
+/* =========================
+   Ferengi Rules Card Styling
+   ========================= */
+
+/* ===== Rule Group Styling ===== */
+.rule-group {
+  background-color: #1c1c1c;
+  color: #ddd;
+  border-radius: 8px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.5); /* subtle depth */
+  transition: background-color 0.2s ease-in-out, transform 0.2s ease-in-out;
+}
+
+.rule-group:hover {
+  background-color: #222; /* slightly lighter on hover */
+  transform: translateY(-2px); /* subtle lift effect */
+}
+
+/* Rule number heading */
+.rule-group h3 {
+  color: #b6b6b6;
+  margin-top: 0;
+}
+
+
+/* ===== Individual Entry Styling ===== */
+.rule-entry {
+  margin-bottom: 0.5rem;
+}
+
+.rule-entry p {
+  margin: 0.3rem 0;
+}
+
+/* Source paragraph */
+.rule-source {
+  font-size: 0.9rem;
+  color: #aaa;
+}
+
+.rule-source a {
+  color: #58a6ff;
+  text-decoration: none;
+}
+
+.rule-source a:hover {
+  text-decoration: underline;
+}
+
+/* Divider between entries */
+.rule-divider {
+  border-color: #444;
+  margin: 0.5rem 0;
+}
+
+/* No matches found message */
+.no-matches {
+  font-style: italic;
+  color: #d4af37; /* gold tone for emphasis */
+  margin-bottom: 1rem;
+  padding: 0.5rem 1rem;
+  border-left: 3px solid #d4af37; /* subtle accent */
+  background-color: #1a1a1a; /* slightly lighter than page background */
+  border-radius: 4px;
+}
