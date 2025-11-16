@@ -1,0 +1,17 @@
+services:
+  jekyll:
+    build:
+      context: ..
+      dockerfile: ./local/Dockerfile
+    container_name: ferengi
+    ports:
+      - "4000:4000"    # Mapping for Jekyll's web server.
+      - "35729:35729"  # Mapping for live reload.
+    entrypoint: |
+      sh -c '
+        bundle exec jekyll clean &&
+        bundle exec jekyll serve --host 0.0.0.0 --livereload --force_polling --verbose
+      '
+    volumes:
+      - ../site:/srv/jekyll
+      - ../common/Gemfile:/srv/jekyll/Gemfile
