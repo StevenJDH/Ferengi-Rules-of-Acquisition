@@ -6,11 +6,13 @@ on:
       - main
     paths:
       - 'self-hosting/site/**'
+      - '!self-hosting/site/.gitignore'
   pull_request:
     branches:
       - main
     paths:
       - 'self-hosting/site/**'
+      - '!self-hosting/site/.gitignore'
   workflow_dispatch:
     inputs:
       reason:
