@@ -2,9 +2,9 @@ DOCKER=docker
 DOCKER_COMPOSE=docker-compose
 PROJECT_NAME=ferengi
 
-# Default target
+# Default target.
 .PHONY: all
-all: start
+all: start logs
 
 # Start Docker Compose services. Pass clean=1 (e.g. make start clean=1) to do it without cached layers.
 .PHONY: start
