@@ -4,7 +4,7 @@
 ![Maintenance](https://img.shields.io/badge/yes-4FCA21?label=maintained&style=flat)
 ![GitHub](https://img.shields.io/github/license/StevenJDH/Ferengi-Rules-of-Acquisition)
 
-In this self-hosting section of the repository, there are two container-based projects that serve very distinct purposes. The first is for local development, which is useful for testing changes in the Jekyll site code. The second is for building a standalone microservice that has been optimized for size and performance. This standalone release can be ran from anywhere that supports containers, like Kubernetes. Regardless of what project is used, both will help create a GitHub Pages like environment outside of GitHub.
+In this self-hosting section of the repository, there are two container-based projects that serve very distinct purposes. The first is for local development, which is useful for testing changes in the Jekyll site code. The second is for building a standalone microservice that has been optimized for size and performance. This standalone release can run anywhere containers are supported, for example, Kubernetes. Regardless of what project is used, both can help with creating a GitHub Pages-like environment outside of GitHub. In addition, the JSON data powering these projects is available for integration with external REST services, as discussed further below.
 
 [![Buy me a coffee](https://img.shields.io/static/v1?label=Buy%20me%20a&message=coffee&color=important&style=flat&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/stevenjdh)
 
@@ -69,81 +69,81 @@ External REST services that want to integrate with the Ferengi Rules of Acquisit
 https://raw.githubusercontent.com/StevenJDH/Ferengi-Rules-of-Acquisition/refs/heads/main/self-hosting/site/assets/data/rules.json
 ```
 
-**JSON Schema**
+**JSON Schema:**
 
 ```json
 {
-	"$schema": "https://json-schema.org/draft/2020-12/schema",
-	"title": "Ferengi Rules of Acquisition",
-	"description": "A complete consolidated list of all the known Ferengi Rules of Acquisition from the Star Trek universe.",
-	"type": "array",
-	"minItems": 0,
-	"uniqueItems": true,
-	"items": {
-		"$ref": "#/$defs/RuleGroup"
-	},
-	"$defs": {
-		"RuleGroup": {
-			"type": "object",
-			"properties": {
-				"Number": {
-					"type": "number"
-				},
-				"Entries": {
-					"title": "Entries",
-					"type": "array",
-					"minItems": 1,
-					"items": {
-						"$ref": "#/$defs/RuleEntry"
-					}
-				}
-			},
-			"required": [
-				"Number",
-				"Entries"
-			],
-			"additionalProperties": false
-		},
-		"RuleEntry": {
-			"type": "object",
-			"properties": {
-				"Rule": {
-					"type": "string"
-				},
-				"SourceDisplayName": {
-					"type": "string"
-				},
-				"SourceURL": {
-					"type": "string",
-					"anyOf": [
-						{
-							"type": "string",
-							"format": "uri"
-						},
-						{
-							"type": "null"
-						}
-					]
-				},
-				"SourceType": {
-					"type": "string",
-					"anyOf": [
-						{
-							"type": "string"
-						},
-						{
-							"type": "null"
-						}
-					]
-				}
-			},
-			"required": [
-				"Rule",
-				"SourceDisplayName"
-			],
-			"additionalProperties": false
-		}
-	}
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "Ferengi Rules of Acquisition",
+    "description": "A complete consolidated list of all the known Ferengi Rules of Acquisition from the Star Trek universe.",
+    "type": "array",
+    "minItems": 0,
+    "uniqueItems": true,
+    "items": {
+        "$ref": "#/$defs/RuleGroup"
+    },
+    "$defs": {
+        "RuleGroup": {
+            "type": "object",
+            "properties": {
+                "Number": {
+                    "type": "number"
+                },
+                "Entries": {
+                    "title": "Entries",
+                    "type": "array",
+                    "minItems": 1,
+                    "items": {
+                        "$ref": "#/$defs/RuleEntry"
+                    }
+                }
+            },
+            "required": [
+                "Number",
+                "Entries"
+            ],
+            "additionalProperties": false
+        },
+        "RuleEntry": {
+            "type": "object",
+            "properties": {
+                "Rule": {
+                    "type": "string"
+                },
+                "SourceDisplayName": {
+                    "type": "string"
+                },
+                "SourceURL": {
+                    "type": "string",
+                    "anyOf": [
+                        {
+                            "type": "string",
+                            "format": "uri"
+                        },
+                        {
+                            "type": "null"
+                        }
+                    ]
+                },
+                "SourceType": {
+                    "type": "string",
+                    "anyOf": [
+                        {
+                            "type": "string"
+                        },
+                        {
+                            "type": "null"
+                        }
+                    ]
+                }
+            },
+            "required": [
+                "Rule",
+                "SourceDisplayName"
+            ],
+            "additionalProperties": false
+        }
+    }
 }
 ```
 
