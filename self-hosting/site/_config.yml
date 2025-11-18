@@ -1,7 +1,22 @@
 title: Ferengi Rules of Acquisition
+shortname: Ferengi Rules
 description: A complete consolidated list of all the known Ferengi Rules of Acquisition from the Star Trek universe.
 tagline: Star Trek Universe
 theme: jekyll-theme-midnight
+
+author:
+  name: Steven Jenkins De Haro
+  twitter: steventhecoder
+  url: https://github.com/StevenJDH
+
+twitter:
+  username: steventhecoder
+  card: summary_large_image
+
+social:
+  links:
+    - https://twitter.com/steventhecoder
+    - https://github.com/StevenJDH
 
 exclude:
   - Gemfile

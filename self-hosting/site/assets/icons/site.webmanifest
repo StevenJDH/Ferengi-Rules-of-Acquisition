@@ -1,19 +1,23 @@
+---
+---
 {
-  "name": "Ferengi Rules",
-  "short_name": "Rules",
+  "name": "{{ page.title | default: site.title }}",
+  "short_name": "{{ site.shortname | default: site.title }}",
+  "description": "{{ page.description | default: site.description }}",
   "icons": [
     {
-      "src": "/assets/icons/favicon-192.png",
+      "src": "{{ '/assets/icons/favicon-192.png' | relative_url }}",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/assets/icons/favicon-512.png",
+      "src": "{{ '/assets/icons/favicon-512.png' | relative_url }}",
       "sizes": "512x512",
       "type": "image/png"
     }
   ],
   "theme_color": "#111111",
   "background_color": "#111111",
-  "display": "standalone"
+  "display": "standalone",
+  "start_url": "{{ site.baseurl }}/"
 }
