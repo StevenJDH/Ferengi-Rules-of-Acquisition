@@ -19,7 +19,6 @@
 <meta name="theme-color" content="#111111">
 <!-- Open Graph for social media extras -->
 <meta property="og:site_name" content="{{ page.title | default: site.title }}{% if site.tagline %} | {{ site.tagline }}{% endif %}" /><!-- override -->
-<meta property="og:image" content="{{ '/assets/icons/social-preview.png' | relative_url }}">
 <!-- Twitter extras -->
 <meta name="twitter:domain" content="stevenjdh.github.io">
 <meta name="twitter:url" content="{{ page.url | absolute_url }}">
@@ -27,7 +26,7 @@
 <!-- Google / Search Engines -->
 <meta itemprop="name" content="{{ page.title | default: site.title }}"/>
 <meta itemprop="description" content="{{ page.description | default: site.description }}">
-<meta itemprop="image" content="{{ '/assets/icons/social-preview.png' | relative_url }}">
+<meta itemprop="image" content="{{ '/assets/icons/social-preview.png' | absolute_url }}">
 <!-- General -->
 <meta name="keywords" content="star-trek, ferengi, rules-of-acquisition">
 <meta name="robots" content="index, follow">
