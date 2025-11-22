@@ -18,6 +18,9 @@ social:
     - https://twitter.com/steventhecoder
     - https://github.com/StevenJDH
 
+webmaster_verifications:
+  google: wEH3mXyWNAVSTO5yGEheye_nM9FC8mjawJB-JlzYsdw
+
 exclude:
   - Gemfile
   - Gemfile.lock
