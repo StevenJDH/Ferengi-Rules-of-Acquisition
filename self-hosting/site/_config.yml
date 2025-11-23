@@ -21,6 +21,9 @@ social:
 webmaster_verifications:
   google: wEH3mXyWNAVSTO5yGEheye_nM9FC8mjawJB-JlzYsdw
 
+plugins:
+  - jekyll-sitemap
+
 exclude:
   - Gemfile
   - Gemfile.lock
