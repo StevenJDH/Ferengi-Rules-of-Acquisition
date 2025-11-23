@@ -15,7 +15,7 @@ In this self-hosting section of the repository, there are two container-based pr
 * Run locally for testing and development with support for Live Reload.
 * Run as a standalone, highly optimized microservice in Kubernetes.
 * Uses Open Graph (OG) tags for various social media platform previews.
-* Install to Apple/Android device home screen as a Progressive Web App (PWA).
+* Install to Desktop (Firefox) and to Apple/Android home screen (A2HS) as a Progressive Web App (PWA).
 * Support for browserconfig.xml for Windows tiles and other agents that support it.
 * Structured JSON data for external REST service integration.
 
@@ -110,7 +110,7 @@ https://raw.githubusercontent.com/StevenJDH/Ferengi-Rules-of-Acquisition/refs/he
                 "Rule": {
                     "type": "string"
                 },
-                "SourceDisplayName": {
+                "SourceLabel": {
                     "type": "string"
                 },
                 "SourceURL": {
@@ -139,7 +139,7 @@ https://raw.githubusercontent.com/StevenJDH/Ferengi-Rules-of-Acquisition/refs/he
             },
             "required": [
                 "Rule",
-                "SourceDisplayName"
+                "SourceLabel"
             ],
             "additionalProperties": false
         }

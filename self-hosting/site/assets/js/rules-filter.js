@@ -14,8 +14,8 @@ function render(rules, searchText = '', typeFilter = '') {
     const matches = group.Entries.filter(entry => {
       const matchesSearch =
         entry.Rule.toLowerCase().includes(lowerSearch) ||
-        (entry.SourceDisplayName &&
-          entry.SourceDisplayName.toLowerCase().includes(lowerSearch));
+        (entry.SourceLabel &&
+          entry.SourceLabel.toLowerCase().includes(lowerSearch));
       const matchesType = !typeFilter || (entry.SourceType && entry.SourceType === typeFilter);
       return matchesSearch && matchesType;
     });
@@ -60,8 +60,8 @@ function render(rules, searchText = '', typeFilter = '') {
         <strong>Source:</strong>
         ${
           entry.SourceURL
-            ? `<a href="${entry.SourceURL}" target="_blank">${entry.SourceDisplayName}</a>`
-            : entry.SourceDisplayName
+            ? `<a href="${entry.SourceURL}" target="_blank">${entry.SourceLabel}</a>`
+            : entry.SourceLabel
         }
         ${entry.SourceType ? `(${entry.SourceType})` : ''}
       </p>
