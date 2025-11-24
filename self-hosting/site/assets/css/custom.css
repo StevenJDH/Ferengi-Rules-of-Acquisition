@@ -1,22 +1,13 @@
-/* Custom tweaks for Midnight theme */
+/* =========================
+   Custom theme tweaks
+   ========================= */
+
 body {
   font-family: system-ui, sans-serif;
 }
 
-#search, #typeFilter {
-  background: #111;
-  color: #ddd;
-  border: 1px solid #444;
-  padding: 0.4rem 0.6rem;
-  border-radius: 4px;
-}
-
-#results a {
-  color: #58a6ff;
-  text-decoration: none;
-}
-#results a:hover {
-  text-decoration: underline;
+#header {
+  display: none !important;     /* hide GitHub header on mobile */
 }
 
 
@@ -25,24 +16,26 @@ body {
    ========================= */
 
 .centered-image {
-  display: flex;                 /* To enable and disable the cover image, set flex or none. */
-  flex-direction: column;        /* stack children vertically */ 
-  justify-content: center; /* horizontal centering */
-  align-items: center;     /* vertical centering within container */
-  margin: 2rem 0;          /* spacing above and below */
+  display: flex;                /* to enable and disable the cover image, set flex or none */
+  flex-direction: column;       /* stack children vertically */ 
+  justify-content: center;      /* horizontal centering */
+  align-items: center;          /* vertical centering within container */
+  margin: 2rem 0;               /* spacing above and below */
 }
 
 .centered-image img {
-  max-width: 100%;         /* responsive: doesn’t overflow container */
-  height: auto;            /* maintains aspect ratio */
-  display: block;          /* removes small inline spacing */
+  max-width: 100%;              /* responsive: doesn’t overflow container */
+  height: auto;                 /* maintains aspect ratio */
+  display: block;               /* removes small inline spacing */
 }
 
+/* Cover image caption */
 .centered-image figcaption {
   font-size: 0.9rem;
   color: #aaa;
   margin-top: 0.5rem;
 }
+
 
 /* =========================
    Filter bar base styles
@@ -64,7 +57,7 @@ body {
 /* Each label/input pair stacked by default */
 .filter-bar label {
   display: flex;
-  flex-direction: column; /* label text above input */
+  flex-direction: column;       /* label text above input */
   align-items: flex-start;
   width: 100%;
   gap: 0.25rem;
@@ -82,34 +75,30 @@ body {
   color: #ddd;
 }
 
-/* GitHub Header */
-#header {
-  display: none !important;
-}
 
 /* =========================
    Desktop (side-by-side)
    ========================= */
 @media (min-width: 768px) {
   .filter-group {
-    flex-direction: row; /* both filters side by side */
-    align-items: center; /* vertically center them */
+    flex-direction: row;        /* both filters side by side */
+    align-items: center;        /* vertically center them */
     gap: 1rem;
   }
   
-  /* Label flex ratios (adjust as desired) */
+  /* Label flex ratios */
   .filter-group label:nth-child(1) {
-    flex: 0.4; /* Search: 40% */
+    flex: 0.4;                  /* Search: 40% */
   }
 
   .filter-group label:nth-child(2) {
-    flex: 0.6; /* Source: 60% */
+    flex: 0.6;                  /* Source Type: 60% */
   }
 
   .filter-bar label {
-    flex-direction: row; /* label text to the left of input */
+    flex-direction: row;        /* label text to the left of input */
     align-items: center;
-    gap: 0.5rem; /* space between label and input */
+    gap: 0.5rem;                /* space between label and input */
   }
   
   #header {
@@ -118,19 +107,15 @@ body {
 }
 
 
-/* ================
-    Custom dropdown arrow
-    ================ */
+/* =========================
+   Custom dropdown arrow
+   ========================= */
 
-/* Desktop custom arrow */
 #typeFilter {
   -webkit-appearance: none;
   appearance: none;
 
-  background-image: url("data:image/svg+xml;utf8,\
-<svg xmlns='http://www.w3.org/2000/svg' width='22' height='22' viewBox='0 0 15 24' fill='%23d4af37'>\
-<path d='M7 10l5 5 5-5z'/>\
-</svg>");
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='22' height='22' viewBox='0 0 15 24' fill='%23d4af37'><path d='M7 10l5 5 5-5z'/></svg>");
   background-repeat: no-repeat;
   background-position: right 0.6rem center;
   padding-right: 2rem;
@@ -141,8 +126,9 @@ body {
   border-radius: 4px;
 }
 
+
 /* =========================
-   Ferengi Rules Card Styling
+   Rule Card Styling
    ========================= */
 
 /* ===== Rule Group Styling ===== */
@@ -157,8 +143,8 @@ body {
 }
 
 .rule-group:hover {
-  background-color: #222; /* slightly lighter on hover */
-  transform: translateY(-2px); /* subtle lift effect */
+  background-color: #222;     /* slightly lighter on hover */
+  transform: translateY(-2px);  /* subtle lift effect */
 }
 
 /* Rule number heading */
@@ -166,7 +152,6 @@ body {
   color: #b6b6b6;
   margin-top: 0;
 }
-
 
 /* ===== Individual Entry Styling ===== */
 .rule-entry {
@@ -177,7 +162,7 @@ body {
   margin: 0.3rem 0;
 }
 
-/* Source paragraph */
+/* ===== Source paragraph ===== */
 .rule-source {
   font-size: 0.9rem;
   color: #aaa;
@@ -201,10 +186,10 @@ body {
 /* No matches found message */
 .no-matches {
   font-style: italic;
-  color: #d4af37; /* gold tone for emphasis */
+  color: #d4af37;                 /* gold tone for emphasis */
   margin-bottom: 1rem;
   padding: 0.5rem 1rem;
   border-left: 3px solid #d4af37; /* subtle accent */
-  background-color: #1a1a1a; /* slightly lighter than page background */
+  background-color: #1a1a1a;      /* slightly lighter than page background */
   border-radius: 4px;
 }
