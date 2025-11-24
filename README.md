@@ -12,7 +12,7 @@ The goal of this project is to attempt to create a complete consolidated list of
 |------------:|:--------------------------------------------------------------------|:--------------------------------------------------------------------------------|
 |1            | Once you have their money, you never give it back.                  | "[The Nagus](https://memory-beta.fandom.com/wiki/The_Nagus)" (DS9 episode)      |
 |2            | The best deal is the one that brings the most profit.               | [The 34th Rule](https://memory-beta.fandom.com/wiki/The_34th_Rule) (DS9 novel)  |
-|2            | Money is everything.                                                | [Strange New Worlds 9](https://memory-beta.fandom.com/wiki/Strange_New_Worlds_9): "The Last Tree on Ferenginar: A Ferengi Fable From the Future" |
+|2            | Money is everything.                                                | "[The Last Tree on Ferenginar: A Ferengi Fable From the Future](https://memory-beta.fandom.com/wiki/The_Last_Tree_on_Ferenginar:_A_Ferengi_Fable_From_the_Future)" (DS9 short story) |
 |3            | Never spend more for an acquisition than you have to.               | "[The Maquis, Part II](https://memory-beta.fandom.com/wiki/The_Maquis,_Part_II)" (DS9 episode) |
 |4            | A woman wearing clothes is like a man in the kitchen.               | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
 |5            | Always exaggerate your estimates.                                   | [Cold Fusion](http://memory-beta.wikia.com/wiki/Cold_Fusion) (SCE novel)        |
@@ -63,13 +63,13 @@ The goal of this project is to attempt to create a complete consolidated list of
 |62           | The riskier the road, the greater the profit.                       | "[Rules of Acquisition](https://memory-beta.fandom.com/wiki/Rules_of_Acquisition_(episode))" (DS9 episode) |
 |63           | Work is the best therapy—at least for your employees.               | [Over a Torrent Sea](https://memory-beta.fandom.com/wiki/Over_a_Torrent_Sea) (TTN novel) |
 |65           | Win or lose, there's always Huyperian beetle snuff.                 | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
-|66           | Someone's always got bigger ears.                                   | [What Happens Now](https://memory-beta.fandom.com/wiki/What_Happens_Now) (Star Trek: The Last Generation #3, TNG comic) |
-|68           | Risk doesn't always equal reward.                                   | [Star Trek Online](https://memory-beta.fandom.com/wiki/Star_Trek_Online)        |
+|66           | Someone's always got bigger ears.                                   | [The Last Generation #3: What Happens Now](https://memory-beta.fandom.com/wiki/What_Happens_Now) (TNG comic) |
+|68           | Risk doesn't always equal reward.                                   | [Star Trek Online](https://memory-beta.fandom.com/wiki/Star_Trek_Online) (STO game) |
 |69           | Ferengi are not responsible for the stupidity of other races.       | [Balance of Power](https://memory-beta.fandom.com/wiki/Balance_of_Power) (TNG novel) |
 |74           | Knowledge equals profit.                                            | "[Inside Man](https://memory-beta.fandom.com/wiki/Inside_Man)" (VOY episode)    |
 |75           | Home is where the heart is, but the stars are made of latinum.      | "[Civil Defense](https://memory-beta.fandom.com/wiki/Civil_Defense)" (DS9 episode) |
 |76           | Every once in a while, declare peace. It confuses the hell out of your enemies. | "[The Homecoming](https://memory-beta.fandom.com/wiki/The_Homecoming)" (DS9 episode) |
-|77           | If you break it, I'll charge you for it!                            | [Star Trek Online](https://memory-beta.fandom.com/wiki/Star_Trek_Online)        |
+|77           | If you break it, I'll charge you for it!                            | [Star Trek Online](https://memory-beta.fandom.com/wiki/Star_Trek_Online) (STO game) |
 |79           | Beware of the Vulcan greed for knowledge.                           | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
 |82           | The flimsier the product, the higher the price.                     | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
 |85           | Never let the competition know what you're thinking.                | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
@@ -92,7 +92,7 @@ The goal of this project is to attempt to create a complete consolidated list of
 |104          | Faith moves mountains... of inventory.                              | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
 |106          | There is no honor in poverty.                                       | [Sacraments of Fire](https://memory-beta.fandom.com/wiki/Sacraments_of_Fire) (DS9 novel) |
 |108          | Hope doesn't keep the lights on.                                    | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
-|108          | A woman wearing clothes is like a man without any profits.          | DS9 Novel                                                                       |
+|108          | A woman wearing clothes is like a man without any profits.          | [Star Trek: Deep Space Nine novels](https://memory-alpha.fandom.com/wiki/Star_Trek:_Deep_Space_Nine_(Pocket)) (DS9 novel) |
 |109          | Dignity and an empty sack is worth the sack.                        | "[Rivals](https://memory-beta.fandom.com/wiki/Rivals_(episode))" (DS9 episode)  |
 |110          | Exploitation begins at home.                                        | "[False Profits](https://memory-beta.fandom.com/wiki/False_Profits)" (VOY episode) |
 |111          | Treat people in your debt like family... exploit them.              | "[Past Tense, Part I](https://memory-beta.fandom.com/wiki/Past_Tense,_Part_I)" (DS9 episode) |
@@ -115,33 +115,33 @@ The goal of this project is to attempt to create a complete consolidated list of
 |181          | Not even dishonesty can tarnish the shine of profit.                | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
 |183          | When life hands you ungaberries, make detergent.                    | [Hollow Men](https://memory-beta.fandom.com/wiki/Hollow_Men) (DS9 novel)        |
 |184          | A Ferengi waits to bid until his opponents have exhausted themselves. | [Balance of Power](https://memory-beta.fandom.com/wiki/Balance_of_Power) (TNG novel) |
-|188          | Not even dishonesty can tarnish the shine of profit.                | [Star Trek Online](https://memory-beta.fandom.com/wiki/Star_Trek_Online)        |
+|188          | Not even dishonesty can tarnish the shine of profit.                | [Star Trek Online](https://memory-beta.fandom.com/wiki/Star_Trek_Online) (STO game) |
 |189          | Let others keep their reputation. You keep their money.             | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
 |190          | Hear all, trust nothing.                                            | "[Call to Arms](https://memory-beta.fandom.com/wiki/Call_to_Arms_(episode))" (DS9 episode) |
 |192          | Never cheat a Klingon... unless you're sure you can get away with it. | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
-|193          | Trouble comes in threes.                                            | [Star Trek Online](https://memory-beta.fandom.com/wiki/Star_Trek_Online)        |
+|193          | Trouble comes in threes.                                            | [Star Trek Online](https://memory-beta.fandom.com/wiki/Star_Trek_Online) (STO game) |
 |193          | It's never too late to fire the staff.                              | [Cathedral](https://memory-beta.fandom.com/wiki/Cathedral) (DS9 novel)          |
 |194          | It's always good business to know about new customers before they walk in your door. | "[Whispers](https://memory-beta.fandom.com/wiki/Whispers)" (DS9 episode) |
 |199          | Location, location, location.                                       | [The Soul Key](https://memory-beta.fandom.com/wiki/The_Soul_Key) (DS9 novel)    |
-|200          | A Ferengi chooses no side but his own.                              | [Ferenginar: Satisfaction is Not Guaranteed](https://memory-beta.fandom.com/wiki/Ferenginar:_Satisfaction_is_Not_Guaranteed) (DS9 novel) |
+|200          | A Ferengi chooses no side but his own.                              | [Ferenginar: Satisfaction is Not Guaranteed](https://memory-beta.fandom.com/wiki/Ferenginar:_Satisfaction_is_Not_Guaranteed) (DS9 novella) |
 |202          | The justification for profit is profit.                             | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
 |203          | New customers are like razor-toothed gree worms. They can be succulent, but sometimes they bite back. | "[Little Green Men](https://memory-beta.fandom.com/wiki/Little_Green_Men)" (DS9 episode) |
 |208          | Sometimes, the only thing more dangerous than a question is an answer. | "[Ferengi Love Songs](https://memory-beta.fandom.com/wiki/Ferengi_Love_Songs)" (DS9 episode) |
 |211          | Employees are the rungs on the ladder of success. Don't hesitate to step on them. | "[Bar Association](https://memory-beta.fandom.com/wiki/Bar_Association)" (DS9 episode) |
-|212          | A good lie is easier to believe than the truth.                     | [Star Trek Online](https://memory-beta.fandom.com/wiki/Star_Trek_Online)        |
+|212          | A good lie is easier to believe than the truth.                     | [Star Trek Online](https://memory-beta.fandom.com/wiki/Star_Trek_Online) (STO game) |
 |214          | Never begin a business negotiation on an empty stomach.             | "[The Maquis, Part I](https://memory-beta.fandom.com/wiki/The_Maquis,_Part_I)" (DS9 episode) |
 |216          | Never gamble with a telepath.                                       | [The Laertian Gamble](https://memory-beta.fandom.com/wiki/The_Laertian_Gamble) (DS9 novel) |
 |217          | You can't free a fish from water.                                   | "[Past Tense, Part I](https://memory-beta.fandom.com/wiki/Past_Tense,_Part_I)" (DS9 episode) |
 |217          | Always know what you're buying.                                     | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
-|218          | Sometimes what you get free costs entirely too much.                | [Baby on Board](https://memory-beta.fandom.com/wiki/Baby_on_Board) (DS9 Malibu Comics) |
+|218          | Sometimes what you get free costs entirely too much.                | "[Baby on Board](https://memory-beta.fandom.com/wiki/Baby_on_Board)" (DS9 Malibu Comics) |
 |219          | Possession is eleven-tenths of the law!                             | [Balance of Power](https://memory-beta.fandom.com/wiki/Balance_of_Power) (TNG novel) |
 |223          | Beware the man who doesn't take time for Oo-mox.                    | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
-|227          | If that's what's written, then that's what's written.               | [Star Trek Online](https://memory-beta.fandom.com/wiki/Star_Trek_Online)        |
+|227          | If that's what's written, then that's what's written.               | [Star Trek Online](https://memory-beta.fandom.com/wiki/Star_Trek_Online) (STO game) |
 |229          | Latinum lasts longer than lust.                                     | "[Ferengi Love Songs](https://memory-beta.fandom.com/wiki/Ferengi_Love_Songs)" (DS9 episode) |
 |235          | Duck; death is tall.                                                | [Mission Gamma: Twilight](https://memory-beta.fandom.com/wiki/Twilight_(novel)) (DS9 novel) |
 |236          | You can't buy fate.                                                 | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
 |239          | Never be afraid to mislabel a product.                              | "[Body Parts](https://memory-beta.fandom.com/wiki/Body_Parts)" (DS9 episode)    |
-|240          | Time, like latinum, is a highly limited commodity.                  | [Star Trek Online](https://memory-beta.fandom.com/wiki/Star_Trek_Online)        |
+|240          | Time, like latinum, is a highly limited commodity.                  | [Star Trek Online](https://memory-beta.fandom.com/wiki/Star_Trek_Online) (STO game) |
 |242          | More is good... all is better.                                      | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
 |243          | Always leave yourself an out.                                       | [Sacraments of Fire](https://memory-beta.fandom.com/wiki/Sacraments_of_Fire) (DS9 novel) |
 |248          | The definition of insanity is trying the same failed scheme & expecting different results. | [Department of Temporal Investigations 3: Shield of the Gods, pg. 11](https://memory-beta.fandom.com/wiki/Shield_of_the_Gods) (DS9 e-novella) |
@@ -151,7 +151,7 @@ The goal of this project is to attempt to create a complete consolidated list of
 |263          | Never allow doubt to tarnish your lust for latinum.                 | "[Bar Association](https://memory-beta.fandom.com/wiki/Bar_Association)" (DS9 episode) |
 |266          | When in doubt, lie.                                                 | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
 |267          | If you believe it, they believe it.                                 | [Taking Wing](https://memory-beta.fandom.com/wiki/Taking_Wing) (DS9 novel)      |
-|272          | Always inspect the merchandise before making a deal.                | [Star Trek Online](https://memory-beta.fandom.com/wiki/Star_Trek_Online)        |
+|272          | Always inspect the merchandise before making a deal.                | [Star Trek Online](https://memory-beta.fandom.com/wiki/Star_Trek_Online) (STO game) |
 |280          | If it ain't broke, don't fix it.                                    | [Ferenginar: Satisfaction is Not Guaranteed](https://memory-beta.fandom.com/wiki/Ferenginar:_Satisfaction_is_Not_Guaranteed) (DS9 novella) |
 |284          | Deep down, everyone's a Ferengi.                                    | [The Ferengi Rules of Acquisition](http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition) (DS9 reference book) |
 |285          | No good deed ever goes unpunished.                                  | "[The Collaborator](https://memory-beta.fandom.com/wiki/The_Collaborator)" (DS9 episode) |
@@ -164,7 +164,7 @@ The goal of this project is to attempt to create a complete consolidated list of
 |293          | The more time they take deciding, the more money they will spend.   | [Stowaways](https://memory-beta.fandom.com/wiki/Stowaways) (DS9 novel)          |
 |294          | A bargain usually isn't.                                            | [The Pet](https://memory-beta.fandom.com/wiki/The_Pet) (DS9 novel)              |
 |299          | Whenever you exploit someone, it never hurts to thank them... that way it's easier to exploit them the next time. | "[False Profits](https://memory-beta.fandom.com/wiki/False_Profits)" (VOY episode) |
-|431          | When the shooting starts, let the mercenaries handle it!            | [Star Trek Online](https://memory-beta.fandom.com/wiki/Star_Trek_Online) Mission: "Echoes of Light" |
+|431          | When the shooting starts, let the mercenaries handle it!            | [Mission: Echoes of Light](https://memory-beta.fandom.com/wiki/Echoes_of_Light) (STO game) |
 
 > [!NOTE]
 > 📜**Invoking the unwritten rule:**\

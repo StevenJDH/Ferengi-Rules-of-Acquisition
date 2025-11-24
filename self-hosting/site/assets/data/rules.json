@@ -6,7 +6,7 @@
         "Rule": "Once you have their money, you never give it back.",
         "SourceLabel": "The Nagus",
         "SourceURL": "https://memory-beta.fandom.com/wiki/The_Nagus",
-        "SourceType": null
+        "SourceType": "DS9 episode"
       }
     ]
   },
@@ -21,9 +21,9 @@
       },
       {
         "Rule": "Money is everything.",
-        "SourceLabel": "Strange New Worlds 9",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Strange_New_Worlds_9",
-        "SourceType": null
+        "SourceLabel": "The Last Tree on Ferenginar: A Ferengi Fable From the Future",
+        "SourceURL": "https://memory-beta.fandom.com/wiki/The_Last_Tree_on_Ferenginar:_A_Ferengi_Fable_From_the_Future",
+        "SourceType": "DS9 short story"
       }
     ]
   },
@@ -34,7 +34,7 @@
         "Rule": "Never spend more for an acquisition than you have to.",
         "SourceLabel": "The Maquis, Part II",
         "SourceURL": "https://memory-beta.fandom.com/wiki/The_Maquis,_Part_II",
-        "SourceType": null
+        "SourceType": "DS9 episode"
       }
     ]
   },
@@ -67,7 +67,7 @@
         "Rule": "Never allow family to stand in the way of opportunity.",
         "SourceLabel": "The Nagus",
         "SourceURL": "http://memory-beta.wikia.com/wiki/The_Nagus",
-        "SourceType": null
+        "SourceType": "DS9 episode"
       }
     ]
   },
@@ -78,7 +78,7 @@
         "Rule": "Keep your ears open.",
         "SourceLabel": "In the Hands of the Prophets",
         "SourceURL": "http://memory-beta.wikia.com/wiki/In_the_Hands_of_the_Prophets",
-        "SourceType": null
+        "SourceType": "DS9 episode"
       }
     ]
   },
@@ -100,7 +100,7 @@
         "Rule": "Opportunity plus instinct equals profit.",
         "SourceLabel": "The Storyteller",
         "SourceURL": "http://memory-beta.wikia.com/wiki/The_Storyteller",
-        "SourceType": null
+        "SourceType": "DS9 episode"
       }
     ]
   },
@@ -111,7 +111,7 @@
         "Rule": "Greed is eternal.",
         "SourceLabel": "Prophet Motive",
         "SourceURL": "https://memory-beta.fandom.com/wiki/Prophet_Motive",
-        "SourceType": null
+        "SourceType": "DS9 episode"
       }
     ]
   },
@@ -177,7 +177,7 @@
         "Rule": "A deal is a deal.",
         "SourceLabel": "Melora",
         "SourceURL": "https://memory-alpha.fandom.com/wiki/Melora_(episode",
-        "SourceType": null
+        "SourceType": "DS9 episode"
       },
       {
         "Rule": "A deal is a deal... until a better one comes along.",
@@ -194,7 +194,7 @@
         "Rule": "A contract is a contract is a contract... but only between Ferengi.",
         "SourceLabel": "Body Parts",
         "SourceURL": "http://memory-beta.wikia.com/wiki/Body_Parts",
-        "SourceType": null
+        "SourceType": "DS9 episode"
       }
     ]
   },
@@ -205,7 +205,7 @@
         "Rule": "A Ferengi without profit is no Ferengi at all.",
         "SourceLabel": "Heart of Stone",
         "SourceURL": "https://memory-beta.fandom.com/wiki/Heart_of_Stone",
-        "SourceType": null
+        "SourceType": "DS9 episode"
       }
     ]
   },
@@ -238,7 +238,7 @@
         "Rule": "Never place friendship above profit.",
         "SourceLabel": "Rules of Acquisition",
         "SourceURL": "https://memory-alpha.fandom.com/wiki/Rules_of_Acquisition_(episode",
-        "SourceType": null
+        "SourceType": "DS9 episode"
       }
     ]
   },
@@ -249,7 +249,7 @@
         "Rule": "A wise man can hear profit in the wind.",
         "SourceLabel": "Rules of Acquisition",
         "SourceURL": "https://memory-alpha.fandom.com/wiki/Rules_of_Acquisition_(episode",
-        "SourceType": null
+        "SourceType": "DS9 episode"
       }
     ]
   },
@@ -260,7 +260,7 @@
         "Rule": "Nothing is more important than your health... except for your money.",
         "SourceLabel": "Acquisition",
         "SourceURL": "https://memory-beta.fandom.com/wiki/Acquisition",
-        "SourceType": null
+        "SourceType": "ENT episode"
       }
     ]
   },
@@ -304,7 +304,7 @@
         "Rule": "Never make fun of a Ferengi's mother.",
         "SourceLabel": "The Siege",
         "SourceURL": "https://memory-beta.fandom.com/wiki/The_Siege_(episode",
-        "SourceType": null
+        "SourceType": "DS9 episode"
       },
       {
         "Rule": "Never make fun of a Ferengi's mother... insult something he cares about instead.",
@@ -321,7 +321,7 @@
         "Rule": "It never hurts to suck up to the boss.",
         "SourceLabel": "Rules of Acquisition",
         "SourceURL": "https://memory-alpha.fandom.com/wiki/Rules_of_Acquisition_(episode",
-        "SourceType": null
+        "SourceType": "DS9 episode"
       }
     ]
   },
@@ -332,7 +332,7 @@
         "Rule": "War is good for business.",
         "SourceLabel": "Destiny",
         "SourceURL": "https://memory-beta.fandom.com/wiki/Destiny_(episode",
-        "SourceType": null
+        "SourceType": "DS9 episode"
       }
     ]
   },
@@ -343,7 +343,7 @@
         "Rule": "Peace is good for business.",
         "SourceLabel": "Destiny",
         "SourceURL": "https://memory-beta.fandom.com/wiki/Destiny_(episode",
-        "SourceType": null
+        "SourceType": "DS9 episode"
       }
     ]
   },
@@ -420,7 +420,7 @@
         "Rule": "Expand or die.",
         "SourceLabel": "Acquisition",
         "SourceURL": "https://memory-beta.fandom.com/wiki/Acquisition",
-        "SourceType": null
+        "SourceType": "ENT episode"
       }
     ]
   },
@@ -431,7 +431,7 @@
         "Rule": "Don't trust a man wearing a better suit than your own.",
         "SourceLabel": "Rivals",
         "SourceURL": "https://memory-beta.fandom.com/wiki/Rivals_(episode",
-        "SourceType": null
+        "SourceType": "DS9 episode"
       }
     ]
   },
@@ -442,7 +442,7 @@
         "Rule": "The bigger the smile, the sharper the knife.",
         "SourceLabel": "Rules of Acquisition",
         "SourceURL": "https://memory-alpha.fandom.com/wiki/Rules_of_Acquisition_(episode",
-        "SourceType": null
+        "SourceType": "DS9 episode"
       }
     ]
   },
@@ -497,7 +497,7 @@
         "Rule": "Good customers are as rare as latinum. Treasure them.",
         "SourceLabel": "Armageddon Game",
         "SourceURL": "https://memory-beta.fandom.com/wiki/Armageddon_Game",
-        "SourceType": null
+        "SourceType": "DS9 episode"
       }
     ]
   },
@@ -519,7 +519,7 @@
         "Rule": "Free advice is seldom cheap.",
         "SourceLabel": "Rules of Acquisition",
         "SourceURL": "https://memory-beta.fandom.com/wiki/Rules_of_Acquisition_(episode",
-        "SourceType": null
+        "SourceType": "DS9 episode"
       }
     ]
   },
@@ -541,7 +541,7 @@
         "Rule": "The riskier the road, the greater the profit.",
         "SourceLabel": "Rules of Acquisition",
         "SourceURL": "https://memory-beta.fandom.com/wiki/Rules_of_Acquisition_(episode",
-        "SourceType": null
+        "SourceType": "DS9 episode"
       }
     ]
   },
@@ -572,9 +572,9 @@
     "Entries": [
       {
         "Rule": "Someone's always got bigger ears.",
-        "SourceLabel": "What Happens Now",
+        "SourceLabel": "The Last Generation #3: What Happens Now",
         "SourceURL": "https://memory-beta.fandom.com/wiki/What_Happens_Now",
-        "SourceType": "Star Trek: The Last Generation #3, TNG comic"
+        "SourceType": "TNG comic"
       }
     ]
   },
@@ -585,7 +585,7 @@
         "Rule": "Risk doesn't always equal reward.",
         "SourceLabel": "Star Trek Online",
         "SourceURL": "https://memory-beta.fandom.com/wiki/Star_Trek_Online",
-        "SourceType": null
+        "SourceType": "STO game"
       }
     ]
   },
@@ -607,7 +607,7 @@
         "Rule": "Knowledge equals profit.",
         "SourceLabel": "Inside Man",
         "SourceURL": "https://memory-beta.fandom.com/wiki/Inside_Man",
-        "SourceType": null
+        "SourceType": "VOY episode"
       }
     ]
   },
@@ -618,7 +618,7 @@
         "Rule": "Home is where the heart is, but the stars are made of latinum.",
         "SourceLabel": "Civil Defense",
         "SourceURL": "https://memory-beta.fandom.com/wiki/Civil_Defense",
-        "SourceType": null
+        "SourceType": "DS9 episode"
       }
     ]
   },
@@ -629,7 +629,7 @@
         "Rule": "Every once in a while, declare peace. It confuses the hell out of your enemies.",
         "SourceLabel": "The Homecoming",
         "SourceURL": "https://memory-beta.fandom.com/wiki/The_Homecoming",
-        "SourceType": null
+        "SourceType": "DS9 episode"
       }
     ]
   },
@@ -640,7 +640,7 @@
         "Rule": "If you break it, I'll charge you for it!",
         "SourceLabel": "Star Trek Online",
         "SourceURL": "https://memory-beta.fandom.com/wiki/Star_Trek_Online",
-        "SourceType": null
+        "SourceType": "STO game"
       }
     ]
   },
@@ -718,7 +718,7 @@
         "Rule": "[It is] better to lose some profit and live than lose all profit and die.",
         "SourceLabel": "Best Tools Available",
         "SourceURL": "https://memory-beta.fandom.com/wiki/Best_Tools_Available",
-        "SourceType": null
+        "SourceType": "DS9 short story"
       }
     ]
   },
@@ -740,7 +740,7 @@
         "Rule": "Females and finances don't mix.",
         "SourceLabel": "Ferengi Love Songs",
         "SourceURL": "https://memory-beta.fandom.com/wiki/Ferengi_Love_Songs",
-        "SourceType": null
+        "SourceType": "DS9 episode"
       }
     ]
   },
@@ -751,7 +751,7 @@
         "Rule": "Expand or die.",
         "SourceLabel": "False Profits",
         "SourceURL": "https://memory-beta.fandom.com/wiki/False_Profits",
-        "SourceType": null
+        "SourceType": "VOY episode"
       }
     ]
   },
@@ -773,7 +773,7 @@
         "Rule": "Every man has his price.",
         "SourceLabel": "In the Pale Moonlight",
         "SourceURL": "https://memory-beta.fandom.com/wiki/In_the_Pale_Moonlight",
-        "SourceType": null
+        "SourceType": "DS9 episode"
       },
       {
         "Rule": "If you can't take it with you, don't go.",
@@ -823,7 +823,7 @@
         "Rule": "Nature decays, but latinum lasts forever.",
         "SourceLabel": "The Jem'Hadar",
         "SourceURL": "https://memory-beta.fandom.com/wiki/The_Jem%27Hadar",
-        "SourceType": null
+        "SourceType": "DS9 episode"
       }
     ]
   },
@@ -834,7 +834,7 @@
         "Rule": "Sleep can interfere with opportunity.",
         "SourceLabel": "Rules of Acquisition",
         "SourceURL": "https://memory-beta.fandom.com/wiki/Rules_of_Acquisition_(episode",
-        "SourceType": null
+        "SourceType": "DS9 episode"
       }
     ]
   },
@@ -871,9 +871,9 @@
       },
       {
         "Rule": "A woman wearing clothes is like a man without any profits.",
-        "SourceLabel": "DS9 Novel",
-        "SourceURL": null,
-        "SourceType": null
+        "SourceLabel": "Star Trek: Deep Space Nine novels",
+        "SourceURL": "https://memory-alpha.fandom.com/wiki/Star_Trek:_Deep_Space_Nine_(Pocket)",
+        "SourceType": "DS9 novel"
       }
     ]
   },
@@ -884,7 +884,7 @@
         "Rule": "Dignity and an empty sack is worth the sack.",
         "SourceLabel": "Rivals",
         "SourceURL": "https://memory-beta.fandom.com/wiki/Rivals_(episode",
-        "SourceType": null
+        "SourceType": "DS9 episode"
       }
     ]
   },
@@ -895,7 +895,7 @@
         "Rule": "Exploitation begins at home.",
         "SourceLabel": "False Profits",
         "SourceURL": "https://memory-beta.fandom.com/wiki/False_Profits",
-        "SourceType": null
+        "SourceType": "VOY episode"
       }
     ]
   },
@@ -906,7 +906,7 @@
         "Rule": "Treat people in your debt like family... exploit them.",
         "SourceLabel": "Past Tense, Part I",
         "SourceURL": "https://memory-beta.fandom.com/wiki/Past_Tense,_Part_I",
-        "SourceType": null
+        "SourceType": "DS9 episode"
       }
     ]
   },
@@ -917,7 +917,7 @@
         "Rule": "Never have sex with the boss' sister.",
         "SourceLabel": "Playing God",
         "SourceURL": "https://memory-beta.fandom.com/wiki/Playing_God",
-        "SourceType": null
+        "SourceType": "DS9 episode"
       }
     ]
   },
@@ -972,7 +972,7 @@
         "Rule": "You can't make a deal if you're dead.",
         "SourceLabel": "The Siege of AR-558",
         "SourceURL": "https://memory-beta.fandom.com/wiki/The_Siege_of_AR-558",
-        "SourceType": null
+        "SourceType": "DS9 episode"
       }
     ]
   },
@@ -994,7 +994,7 @@
         "Rule": "Wives serve, brothers inherit.",
         "SourceLabel": "Necessary Evil",
         "SourceURL": "https://memory-beta.fandom.com/wiki/Necessary_Evil_(episode",
-        "SourceType": null
+        "SourceType": "DS9 episode"
       }
     ]
   },
@@ -1049,7 +1049,7 @@
         "Rule": "Sell the sizzle, not the steak.",
         "SourceLabel": "Deep Space Mine",
         "SourceURL": "https://memory-beta.fandom.com/wiki/Deep_Space_Mine",
-        "SourceType": null
+        "SourceType": "DS9 comic"
       }
     ]
   },
@@ -1071,7 +1071,7 @@
         "Rule": "Whisper your way to success.",
         "SourceLabel": "Treachery, Faith, and the Great River",
         "SourceURL": "https://memory-beta.fandom.com/wiki/Treachery,_Faith,_and_the_Great_River",
-        "SourceType": null
+        "SourceType": "DS9 episode"
       }
     ]
   },
@@ -1126,7 +1126,7 @@
         "Rule": "Not even dishonesty can tarnish the shine of profit.",
         "SourceLabel": "Star Trek Online",
         "SourceURL": "https://memory-beta.fandom.com/wiki/Star_Trek_Online",
-        "SourceType": null
+        "SourceType": "STO game"
       }
     ]
   },
@@ -1148,7 +1148,7 @@
         "Rule": "Hear all, trust nothing.",
         "SourceLabel": "Call to Arms",
         "SourceURL": "https://memory-beta.fandom.com/wiki/Call_to_Arms_(episode",
-        "SourceType": null
+        "SourceType": "DS9 episode"
       }
     ]
   },
@@ -1170,7 +1170,7 @@
         "Rule": "Trouble comes in threes.",
         "SourceLabel": "Star Trek Online",
         "SourceURL": "https://memory-beta.fandom.com/wiki/Star_Trek_Online",
-        "SourceType": null
+        "SourceType": "STO game"
       },
       {
         "Rule": "It's never too late to fire the staff.",
@@ -1187,7 +1187,7 @@
         "Rule": "It's always good business to know about new customers before they walk in your door.",
         "SourceLabel": "Whispers",
         "SourceURL": "https://memory-beta.fandom.com/wiki/Whispers",
-        "SourceType": null
+        "SourceType": "DS9 episode"
       }
     ]
   },
@@ -1209,7 +1209,7 @@
         "Rule": "A Ferengi chooses no side but his own.",
         "SourceLabel": "Ferenginar: Satisfaction is Not Guaranteed",
         "SourceURL": "https://memory-beta.fandom.com/wiki/Ferenginar:_Satisfaction_is_Not_Guaranteed",
-        "SourceType": "DS9 novel"
+        "SourceType": "DS9 novella"
       }
     ]
   },
@@ -1231,7 +1231,7 @@
         "Rule": "New customers are like razor-toothed gree worms. They can be succulent, but sometimes they bite back.",
         "SourceLabel": "Little Green Men",
         "SourceURL": "https://memory-beta.fandom.com/wiki/Little_Green_Men",
-        "SourceType": null
+        "SourceType": "DS9 episode"
       }
     ]
   },
@@ -1242,7 +1242,7 @@
         "Rule": "Sometimes, the only thing more dangerous than a question is an answer.",
         "SourceLabel": "Ferengi Love Songs",
         "SourceURL": "https://memory-beta.fandom.com/wiki/Ferengi_Love_Songs",
-        "SourceType": null
+        "SourceType": "DS9 episode"
       }
     ]
   },
@@ -1253,7 +1253,7 @@
         "Rule": "Employees are the rungs on the ladder of success. Don't hesitate to step on them.",
         "SourceLabel": "Bar Association",
         "SourceURL": "https://memory-beta.fandom.com/wiki/Bar_Association",
-        "SourceType": null
+        "SourceType": "DS9 episode"
       }
     ]
   },
@@ -1264,7 +1264,7 @@
         "Rule": "A good lie is easier to believe than the truth.",
         "SourceLabel": "Star Trek Online",
         "SourceURL": "https://memory-beta.fandom.com/wiki/Star_Trek_Online",
-        "SourceType": null
+        "SourceType": "STO game"
       }
     ]
   },
@@ -1275,7 +1275,7 @@
         "Rule": "Never begin a business negotiation on an empty stomach.",
         "SourceLabel": "The Maquis, Part I",
         "SourceURL": "https://memory-beta.fandom.com/wiki/The_Maquis,_Part_I",
-        "SourceType": null
+        "SourceType": "DS9 episode"
       }
     ]
   },
@@ -1297,7 +1297,7 @@
         "Rule": "You can't free a fish from water.",
         "SourceLabel": "Past Tense, Part I",
         "SourceURL": "https://memory-beta.fandom.com/wiki/Past_Tense,_Part_I",
-        "SourceType": null
+        "SourceType": "DS9 episode"
       },
       {
         "Rule": "Always know what you're buying.",
@@ -1347,7 +1347,7 @@
         "Rule": "If that's what's written, then that's what's written.",
         "SourceLabel": "Star Trek Online",
         "SourceURL": "https://memory-beta.fandom.com/wiki/Star_Trek_Online",
-        "SourceType": null
+        "SourceType": "STO game"
       }
     ]
   },
@@ -1358,7 +1358,7 @@
         "Rule": "Latinum lasts longer than lust.",
         "SourceLabel": "Ferengi Love Songs",
         "SourceURL": "https://memory-beta.fandom.com/wiki/Ferengi_Love_Songs",
-        "SourceType": null
+        "SourceType": "DS9 episode"
       }
     ]
   },
@@ -1391,7 +1391,7 @@
         "Rule": "Never be afraid to mislabel a product.",
         "SourceLabel": "Body Parts",
         "SourceURL": "https://memory-beta.fandom.com/wiki/Body_Parts",
-        "SourceType": null
+        "SourceType": "DS9 episode"
       }
     ]
   },
@@ -1402,7 +1402,7 @@
         "Rule": "Time, like latinum, is a highly limited commodity.",
         "SourceLabel": "Star Trek Online",
         "SourceURL": "https://memory-beta.fandom.com/wiki/Star_Trek_Online",
-        "SourceType": null
+        "SourceType": "STO game"
       }
     ]
   },
@@ -1457,7 +1457,7 @@
         "Rule": "When the messenger comes to appropriate your profits, kill the messenger.",
         "SourceLabel": "False Profits",
         "SourceURL": "https://memory-beta.fandom.com/wiki/False_Profits",
-        "SourceType": null
+        "SourceType": "VOY episode"
       }
     ]
   },
@@ -1479,7 +1479,7 @@
         "Rule": "Never allow doubt to tarnish your lust for latinum.",
         "SourceLabel": "Bar Association",
         "SourceURL": "https://memory-beta.fandom.com/wiki/Bar_Association",
-        "SourceType": null
+        "SourceType": "DS9 episode"
       }
     ]
   },
@@ -1512,7 +1512,7 @@
         "Rule": "Always inspect the merchandise before making a deal.",
         "SourceLabel": "Star Trek Online",
         "SourceURL": "https://memory-beta.fandom.com/wiki/Star_Trek_Online",
-        "SourceType": null
+        "SourceType": "STO game"
       }
     ]
   },
@@ -1545,7 +1545,7 @@
         "Rule": "No good deed ever goes unpunished.",
         "SourceLabel": "The Collaborator",
         "SourceURL": "https://memory-beta.fandom.com/wiki/The_Collaborator",
-        "SourceType": null
+        "SourceType": "DS9 episode"
       }
     ]
   },
@@ -1556,7 +1556,7 @@
         "Rule": "Always get somebody else to do the lifting.",
         "SourceLabel": "N-Vector",
         "SourceURL": "https://memory-beta.fandom.com/wiki/N-Vector",
-        "SourceType": null
+        "SourceType": "DS9 comic"
       }
     ]
   },
@@ -1567,7 +1567,7 @@
         "Rule": "Never get into anything that you can't get out of.",
         "SourceLabel": "N-Vector",
         "SourceURL": "https://memory-beta.fandom.com/wiki/N-Vector",
-        "SourceType": null
+        "SourceType": "DS9 comic"
       }
     ]
   },
@@ -1578,7 +1578,7 @@
         "Rule": "A man is only worth the sum of his possessions.",
         "SourceLabel": "Acquisition",
         "SourceURL": "https://memory-beta.fandom.com/wiki/Acquisition",
-        "SourceType": null
+        "SourceType": "ENT episode"
       }
     ]
   },
@@ -1644,7 +1644,7 @@
         "Rule": "Whenever you exploit someone, it never hurts to thank them... that way it's easier to exploit them the next time.",
         "SourceLabel": "False Profits",
         "SourceURL": "https://memory-beta.fandom.com/wiki/False_Profits",
-        "SourceType": null
+        "SourceType": "VOY episode"
       }
     ]
   },
@@ -1653,9 +1653,9 @@
     "Entries": [
       {
         "Rule": "When the shooting starts, let the mercenaries handle it!",
-        "SourceLabel": "Star Trek Online",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Star_Trek_Online",
-        "SourceType": "Mission: \"Echoes of Light"
+        "SourceLabel": "Mission: Echoes of Light",
+        "SourceURL": "https://memory-beta.fandom.com/wiki/Echoes_of_Light",
+        "SourceType": "STO game"
       }
     ]
   }
