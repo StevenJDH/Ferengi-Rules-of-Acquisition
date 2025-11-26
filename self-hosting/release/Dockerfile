@@ -21,7 +21,11 @@ COPY ./site/ .
 ENV PAGES_REPO_NWO=StevenJDH/Ferengi-Rules-of-Acquisition
 
 # Build site into /site/_site
-RUN JEKYLL_ENV=production bundle exec jekyll clean && bundle exec jekyll build
+RUN JEKYLL_ENV=production \
+    sed -i '/^webmaster_verifications:/,/^[^[:space:]]/ {/^webmaster_verifications:/d;/^[[:space:]]/d}' \
+        _config.yml && \
+    bundle exec jekyll clean && \
+    bundle exec jekyll build
 
 # ================================
 #   Stage 2 – Serve with Nginx
