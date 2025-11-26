@@ -1,6 +1,7 @@
 # Ferengi Rules of Acquisition :: Self-Hosting
 
 [![gh-pages](https://github.com/StevenJDH/Ferengi-Rules-of-Acquisition/actions/workflows/jekyll-gh-pages-workflow.yml/badge.svg?branch=main)](https://github.com/StevenJDH/Ferengi-Rules-of-Acquisition/actions/workflows/jekyll-gh-pages-workflow.yml)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fstevenjdh.github.io%2FFerengi-Rules-of-Acquisition%2F&up_message=operational&down_message=malfunction&style=flat&logo=startrek&logoColor=fcdf01)](https://stevenjdh.github.io/Ferengi-Rules-of-Acquisition/)
 ![Maintenance](https://img.shields.io/badge/yes-4FCA21?label=maintained&style=flat)
 ![GitHub](https://img.shields.io/github/license/StevenJDH/Ferengi-Rules-of-Acquisition)
 
@@ -86,11 +87,10 @@ https://raw.githubusercontent.com/StevenJDH/Ferengi-Rules-of-Acquisition/refs/he
         "RuleGroup": {
             "type": "object",
             "properties": {
-                "Number": {
+                "number": {
                     "type": "number"
                 },
-                "Entries": {
-                    "title": "Entries",
+                "entries": {
                     "type": "array",
                     "minItems": 1,
                     "items": {
@@ -99,22 +99,21 @@ https://raw.githubusercontent.com/StevenJDH/Ferengi-Rules-of-Acquisition/refs/he
                 }
             },
             "required": [
-                "Number",
-                "Entries"
+                "number",
+                "entries"
             ],
             "additionalProperties": false
         },
         "RuleEntry": {
             "type": "object",
             "properties": {
-                "Rule": {
+                "rule": {
                     "type": "string"
                 },
-                "SourceLabel": {
+                "sourceLabel": {
                     "type": "string"
                 },
-                "SourceURL": {
-                    "type": "string",
+                "sourceURL": {
                     "anyOf": [
                         {
                             "type": "string",
@@ -125,21 +124,14 @@ https://raw.githubusercontent.com/StevenJDH/Ferengi-Rules-of-Acquisition/refs/he
                         }
                     ]
                 },
-                "SourceType": {
-                    "type": "string",
-                    "anyOf": [
-                        {
-                            "type": "string"
-                        },
-                        {
-                            "type": "null"
-                        }
-                    ]
+                "sourceType": {
+                    "type": "string"
                 }
             },
             "required": [
-                "Rule",
-                "SourceLabel"
+                "rule",
+                "sourceLabel",
+                "sourceType"
             ],
             "additionalProperties": false
         }

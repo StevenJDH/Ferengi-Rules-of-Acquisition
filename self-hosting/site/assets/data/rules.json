@@ -1,1661 +1,1661 @@
 [
   {
-    "Number": 1,
-    "Entries": [
+    "number": 1,
+    "entries": [
       {
-        "Rule": "Once you have their money, you never give it back.",
-        "SourceLabel": "The Nagus",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/The_Nagus",
-        "SourceType": "DS9 episode"
+        "rule": "Once you have their money, you never give it back.",
+        "sourceLabel": "The Nagus",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/The_Nagus",
+        "sourceType": "DS9 episode"
       }
     ]
   },
   {
-    "Number": 2,
-    "Entries": [
+    "number": 2,
+    "entries": [
       {
-        "Rule": "The best deal is the one that brings the most profit.",
-        "SourceLabel": "The 34th Rule",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/The_34th_Rule",
-        "SourceType": "DS9 novel"
+        "rule": "The best deal is the one that brings the most profit.",
+        "sourceLabel": "The 34th Rule",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/The_34th_Rule",
+        "sourceType": "DS9 novel"
       },
       {
-        "Rule": "Money is everything.",
-        "SourceLabel": "The Last Tree on Ferenginar: A Ferengi Fable From the Future",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/The_Last_Tree_on_Ferenginar:_A_Ferengi_Fable_From_the_Future",
-        "SourceType": "DS9 short story"
+        "rule": "Money is everything.",
+        "sourceLabel": "The Last Tree on Ferenginar: A Ferengi Fable From the Future",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/The_Last_Tree_on_Ferenginar:_A_Ferengi_Fable_From_the_Future",
+        "sourceType": "DS9 short story"
       }
     ]
   },
   {
-    "Number": 3,
-    "Entries": [
+    "number": 3,
+    "entries": [
       {
-        "Rule": "Never spend more for an acquisition than you have to.",
-        "SourceLabel": "The Maquis, Part II",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/The_Maquis,_Part_II",
-        "SourceType": "DS9 episode"
+        "rule": "Never spend more for an acquisition than you have to.",
+        "sourceLabel": "The Maquis, Part II",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/The_Maquis,_Part_II",
+        "sourceType": "DS9 episode"
       }
     ]
   },
   {
-    "Number": 4,
-    "Entries": [
+    "number": 4,
+    "entries": [
       {
-        "Rule": "A woman wearing clothes is like a man in the kitchen.",
-        "SourceLabel": "The Ferengi Rules of Acquisition",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
-        "SourceType": "DS9 reference book"
+        "rule": "A woman wearing clothes is like a man in the kitchen.",
+        "sourceLabel": "The Ferengi Rules of Acquisition",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
+        "sourceType": "DS9 reference book"
       }
     ]
   },
   {
-    "Number": 5,
-    "Entries": [
+    "number": 5,
+    "entries": [
       {
-        "Rule": "Always exaggerate your estimates.",
-        "SourceLabel": "Cold Fusion",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/Cold_Fusion",
-        "SourceType": "SCE novel"
+        "rule": "Always exaggerate your estimates.",
+        "sourceLabel": "Cold Fusion",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/Cold_Fusion",
+        "sourceType": "SCE novel"
       }
     ]
   },
   {
-    "Number": 6,
-    "Entries": [
+    "number": 6,
+    "entries": [
       {
-        "Rule": "Never allow family to stand in the way of opportunity.",
-        "SourceLabel": "The Nagus",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/The_Nagus",
-        "SourceType": "DS9 episode"
+        "rule": "Never allow family to stand in the way of opportunity.",
+        "sourceLabel": "The Nagus",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/The_Nagus",
+        "sourceType": "DS9 episode"
       }
     ]
   },
   {
-    "Number": 7,
-    "Entries": [
+    "number": 7,
+    "entries": [
       {
-        "Rule": "Keep your ears open.",
-        "SourceLabel": "In the Hands of the Prophets",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/In_the_Hands_of_the_Prophets",
-        "SourceType": "DS9 episode"
+        "rule": "Keep your ears open.",
+        "sourceLabel": "In the Hands of the Prophets",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/In_the_Hands_of_the_Prophets",
+        "sourceType": "DS9 episode"
       }
     ]
   },
   {
-    "Number": 8,
-    "Entries": [
+    "number": 8,
+    "entries": [
       {
-        "Rule": "Small print leads to large risk.",
-        "SourceLabel": "The Ferengi Rules of Acquisition",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
-        "SourceType": "DS9 reference book"
+        "rule": "Small print leads to large risk.",
+        "sourceLabel": "The Ferengi Rules of Acquisition",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
+        "sourceType": "DS9 reference book"
       }
     ]
   },
   {
-    "Number": 9,
-    "Entries": [
+    "number": 9,
+    "entries": [
       {
-        "Rule": "Opportunity plus instinct equals profit.",
-        "SourceLabel": "The Storyteller",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/The_Storyteller",
-        "SourceType": "DS9 episode"
+        "rule": "Opportunity plus instinct equals profit.",
+        "sourceLabel": "The Storyteller",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/The_Storyteller",
+        "sourceType": "DS9 episode"
       }
     ]
   },
   {
-    "Number": 10,
-    "Entries": [
+    "number": 10,
+    "entries": [
       {
-        "Rule": "Greed is eternal.",
-        "SourceLabel": "Prophet Motive",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Prophet_Motive",
-        "SourceType": "DS9 episode"
+        "rule": "Greed is eternal.",
+        "sourceLabel": "Prophet Motive",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Prophet_Motive",
+        "sourceType": "DS9 episode"
       }
     ]
   },
   {
-    "Number": 11,
-    "Entries": [
+    "number": 11,
+    "entries": [
       {
-        "Rule": "Even if it's free, you can always buy it cheaper.",
-        "SourceLabel": "The Ferengi Rules of Acquisition",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
-        "SourceType": "DS9 reference book"
+        "rule": "Even if it's free, you can always buy it cheaper.",
+        "sourceLabel": "The Ferengi Rules of Acquisition",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
+        "sourceType": "DS9 reference book"
       }
     ]
   },
   {
-    "Number": 12,
-    "Entries": [
+    "number": 12,
+    "entries": [
       {
-        "Rule": "Anything worth selling is worth selling twice.",
-        "SourceLabel": "The Ferengi Rules of Acquisition",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
-        "SourceType": "DS9 reference book"
+        "rule": "Anything worth selling is worth selling twice.",
+        "sourceLabel": "The Ferengi Rules of Acquisition",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
+        "sourceType": "DS9 reference book"
       }
     ]
   },
   {
-    "Number": 13,
-    "Entries": [
+    "number": 13,
+    "entries": [
       {
-        "Rule": "Anything worth doing is worth doing for money.",
-        "SourceLabel": "Legends of the Ferengi",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/Legends_of_the_Ferengi",
-        "SourceType": "DS9 novel"
+        "rule": "Anything worth doing is worth doing for money.",
+        "sourceLabel": "Legends of the Ferengi",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/Legends_of_the_Ferengi",
+        "sourceType": "DS9 novel"
       }
     ]
   },
   {
-    "Number": 14,
-    "Entries": [
+    "number": 14,
+    "entries": [
       {
-        "Rule": "Sometimes the quickest way to find profits is to let them find you.",
-        "SourceLabel": "Fortune of War",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Fortune_of_War",
-        "SourceType": "TTN novel"
+        "rule": "Sometimes the quickest way to find profits is to let them find you.",
+        "sourceLabel": "Fortune of War",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Fortune_of_War",
+        "sourceType": "TTN novel"
       }
     ]
   },
   {
-    "Number": 15,
-    "Entries": [
+    "number": 15,
+    "entries": [
       {
-        "Rule": "Dead men close no deals.",
-        "SourceLabel": "Demons of Air and Darkness",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/Demons_of_Air_and_Darkness",
-        "SourceType": "DS9 novel"
+        "rule": "Dead men close no deals.",
+        "sourceLabel": "Demons of Air and Darkness",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/Demons_of_Air_and_Darkness",
+        "sourceType": "DS9 novel"
       }
     ]
   },
   {
-    "Number": 16,
-    "Entries": [
+    "number": 16,
+    "entries": [
       {
-        "Rule": "A deal is a deal.",
-        "SourceLabel": "Melora",
-        "SourceURL": "https://memory-alpha.fandom.com/wiki/Melora_(episode",
-        "SourceType": "DS9 episode"
+        "rule": "A deal is a deal.",
+        "sourceLabel": "Melora",
+        "sourceURL": "https://memory-alpha.fandom.com/wiki/Melora_(episode",
+        "sourceType": "DS9 episode"
       },
       {
-        "Rule": "A deal is a deal... until a better one comes along.",
-        "SourceLabel": "The Ferengi Rules of Acquisition",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
-        "SourceType": "DS9 reference book"
+        "rule": "A deal is a deal... until a better one comes along.",
+        "sourceLabel": "The Ferengi Rules of Acquisition",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
+        "sourceType": "DS9 reference book"
       }
     ]
   },
   {
-    "Number": 17,
-    "Entries": [
+    "number": 17,
+    "entries": [
       {
-        "Rule": "A contract is a contract is a contract... but only between Ferengi.",
-        "SourceLabel": "Body Parts",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/Body_Parts",
-        "SourceType": "DS9 episode"
+        "rule": "A contract is a contract is a contract... but only between Ferengi.",
+        "sourceLabel": "Body Parts",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/Body_Parts",
+        "sourceType": "DS9 episode"
       }
     ]
   },
   {
-    "Number": 18,
-    "Entries": [
+    "number": 18,
+    "entries": [
       {
-        "Rule": "A Ferengi without profit is no Ferengi at all.",
-        "SourceLabel": "Heart of Stone",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Heart_of_Stone",
-        "SourceType": "DS9 episode"
+        "rule": "A Ferengi without profit is no Ferengi at all.",
+        "sourceLabel": "Heart of Stone",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Heart_of_Stone",
+        "sourceType": "DS9 episode"
       }
     ]
   },
   {
-    "Number": 19,
-    "Entries": [
+    "number": 19,
+    "entries": [
       {
-        "Rule": "Satisfaction is not guaranteed.",
-        "SourceLabel": "Legends of the Ferengi",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/Legends_of_the_Ferengi",
-        "SourceType": "DS9 novel"
+        "rule": "Satisfaction is not guaranteed.",
+        "sourceLabel": "Legends of the Ferengi",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/Legends_of_the_Ferengi",
+        "sourceType": "DS9 novel"
       }
     ]
   },
   {
-    "Number": 20,
-    "Entries": [
+    "number": 20,
+    "entries": [
       {
-        "Rule": "He who dives under the table today lives to profit tomorrow.",
-        "SourceLabel": "Ferenginar: Satisfaction is Not Guaranteed",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Ferenginar:_Satisfaction_is_Not_Guaranteed",
-        "SourceType": "DS9 novella"
+        "rule": "He who dives under the table today lives to profit tomorrow.",
+        "sourceLabel": "Ferenginar: Satisfaction is Not Guaranteed",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Ferenginar:_Satisfaction_is_Not_Guaranteed",
+        "sourceType": "DS9 novella"
       }
     ]
   },
   {
-    "Number": 21,
-    "Entries": [
+    "number": 21,
+    "entries": [
       {
-        "Rule": "Never place friendship above profit.",
-        "SourceLabel": "Rules of Acquisition",
-        "SourceURL": "https://memory-alpha.fandom.com/wiki/Rules_of_Acquisition_(episode",
-        "SourceType": "DS9 episode"
+        "rule": "Never place friendship above profit.",
+        "sourceLabel": "Rules of Acquisition",
+        "sourceURL": "https://memory-alpha.fandom.com/wiki/Rules_of_Acquisition_(episode",
+        "sourceType": "DS9 episode"
       }
     ]
   },
   {
-    "Number": 22,
-    "Entries": [
+    "number": 22,
+    "entries": [
       {
-        "Rule": "A wise man can hear profit in the wind.",
-        "SourceLabel": "Rules of Acquisition",
-        "SourceURL": "https://memory-alpha.fandom.com/wiki/Rules_of_Acquisition_(episode",
-        "SourceType": "DS9 episode"
+        "rule": "A wise man can hear profit in the wind.",
+        "sourceLabel": "Rules of Acquisition",
+        "sourceURL": "https://memory-alpha.fandom.com/wiki/Rules_of_Acquisition_(episode",
+        "sourceType": "DS9 episode"
       }
     ]
   },
   {
-    "Number": 23,
-    "Entries": [
+    "number": 23,
+    "entries": [
       {
-        "Rule": "Nothing is more important than your health... except for your money.",
-        "SourceLabel": "Acquisition",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Acquisition",
-        "SourceType": "ENT episode"
+        "rule": "Nothing is more important than your health... except for your money.",
+        "sourceLabel": "Acquisition",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Acquisition",
+        "sourceType": "ENT episode"
       }
     ]
   },
   {
-    "Number": 27,
-    "Entries": [
+    "number": 27,
+    "entries": [
       {
-        "Rule": "There's nothing more dangerous than an honest businessman.",
-        "SourceLabel": "Legends of the Ferengi",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/Legends_of_the_Ferengi",
-        "SourceType": "DS9 novel"
+        "rule": "There's nothing more dangerous than an honest businessman.",
+        "sourceLabel": "Legends of the Ferengi",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/Legends_of_the_Ferengi",
+        "sourceType": "DS9 novel"
       }
     ]
   },
   {
-    "Number": 29,
-    "Entries": [
+    "number": 29,
+    "entries": [
       {
-        "Rule": "What's in it for me?",
-        "SourceLabel": "Highest Score",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Highest_Score",
-        "SourceType": "DS9 novel"
+        "rule": "What's in it for me?",
+        "sourceLabel": "Highest Score",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Highest_Score",
+        "sourceType": "DS9 novel"
       }
     ]
   },
   {
-    "Number": 30,
-    "Entries": [
+    "number": 30,
+    "entries": [
       {
-        "Rule": "Confidentiality equals profit.",
-        "SourceLabel": "The Badlands, Part IV",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/The_Badlands,_Part_IV",
-        "SourceType": "DS9 novel"
+        "rule": "Confidentiality equals profit.",
+        "sourceLabel": "The Badlands, Part IV",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/The_Badlands,_Part_IV",
+        "sourceType": "DS9 novel"
       }
     ]
   },
   {
-    "Number": 31,
-    "Entries": [
+    "number": 31,
+    "entries": [
       {
-        "Rule": "Never make fun of a Ferengi's mother.",
-        "SourceLabel": "The Siege",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/The_Siege_(episode",
-        "SourceType": "DS9 episode"
+        "rule": "Never make fun of a Ferengi's mother.",
+        "sourceLabel": "The Siege",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/The_Siege_(episode",
+        "sourceType": "DS9 episode"
       },
       {
-        "Rule": "Never make fun of a Ferengi's mother... insult something he cares about instead.",
-        "SourceLabel": "Elite Force II",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Elite_Force_II",
-        "SourceType": "DS9 game"
+        "rule": "Never make fun of a Ferengi's mother... insult something he cares about instead.",
+        "sourceLabel": "Elite Force II",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Elite_Force_II",
+        "sourceType": "DS9 game"
       }
     ]
   },
   {
-    "Number": 33,
-    "Entries": [
+    "number": 33,
+    "entries": [
       {
-        "Rule": "It never hurts to suck up to the boss.",
-        "SourceLabel": "Rules of Acquisition",
-        "SourceURL": "https://memory-alpha.fandom.com/wiki/Rules_of_Acquisition_(episode",
-        "SourceType": "DS9 episode"
+        "rule": "It never hurts to suck up to the boss.",
+        "sourceLabel": "Rules of Acquisition",
+        "sourceURL": "https://memory-alpha.fandom.com/wiki/Rules_of_Acquisition_(episode",
+        "sourceType": "DS9 episode"
       }
     ]
   },
   {
-    "Number": 34,
-    "Entries": [
+    "number": 34,
+    "entries": [
       {
-        "Rule": "War is good for business.",
-        "SourceLabel": "Destiny",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Destiny_(episode",
-        "SourceType": "DS9 episode"
+        "rule": "War is good for business.",
+        "sourceLabel": "Destiny",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Destiny_(episode",
+        "sourceType": "DS9 episode"
       }
     ]
   },
   {
-    "Number": 35,
-    "Entries": [
+    "number": 35,
+    "entries": [
       {
-        "Rule": "Peace is good for business.",
-        "SourceLabel": "Destiny",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Destiny_(episode",
-        "SourceType": "DS9 episode"
+        "rule": "Peace is good for business.",
+        "sourceLabel": "Destiny",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Destiny_(episode",
+        "sourceType": "DS9 episode"
       }
     ]
   },
   {
-    "Number": 37,
-    "Entries": [
+    "number": 37,
+    "entries": [
       {
-        "Rule": "The early investor reaps the most interest.",
-        "SourceLabel": "Reservoir Ferengi",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Reservoir_Ferengi",
-        "SourceType": "ST novella"
+        "rule": "The early investor reaps the most interest.",
+        "sourceLabel": "Reservoir Ferengi",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Reservoir_Ferengi",
+        "sourceType": "ST novella"
       }
     ]
   },
   {
-    "Number": 39,
-    "Entries": [
+    "number": 39,
+    "entries": [
       {
-        "Rule": "Don't tell customers more than they need to know.",
-        "SourceLabel": "Ascendance",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Ascendance",
-        "SourceType": "DS9 novel"
+        "rule": "Don't tell customers more than they need to know.",
+        "sourceLabel": "Ascendance",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Ascendance",
+        "sourceType": "DS9 novel"
       }
     ]
   },
   {
-    "Number": 40,
-    "Entries": [
+    "number": 40,
+    "entries": [
       {
-        "Rule": "She can touch your lobes but never your latinum.",
-        "SourceLabel": "The Ferengi Rules of Acquisition",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
-        "SourceType": "DS9 reference book"
+        "rule": "She can touch your lobes but never your latinum.",
+        "sourceLabel": "The Ferengi Rules of Acquisition",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
+        "sourceType": "DS9 reference book"
       }
     ]
   },
   {
-    "Number": 41,
-    "Entries": [
+    "number": 41,
+    "entries": [
       {
-        "Rule": "Profit is its own reward.",
-        "SourceLabel": "The Ferengi Rules of Acquisition",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
-        "SourceType": "DS9 reference book"
+        "rule": "Profit is its own reward.",
+        "sourceLabel": "The Ferengi Rules of Acquisition",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
+        "sourceType": "DS9 reference book"
       }
     ]
   },
   {
-    "Number": 43,
-    "Entries": [
+    "number": 43,
+    "entries": [
       {
-        "Rule": "Feed your greed, but not enough to choke it.",
-        "SourceLabel": "The Buried Age",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/The_Buried_Age",
-        "SourceType": "TNG novel"
+        "rule": "Feed your greed, but not enough to choke it.",
+        "sourceLabel": "The Buried Age",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/The_Buried_Age",
+        "sourceType": "TNG novel"
       }
     ]
   },
   {
-    "Number": 44,
-    "Entries": [
+    "number": 44,
+    "entries": [
       {
-        "Rule": "Never confuse wisdom with luck.",
-        "SourceLabel": "The Ferengi Rules of Acquisition",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
-        "SourceType": "DS9 reference book"
+        "rule": "Never confuse wisdom with luck.",
+        "sourceLabel": "The Ferengi Rules of Acquisition",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
+        "sourceType": "DS9 reference book"
       }
     ]
   },
   {
-    "Number": 45,
-    "Entries": [
+    "number": 45,
+    "entries": [
       {
-        "Rule": "Expand or die.",
-        "SourceLabel": "Acquisition",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Acquisition",
-        "SourceType": "ENT episode"
+        "rule": "Expand or die.",
+        "sourceLabel": "Acquisition",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Acquisition",
+        "sourceType": "ENT episode"
       }
     ]
   },
   {
-    "Number": 47,
-    "Entries": [
+    "number": 47,
+    "entries": [
       {
-        "Rule": "Don't trust a man wearing a better suit than your own.",
-        "SourceLabel": "Rivals",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Rivals_(episode",
-        "SourceType": "DS9 episode"
+        "rule": "Don't trust a man wearing a better suit than your own.",
+        "sourceLabel": "Rivals",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Rivals_(episode",
+        "sourceType": "DS9 episode"
       }
     ]
   },
   {
-    "Number": 48,
-    "Entries": [
+    "number": 48,
+    "entries": [
       {
-        "Rule": "The bigger the smile, the sharper the knife.",
-        "SourceLabel": "Rules of Acquisition",
-        "SourceURL": "https://memory-alpha.fandom.com/wiki/Rules_of_Acquisition_(episode",
-        "SourceType": "DS9 episode"
+        "rule": "The bigger the smile, the sharper the knife.",
+        "sourceLabel": "Rules of Acquisition",
+        "sourceURL": "https://memory-alpha.fandom.com/wiki/Rules_of_Acquisition_(episode",
+        "sourceType": "DS9 episode"
       }
     ]
   },
   {
-    "Number": 52,
-    "Entries": [
+    "number": 52,
+    "entries": [
       {
-        "Rule": "Never ask when you can take.",
-        "SourceLabel": "The Ferengi Rules of Acquisition",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
-        "SourceType": "DS9 reference book"
+        "rule": "Never ask when you can take.",
+        "sourceLabel": "The Ferengi Rules of Acquisition",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
+        "sourceType": "DS9 reference book"
       }
     ]
   },
   {
-    "Number": 53,
-    "Entries": [
+    "number": 53,
+    "entries": [
       {
-        "Rule": "Never trust anybody taller than you.",
-        "SourceLabel": "Mission Gamma: Twilight",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/Twilight_%28novel%29",
-        "SourceType": "DS9 novel"
+        "rule": "Never trust anybody taller than you.",
+        "sourceLabel": "Mission Gamma: Twilight",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/Twilight_%28novel%29",
+        "sourceType": "DS9 novel"
       }
     ]
   },
   {
-    "Number": 54,
-    "Entries": [
+    "number": 54,
+    "entries": [
       {
-        "Rule": "Rate divided by time equals profit. (Also known as \"The Velocity of Wealth.\")",
-        "SourceLabel": "Raise the Dawn",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Raise_the_Dawn",
-        "SourceType": "Typhon Pact novel"
+        "rule": "Rate divided by time equals profit. (Also known as \"The Velocity of Wealth.\")",
+        "sourceLabel": "Raise the Dawn",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Raise_the_Dawn",
+        "sourceType": "Typhon Pact novel"
       }
     ]
   },
   {
-    "Number": 55,
-    "Entries": [
+    "number": 55,
+    "entries": [
       {
-        "Rule": "Take joy from profit, and profit from joy.",
-        "SourceLabel": "Worlds of Deep Space Nine: Bajor: Fragments and Omens",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Bajor:_Fragments_and_Omens",
-        "SourceType": "DS9 novel"
+        "rule": "Take joy from profit, and profit from joy.",
+        "sourceLabel": "Worlds of Deep Space Nine: Bajor: Fragments and Omens",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Bajor:_Fragments_and_Omens",
+        "sourceType": "DS9 novel"
       }
     ]
   },
   {
-    "Number": 57,
-    "Entries": [
+    "number": 57,
+    "entries": [
       {
-        "Rule": "Good customers are as rare as latinum. Treasure them.",
-        "SourceLabel": "Armageddon Game",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Armageddon_Game",
-        "SourceType": "DS9 episode"
+        "rule": "Good customers are as rare as latinum. Treasure them.",
+        "sourceLabel": "Armageddon Game",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Armageddon_Game",
+        "sourceType": "DS9 episode"
       }
     ]
   },
   {
-    "Number": 58,
-    "Entries": [
+    "number": 58,
+    "entries": [
       {
-        "Rule": "There is no substitute for success.",
-        "SourceLabel": "The Ferengi Rules of Acquisition",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
-        "SourceType": "DS9 reference book"
+        "rule": "There is no substitute for success.",
+        "sourceLabel": "The Ferengi Rules of Acquisition",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
+        "sourceType": "DS9 reference book"
       }
     ]
   },
   {
-    "Number": 59,
-    "Entries": [
+    "number": 59,
+    "entries": [
       {
-        "Rule": "Free advice is seldom cheap.",
-        "SourceLabel": "Rules of Acquisition",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Rules_of_Acquisition_(episode",
-        "SourceType": "DS9 episode"
+        "rule": "Free advice is seldom cheap.",
+        "sourceLabel": "Rules of Acquisition",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Rules_of_Acquisition_(episode",
+        "sourceType": "DS9 episode"
       }
     ]
   },
   {
-    "Number": 60,
-    "Entries": [
+    "number": 60,
+    "entries": [
       {
-        "Rule": "Keep your lies consistent.",
-        "SourceLabel": "The Ferengi Rules of Acquisition",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
-        "SourceType": "DS9 reference book"
+        "rule": "Keep your lies consistent.",
+        "sourceLabel": "The Ferengi Rules of Acquisition",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
+        "sourceType": "DS9 reference book"
       }
     ]
   },
   {
-    "Number": 62,
-    "Entries": [
+    "number": 62,
+    "entries": [
       {
-        "Rule": "The riskier the road, the greater the profit.",
-        "SourceLabel": "Rules of Acquisition",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Rules_of_Acquisition_(episode",
-        "SourceType": "DS9 episode"
+        "rule": "The riskier the road, the greater the profit.",
+        "sourceLabel": "Rules of Acquisition",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Rules_of_Acquisition_(episode",
+        "sourceType": "DS9 episode"
       }
     ]
   },
   {
-    "Number": 63,
-    "Entries": [
+    "number": 63,
+    "entries": [
       {
-        "Rule": "Work is the best therapy—at least for your employees.",
-        "SourceLabel": "Over a Torrent Sea",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Over_a_Torrent_Sea",
-        "SourceType": "TTN novel"
+        "rule": "Work is the best therapy—at least for your employees.",
+        "sourceLabel": "Over a Torrent Sea",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Over_a_Torrent_Sea",
+        "sourceType": "TTN novel"
       }
     ]
   },
   {
-    "Number": 65,
-    "Entries": [
+    "number": 65,
+    "entries": [
       {
-        "Rule": "Win or lose, there's always Huyperian beetle snuff.",
-        "SourceLabel": "The Ferengi Rules of Acquisition",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
-        "SourceType": "DS9 reference book"
+        "rule": "Win or lose, there's always Huyperian beetle snuff.",
+        "sourceLabel": "The Ferengi Rules of Acquisition",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
+        "sourceType": "DS9 reference book"
       }
     ]
   },
   {
-    "Number": 66,
-    "Entries": [
+    "number": 66,
+    "entries": [
       {
-        "Rule": "Someone's always got bigger ears.",
-        "SourceLabel": "The Last Generation #3: What Happens Now",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/What_Happens_Now",
-        "SourceType": "TNG comic"
+        "rule": "Someone's always got bigger ears.",
+        "sourceLabel": "The Last Generation #3: What Happens Now",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/What_Happens_Now",
+        "sourceType": "TNG comic"
       }
     ]
   },
   {
-    "Number": 68,
-    "Entries": [
+    "number": 68,
+    "entries": [
       {
-        "Rule": "Risk doesn't always equal reward.",
-        "SourceLabel": "Star Trek Online",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Star_Trek_Online",
-        "SourceType": "STO game"
+        "rule": "Risk doesn't always equal reward.",
+        "sourceLabel": "Star Trek Online",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Star_Trek_Online",
+        "sourceType": "STO game"
       }
     ]
   },
   {
-    "Number": 69,
-    "Entries": [
+    "number": 69,
+    "entries": [
       {
-        "Rule": "Ferengi are not responsible for the stupidity of other races.",
-        "SourceLabel": "Balance of Power",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Balance_of_Power",
-        "SourceType": "TNG novel"
+        "rule": "Ferengi are not responsible for the stupidity of other races.",
+        "sourceLabel": "Balance of Power",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Balance_of_Power",
+        "sourceType": "TNG novel"
       }
     ]
   },
   {
-    "Number": 74,
-    "Entries": [
+    "number": 74,
+    "entries": [
       {
-        "Rule": "Knowledge equals profit.",
-        "SourceLabel": "Inside Man",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Inside_Man",
-        "SourceType": "VOY episode"
+        "rule": "Knowledge equals profit.",
+        "sourceLabel": "Inside Man",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Inside_Man",
+        "sourceType": "VOY episode"
       }
     ]
   },
   {
-    "Number": 75,
-    "Entries": [
+    "number": 75,
+    "entries": [
       {
-        "Rule": "Home is where the heart is, but the stars are made of latinum.",
-        "SourceLabel": "Civil Defense",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Civil_Defense",
-        "SourceType": "DS9 episode"
+        "rule": "Home is where the heart is, but the stars are made of latinum.",
+        "sourceLabel": "Civil Defense",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Civil_Defense",
+        "sourceType": "DS9 episode"
       }
     ]
   },
   {
-    "Number": 76,
-    "Entries": [
+    "number": 76,
+    "entries": [
       {
-        "Rule": "Every once in a while, declare peace. It confuses the hell out of your enemies.",
-        "SourceLabel": "The Homecoming",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/The_Homecoming",
-        "SourceType": "DS9 episode"
+        "rule": "Every once in a while, declare peace. It confuses the hell out of your enemies.",
+        "sourceLabel": "The Homecoming",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/The_Homecoming",
+        "sourceType": "DS9 episode"
       }
     ]
   },
   {
-    "Number": 77,
-    "Entries": [
+    "number": 77,
+    "entries": [
       {
-        "Rule": "If you break it, I'll charge you for it!",
-        "SourceLabel": "Star Trek Online",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Star_Trek_Online",
-        "SourceType": "STO game"
+        "rule": "If you break it, I'll charge you for it!",
+        "sourceLabel": "Star Trek Online",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Star_Trek_Online",
+        "sourceType": "STO game"
       }
     ]
   },
   {
-    "Number": 79,
-    "Entries": [
+    "number": 79,
+    "entries": [
       {
-        "Rule": "Beware of the Vulcan greed for knowledge.",
-        "SourceLabel": "The Ferengi Rules of Acquisition",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
-        "SourceType": "DS9 reference book"
+        "rule": "Beware of the Vulcan greed for knowledge.",
+        "sourceLabel": "The Ferengi Rules of Acquisition",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
+        "sourceType": "DS9 reference book"
       }
     ]
   },
   {
-    "Number": 82,
-    "Entries": [
+    "number": 82,
+    "entries": [
       {
-        "Rule": "The flimsier the product, the higher the price.",
-        "SourceLabel": "The Ferengi Rules of Acquisition",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
-        "SourceType": "DS9 reference book"
+        "rule": "The flimsier the product, the higher the price.",
+        "sourceLabel": "The Ferengi Rules of Acquisition",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
+        "sourceType": "DS9 reference book"
       }
     ]
   },
   {
-    "Number": 85,
-    "Entries": [
+    "number": 85,
+    "entries": [
       {
-        "Rule": "Never let the competition know what you're thinking.",
-        "SourceLabel": "The Ferengi Rules of Acquisition",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
-        "SourceType": "DS9 reference book"
+        "rule": "Never let the competition know what you're thinking.",
+        "sourceLabel": "The Ferengi Rules of Acquisition",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
+        "sourceType": "DS9 reference book"
       }
     ]
   },
   {
-    "Number": 87,
-    "Entries": [
+    "number": 87,
+    "entries": [
       {
-        "Rule": "Learn the customer's weaknesses, so that you can better take advantage of him.",
-        "SourceLabel": "Highest Score",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Highest_Score",
-        "SourceType": "DS9 novel"
+        "rule": "Learn the customer's weaknesses, so that you can better take advantage of him.",
+        "sourceLabel": "Highest Score",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Highest_Score",
+        "sourceType": "DS9 novel"
       }
     ]
   },
   {
-    "Number": 88,
-    "Entries": [
+    "number": 88,
+    "entries": [
       {
-        "Rule": "It ain't over 'til it's over.",
-        "SourceLabel": "Ferenginar: Satisfaction is Not Guaranteed",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Ferenginar:_Satisfaction_is_Not_Guaranteed",
-        "SourceType": "DS9 novella"
+        "rule": "It ain't over 'til it's over.",
+        "sourceLabel": "Ferenginar: Satisfaction is Not Guaranteed",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Ferenginar:_Satisfaction_is_Not_Guaranteed",
+        "sourceType": "DS9 novella"
       },
       {
-        "Rule": "Vengeance will cost you everything.",
-        "SourceLabel": "The Poisoned Chalice",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/The_Poisoned_Chalice",
-        "SourceType": "DS9 novel"
+        "rule": "Vengeance will cost you everything.",
+        "sourceLabel": "The Poisoned Chalice",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/The_Poisoned_Chalice",
+        "sourceType": "DS9 novel"
       }
     ]
   },
   {
-    "Number": 89,
-    "Entries": [
+    "number": 89,
+    "entries": [
       {
-        "Rule": "Ask not what your profits can do for you, but what you can do for your profits.",
-        "SourceLabel": "The Ferengi Rules of Acquisition",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
-        "SourceType": "DS9 reference book"
+        "rule": "Ask not what your profits can do for you, but what you can do for your profits.",
+        "sourceLabel": "The Ferengi Rules of Acquisition",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
+        "sourceType": "DS9 reference book"
       },
       {
-        "Rule": "[It is] better to lose some profit and live than lose all profit and die.",
-        "SourceLabel": "Best Tools Available",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Best_Tools_Available",
-        "SourceType": "DS9 short story"
+        "rule": "[It is] better to lose some profit and live than lose all profit and die.",
+        "sourceLabel": "Best Tools Available",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Best_Tools_Available",
+        "sourceType": "DS9 short story"
       }
     ]
   },
   {
-    "Number": 92,
-    "Entries": [
+    "number": 92,
+    "entries": [
       {
-        "Rule": "There are many paths to profit.",
-        "SourceLabel": "Highest Score",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Highest_Score",
-        "SourceType": "DS9 novel"
+        "rule": "There are many paths to profit.",
+        "sourceLabel": "Highest Score",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Highest_Score",
+        "sourceType": "DS9 novel"
       }
     ]
   },
   {
-    "Number": 94,
-    "Entries": [
+    "number": 94,
+    "entries": [
       {
-        "Rule": "Females and finances don't mix.",
-        "SourceLabel": "Ferengi Love Songs",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Ferengi_Love_Songs",
-        "SourceType": "DS9 episode"
+        "rule": "Females and finances don't mix.",
+        "sourceLabel": "Ferengi Love Songs",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Ferengi_Love_Songs",
+        "sourceType": "DS9 episode"
       }
     ]
   },
   {
-    "Number": 95,
-    "Entries": [
+    "number": 95,
+    "entries": [
       {
-        "Rule": "Expand or die.",
-        "SourceLabel": "False Profits",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/False_Profits",
-        "SourceType": "VOY episode"
+        "rule": "Expand or die.",
+        "sourceLabel": "False Profits",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/False_Profits",
+        "sourceType": "VOY episode"
       }
     ]
   },
   {
-    "Number": 97,
-    "Entries": [
+    "number": 97,
+    "entries": [
       {
-        "Rule": "Enough... is never enough.",
-        "SourceLabel": "The Ferengi Rules of Acquisition",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
-        "SourceType": "DS9 reference book"
+        "rule": "Enough... is never enough.",
+        "sourceLabel": "The Ferengi Rules of Acquisition",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
+        "sourceType": "DS9 reference book"
       }
     ]
   },
   {
-    "Number": 98,
-    "Entries": [
+    "number": 98,
+    "entries": [
       {
-        "Rule": "Every man has his price.",
-        "SourceLabel": "In the Pale Moonlight",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/In_the_Pale_Moonlight",
-        "SourceType": "DS9 episode"
+        "rule": "Every man has his price.",
+        "sourceLabel": "In the Pale Moonlight",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/In_the_Pale_Moonlight",
+        "sourceType": "DS9 episode"
       },
       {
-        "Rule": "If you can't take it with you, don't go.",
-        "SourceLabel": "I, Q",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/I,_Q",
-        "SourceType": "DS9 novel"
+        "rule": "If you can't take it with you, don't go.",
+        "sourceLabel": "I, Q",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/I,_Q",
+        "sourceType": "DS9 novel"
       }
     ]
   },
   {
-    "Number": 99,
-    "Entries": [
+    "number": 99,
+    "entries": [
       {
-        "Rule": "Trust is the biggest liability of all.",
-        "SourceLabel": "The Ferengi Rules of Acquisition",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
-        "SourceType": "DS9 reference book"
+        "rule": "Trust is the biggest liability of all.",
+        "sourceLabel": "The Ferengi Rules of Acquisition",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
+        "sourceType": "DS9 reference book"
       }
     ]
   },
   {
-    "Number": 100,
-    "Entries": [
+    "number": 100,
+    "entries": [
       {
-        "Rule": "When it's good for business, tell the truth.",
-        "SourceLabel": "Ascendance",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Ascendance",
-        "SourceType": "DS9 novel"
+        "rule": "When it's good for business, tell the truth.",
+        "sourceLabel": "Ascendance",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Ascendance",
+        "sourceType": "DS9 novel"
       }
     ]
   },
   {
-    "Number": 101,
-    "Entries": [
+    "number": 101,
+    "entries": [
       {
-        "Rule": "Profit trumps emotion.",
-        "SourceLabel": "The Long Mirage",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Ascendance",
-        "SourceType": "DS9 novel"
+        "rule": "Profit trumps emotion.",
+        "sourceLabel": "The Long Mirage",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Ascendance",
+        "sourceType": "DS9 novel"
       }
     ]
   },
   {
-    "Number": 102,
-    "Entries": [
+    "number": 102,
+    "entries": [
       {
-        "Rule": "Nature decays, but latinum lasts forever.",
-        "SourceLabel": "The Jem'Hadar",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/The_Jem%27Hadar",
-        "SourceType": "DS9 episode"
+        "rule": "Nature decays, but latinum lasts forever.",
+        "sourceLabel": "The Jem'Hadar",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/The_Jem%27Hadar",
+        "sourceType": "DS9 episode"
       }
     ]
   },
   {
-    "Number": 103,
-    "Entries": [
+    "number": 103,
+    "entries": [
       {
-        "Rule": "Sleep can interfere with opportunity.",
-        "SourceLabel": "Rules of Acquisition",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Rules_of_Acquisition_(episode",
-        "SourceType": "DS9 episode"
+        "rule": "Sleep can interfere with opportunity.",
+        "sourceLabel": "Rules of Acquisition",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Rules_of_Acquisition_(episode",
+        "sourceType": "DS9 episode"
       }
     ]
   },
   {
-    "Number": 104,
-    "Entries": [
+    "number": 104,
+    "entries": [
       {
-        "Rule": "Faith moves mountains... of inventory.",
-        "SourceLabel": "The Ferengi Rules of Acquisition",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
-        "SourceType": "DS9 reference book"
+        "rule": "Faith moves mountains... of inventory.",
+        "sourceLabel": "The Ferengi Rules of Acquisition",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
+        "sourceType": "DS9 reference book"
       }
     ]
   },
   {
-    "Number": 106,
-    "Entries": [
+    "number": 106,
+    "entries": [
       {
-        "Rule": "There is no honor in poverty.",
-        "SourceLabel": "Sacraments of Fire",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Sacraments_of_Fire",
-        "SourceType": "DS9 novel"
+        "rule": "There is no honor in poverty.",
+        "sourceLabel": "Sacraments of Fire",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Sacraments_of_Fire",
+        "sourceType": "DS9 novel"
       }
     ]
   },
   {
-    "Number": 108,
-    "Entries": [
+    "number": 108,
+    "entries": [
       {
-        "Rule": "Hope doesn't keep the lights on.",
-        "SourceLabel": "The Ferengi Rules of Acquisition",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
-        "SourceType": "DS9 reference book"
+        "rule": "Hope doesn't keep the lights on.",
+        "sourceLabel": "The Ferengi Rules of Acquisition",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
+        "sourceType": "DS9 reference book"
       },
       {
-        "Rule": "A woman wearing clothes is like a man without any profits.",
-        "SourceLabel": "Star Trek: Deep Space Nine novels",
-        "SourceURL": "https://memory-alpha.fandom.com/wiki/Star_Trek:_Deep_Space_Nine_(Pocket)",
-        "SourceType": "DS9 novel"
+        "rule": "A woman wearing clothes is like a man without any profits.",
+        "sourceLabel": "Star Trek: Deep Space Nine novels",
+        "sourceURL": "https://memory-alpha.fandom.com/wiki/Star_Trek:_Deep_Space_Nine_(Pocket)",
+        "sourceType": "DS9 novel"
       }
     ]
   },
   {
-    "Number": 109,
-    "Entries": [
+    "number": 109,
+    "entries": [
       {
-        "Rule": "Dignity and an empty sack is worth the sack.",
-        "SourceLabel": "Rivals",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Rivals_(episode",
-        "SourceType": "DS9 episode"
+        "rule": "Dignity and an empty sack is worth the sack.",
+        "sourceLabel": "Rivals",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Rivals_(episode",
+        "sourceType": "DS9 episode"
       }
     ]
   },
   {
-    "Number": 110,
-    "Entries": [
+    "number": 110,
+    "entries": [
       {
-        "Rule": "Exploitation begins at home.",
-        "SourceLabel": "False Profits",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/False_Profits",
-        "SourceType": "VOY episode"
+        "rule": "Exploitation begins at home.",
+        "sourceLabel": "False Profits",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/False_Profits",
+        "sourceType": "VOY episode"
       }
     ]
   },
   {
-    "Number": 111,
-    "Entries": [
+    "number": 111,
+    "entries": [
       {
-        "Rule": "Treat people in your debt like family... exploit them.",
-        "SourceLabel": "Past Tense, Part I",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Past_Tense,_Part_I",
-        "SourceType": "DS9 episode"
+        "rule": "Treat people in your debt like family... exploit them.",
+        "sourceLabel": "Past Tense, Part I",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Past_Tense,_Part_I",
+        "sourceType": "DS9 episode"
       }
     ]
   },
   {
-    "Number": 112,
-    "Entries": [
+    "number": 112,
+    "entries": [
       {
-        "Rule": "Never have sex with the boss' sister.",
-        "SourceLabel": "Playing God",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Playing_God",
-        "SourceType": "DS9 episode"
+        "rule": "Never have sex with the boss' sister.",
+        "sourceLabel": "Playing God",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Playing_God",
+        "sourceType": "DS9 episode"
       }
     ]
   },
   {
-    "Number": 113,
-    "Entries": [
+    "number": 113,
+    "entries": [
       {
-        "Rule": "Always have sex with the boss.",
-        "SourceLabel": "The Ferengi Rules of Acquisition",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
-        "SourceType": "DS9 reference book"
+        "rule": "Always have sex with the boss.",
+        "sourceLabel": "The Ferengi Rules of Acquisition",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
+        "sourceType": "DS9 reference book"
       }
     ]
   },
   {
-    "Number": 117,
-    "Entries": [
+    "number": 117,
+    "entries": [
       {
-        "Rule": "You can't free a fish from water.",
-        "SourceLabel": "The Ferengi Rules of Acquisition",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
-        "SourceType": "DS9 reference book"
+        "rule": "You can't free a fish from water.",
+        "sourceLabel": "The Ferengi Rules of Acquisition",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
+        "sourceType": "DS9 reference book"
       }
     ]
   },
   {
-    "Number": 121,
-    "Entries": [
+    "number": 121,
+    "entries": [
       {
-        "Rule": "Everything is for sale, even friendship.",
-        "SourceLabel": "The Ferengi Rules of Acquisition",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
-        "SourceType": "DS9 reference book"
+        "rule": "Everything is for sale, even friendship.",
+        "sourceLabel": "The Ferengi Rules of Acquisition",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
+        "sourceType": "DS9 reference book"
       }
     ]
   },
   {
-    "Number": 123,
-    "Entries": [
+    "number": 123,
+    "entries": [
       {
-        "Rule": "Even a blind man can recognize the glow of Latinum.",
-        "SourceLabel": "The Ferengi Rules of Acquisition",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
-        "SourceType": "DS9 reference book"
+        "rule": "Even a blind man can recognize the glow of Latinum.",
+        "sourceLabel": "The Ferengi Rules of Acquisition",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
+        "sourceType": "DS9 reference book"
       }
     ]
   },
   {
-    "Number": 125,
-    "Entries": [
+    "number": 125,
+    "entries": [
       {
-        "Rule": "You can't make a deal if you're dead.",
-        "SourceLabel": "The Siege of AR-558",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/The_Siege_of_AR-558",
-        "SourceType": "DS9 episode"
+        "rule": "You can't make a deal if you're dead.",
+        "sourceLabel": "The Siege of AR-558",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/The_Siege_of_AR-558",
+        "sourceType": "DS9 episode"
       }
     ]
   },
   {
-    "Number": 135,
-    "Entries": [
+    "number": 135,
+    "entries": [
       {
-        "Rule": "Listen to secrets, but never repeat them.",
-        "SourceLabel": "Ascendance",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Ascendance",
-        "SourceType": "DS9 novel"
+        "rule": "Listen to secrets, but never repeat them.",
+        "sourceLabel": "Ascendance",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Ascendance",
+        "sourceType": "DS9 novel"
       }
     ]
   },
   {
-    "Number": 139,
-    "Entries": [
+    "number": 139,
+    "entries": [
       {
-        "Rule": "Wives serve, brothers inherit.",
-        "SourceLabel": "Necessary Evil",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Necessary_Evil_(episode",
-        "SourceType": "DS9 episode"
+        "rule": "Wives serve, brothers inherit.",
+        "sourceLabel": "Necessary Evil",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Necessary_Evil_(episode",
+        "sourceType": "DS9 episode"
       }
     ]
   },
   {
-    "Number": 141,
-    "Entries": [
+    "number": 141,
+    "entries": [
       {
-        "Rule": "Only fools pay retail.",
-        "SourceLabel": "The Ferengi Rules of Acquisition",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
-        "SourceType": "DS9 reference book"
+        "rule": "Only fools pay retail.",
+        "sourceLabel": "The Ferengi Rules of Acquisition",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
+        "sourceType": "DS9 reference book"
       }
     ]
   },
   {
-    "Number": 144,
-    "Entries": [
+    "number": 144,
+    "entries": [
       {
-        "Rule": "There's nothing wrong with charity... as long as it winds up in your pocket.",
-        "SourceLabel": "The Ferengi Rules of Acquisition",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
-        "SourceType": "DS9 reference book"
+        "rule": "There's nothing wrong with charity... as long as it winds up in your pocket.",
+        "sourceLabel": "The Ferengi Rules of Acquisition",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
+        "sourceType": "DS9 reference book"
       }
     ]
   },
   {
-    "Number": 147,
-    "Entries": [
+    "number": 147,
+    "entries": [
       {
-        "Rule": "People love the bartender.",
-        "SourceLabel": "Fearful Symmetry",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Fearful_Symmetry",
-        "SourceType": "DS9 novel"
+        "rule": "People love the bartender.",
+        "sourceLabel": "Fearful Symmetry",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Fearful_Symmetry",
+        "sourceType": "DS9 novel"
       }
     ]
   },
   {
-    "Number": 151,
-    "Entries": [
+    "number": 151,
+    "entries": [
       {
-        "Rule": "Even when you're a customer, sell yourself.",
-        "SourceLabel": "The Long Mirage",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/The_Long_Mirage",
-        "SourceType": "DS9 novel"
+        "rule": "Even when you're a customer, sell yourself.",
+        "sourceLabel": "The Long Mirage",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/The_Long_Mirage",
+        "sourceType": "DS9 novel"
       }
     ]
   },
   {
-    "Number": 153,
-    "Entries": [
+    "number": 153,
+    "entries": [
       {
-        "Rule": "Sell the sizzle, not the steak.",
-        "SourceLabel": "Deep Space Mine",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Deep_Space_Mine",
-        "SourceType": "DS9 comic"
+        "rule": "Sell the sizzle, not the steak.",
+        "sourceLabel": "Deep Space Mine",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Deep_Space_Mine",
+        "sourceType": "DS9 comic"
       }
     ]
   },
   {
-    "Number": 162,
-    "Entries": [
+    "number": 162,
+    "entries": [
       {
-        "Rule": "Even in the worst of times, someone turns a profit.",
-        "SourceLabel": "The Ferengi Rules of Acquisition",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
-        "SourceType": "DS9 reference book"
+        "rule": "Even in the worst of times, someone turns a profit.",
+        "sourceLabel": "The Ferengi Rules of Acquisition",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
+        "sourceType": "DS9 reference book"
       }
     ]
   },
   {
-    "Number": 168,
-    "Entries": [
+    "number": 168,
+    "entries": [
       {
-        "Rule": "Whisper your way to success.",
-        "SourceLabel": "Treachery, Faith, and the Great River",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Treachery,_Faith,_and_the_Great_River",
-        "SourceType": "DS9 episode"
+        "rule": "Whisper your way to success.",
+        "sourceLabel": "Treachery, Faith, and the Great River",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Treachery,_Faith,_and_the_Great_River",
+        "sourceType": "DS9 episode"
       }
     ]
   },
   {
-    "Number": 177,
-    "Entries": [
+    "number": 177,
+    "entries": [
       {
-        "Rule": "Know your enemies... but do business with them always.",
-        "SourceLabel": "The Ferengi Rules of Acquisition",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
-        "SourceType": "DS9 reference book"
+        "rule": "Know your enemies... but do business with them always.",
+        "sourceLabel": "The Ferengi Rules of Acquisition",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
+        "sourceType": "DS9 reference book"
       }
     ]
   },
   {
-    "Number": 181,
-    "Entries": [
+    "number": 181,
+    "entries": [
       {
-        "Rule": "Not even dishonesty can tarnish the shine of profit.",
-        "SourceLabel": "The Ferengi Rules of Acquisition",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
-        "SourceType": "DS9 reference book"
+        "rule": "Not even dishonesty can tarnish the shine of profit.",
+        "sourceLabel": "The Ferengi Rules of Acquisition",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
+        "sourceType": "DS9 reference book"
       }
     ]
   },
   {
-    "Number": 183,
-    "Entries": [
+    "number": 183,
+    "entries": [
       {
-        "Rule": "When life hands you ungaberries, make detergent.",
-        "SourceLabel": "Hollow Men",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Hollow_Men",
-        "SourceType": "DS9 novel"
+        "rule": "When life hands you ungaberries, make detergent.",
+        "sourceLabel": "Hollow Men",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Hollow_Men",
+        "sourceType": "DS9 novel"
       }
     ]
   },
   {
-    "Number": 184,
-    "Entries": [
+    "number": 184,
+    "entries": [
       {
-        "Rule": "A Ferengi waits to bid until his opponents have exhausted themselves.",
-        "SourceLabel": "Balance of Power",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Balance_of_Power",
-        "SourceType": "TNG novel"
+        "rule": "A Ferengi waits to bid until his opponents have exhausted themselves.",
+        "sourceLabel": "Balance of Power",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Balance_of_Power",
+        "sourceType": "TNG novel"
       }
     ]
   },
   {
-    "Number": 188,
-    "Entries": [
+    "number": 188,
+    "entries": [
       {
-        "Rule": "Not even dishonesty can tarnish the shine of profit.",
-        "SourceLabel": "Star Trek Online",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Star_Trek_Online",
-        "SourceType": "STO game"
+        "rule": "Not even dishonesty can tarnish the shine of profit.",
+        "sourceLabel": "Star Trek Online",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Star_Trek_Online",
+        "sourceType": "STO game"
       }
     ]
   },
   {
-    "Number": 189,
-    "Entries": [
+    "number": 189,
+    "entries": [
       {
-        "Rule": "Let others keep their reputation. You keep their money.",
-        "SourceLabel": "The Ferengi Rules of Acquisition",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
-        "SourceType": "DS9 reference book"
+        "rule": "Let others keep their reputation. You keep their money.",
+        "sourceLabel": "The Ferengi Rules of Acquisition",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
+        "sourceType": "DS9 reference book"
       }
     ]
   },
   {
-    "Number": 190,
-    "Entries": [
+    "number": 190,
+    "entries": [
       {
-        "Rule": "Hear all, trust nothing.",
-        "SourceLabel": "Call to Arms",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Call_to_Arms_(episode",
-        "SourceType": "DS9 episode"
+        "rule": "Hear all, trust nothing.",
+        "sourceLabel": "Call to Arms",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Call_to_Arms_(episode",
+        "sourceType": "DS9 episode"
       }
     ]
   },
   {
-    "Number": 192,
-    "Entries": [
+    "number": 192,
+    "entries": [
       {
-        "Rule": "Never cheat a Klingon... unless you're sure you can get away with it.",
-        "SourceLabel": "The Ferengi Rules of Acquisition",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
-        "SourceType": "DS9 reference book"
+        "rule": "Never cheat a Klingon... unless you're sure you can get away with it.",
+        "sourceLabel": "The Ferengi Rules of Acquisition",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
+        "sourceType": "DS9 reference book"
       }
     ]
   },
   {
-    "Number": 193,
-    "Entries": [
+    "number": 193,
+    "entries": [
       {
-        "Rule": "Trouble comes in threes.",
-        "SourceLabel": "Star Trek Online",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Star_Trek_Online",
-        "SourceType": "STO game"
+        "rule": "Trouble comes in threes.",
+        "sourceLabel": "Star Trek Online",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Star_Trek_Online",
+        "sourceType": "STO game"
       },
       {
-        "Rule": "It's never too late to fire the staff.",
-        "SourceLabel": "Cathedral",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Cathedral",
-        "SourceType": "DS9 novel"
+        "rule": "It's never too late to fire the staff.",
+        "sourceLabel": "Cathedral",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Cathedral",
+        "sourceType": "DS9 novel"
       }
     ]
   },
   {
-    "Number": 194,
-    "Entries": [
+    "number": 194,
+    "entries": [
       {
-        "Rule": "It's always good business to know about new customers before they walk in your door.",
-        "SourceLabel": "Whispers",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Whispers",
-        "SourceType": "DS9 episode"
+        "rule": "It's always good business to know about new customers before they walk in your door.",
+        "sourceLabel": "Whispers",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Whispers",
+        "sourceType": "DS9 episode"
       }
     ]
   },
   {
-    "Number": 199,
-    "Entries": [
+    "number": 199,
+    "entries": [
       {
-        "Rule": "Location, location, location.",
-        "SourceLabel": "The Soul Key",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/The_Soul_Key",
-        "SourceType": "DS9 novel"
+        "rule": "Location, location, location.",
+        "sourceLabel": "The Soul Key",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/The_Soul_Key",
+        "sourceType": "DS9 novel"
       }
     ]
   },
   {
-    "Number": 200,
-    "Entries": [
+    "number": 200,
+    "entries": [
       {
-        "Rule": "A Ferengi chooses no side but his own.",
-        "SourceLabel": "Ferenginar: Satisfaction is Not Guaranteed",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Ferenginar:_Satisfaction_is_Not_Guaranteed",
-        "SourceType": "DS9 novella"
+        "rule": "A Ferengi chooses no side but his own.",
+        "sourceLabel": "Ferenginar: Satisfaction is Not Guaranteed",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Ferenginar:_Satisfaction_is_Not_Guaranteed",
+        "sourceType": "DS9 novella"
       }
     ]
   },
   {
-    "Number": 202,
-    "Entries": [
+    "number": 202,
+    "entries": [
       {
-        "Rule": "The justification for profit is profit.",
-        "SourceLabel": "The Ferengi Rules of Acquisition",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
-        "SourceType": "DS9 reference book"
+        "rule": "The justification for profit is profit.",
+        "sourceLabel": "The Ferengi Rules of Acquisition",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
+        "sourceType": "DS9 reference book"
       }
     ]
   },
   {
-    "Number": 203,
-    "Entries": [
+    "number": 203,
+    "entries": [
       {
-        "Rule": "New customers are like razor-toothed gree worms. They can be succulent, but sometimes they bite back.",
-        "SourceLabel": "Little Green Men",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Little_Green_Men",
-        "SourceType": "DS9 episode"
+        "rule": "New customers are like razor-toothed gree worms. They can be succulent, but sometimes they bite back.",
+        "sourceLabel": "Little Green Men",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Little_Green_Men",
+        "sourceType": "DS9 episode"
       }
     ]
   },
   {
-    "Number": 208,
-    "Entries": [
+    "number": 208,
+    "entries": [
       {
-        "Rule": "Sometimes, the only thing more dangerous than a question is an answer.",
-        "SourceLabel": "Ferengi Love Songs",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Ferengi_Love_Songs",
-        "SourceType": "DS9 episode"
+        "rule": "Sometimes, the only thing more dangerous than a question is an answer.",
+        "sourceLabel": "Ferengi Love Songs",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Ferengi_Love_Songs",
+        "sourceType": "DS9 episode"
       }
     ]
   },
   {
-    "Number": 211,
-    "Entries": [
+    "number": 211,
+    "entries": [
       {
-        "Rule": "Employees are the rungs on the ladder of success. Don't hesitate to step on them.",
-        "SourceLabel": "Bar Association",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Bar_Association",
-        "SourceType": "DS9 episode"
+        "rule": "Employees are the rungs on the ladder of success. Don't hesitate to step on them.",
+        "sourceLabel": "Bar Association",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Bar_Association",
+        "sourceType": "DS9 episode"
       }
     ]
   },
   {
-    "Number": 212,
-    "Entries": [
+    "number": 212,
+    "entries": [
       {
-        "Rule": "A good lie is easier to believe than the truth.",
-        "SourceLabel": "Star Trek Online",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Star_Trek_Online",
-        "SourceType": "STO game"
+        "rule": "A good lie is easier to believe than the truth.",
+        "sourceLabel": "Star Trek Online",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Star_Trek_Online",
+        "sourceType": "STO game"
       }
     ]
   },
   {
-    "Number": 214,
-    "Entries": [
+    "number": 214,
+    "entries": [
       {
-        "Rule": "Never begin a business negotiation on an empty stomach.",
-        "SourceLabel": "The Maquis, Part I",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/The_Maquis,_Part_I",
-        "SourceType": "DS9 episode"
+        "rule": "Never begin a business negotiation on an empty stomach.",
+        "sourceLabel": "The Maquis, Part I",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/The_Maquis,_Part_I",
+        "sourceType": "DS9 episode"
       }
     ]
   },
   {
-    "Number": 216,
-    "Entries": [
+    "number": 216,
+    "entries": [
       {
-        "Rule": "Never gamble with a telepath.",
-        "SourceLabel": "The Laertian Gamble",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/The_Laertian_Gamble",
-        "SourceType": "DS9 novel"
+        "rule": "Never gamble with a telepath.",
+        "sourceLabel": "The Laertian Gamble",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/The_Laertian_Gamble",
+        "sourceType": "DS9 novel"
       }
     ]
   },
   {
-    "Number": 217,
-    "Entries": [
+    "number": 217,
+    "entries": [
       {
-        "Rule": "You can't free a fish from water.",
-        "SourceLabel": "Past Tense, Part I",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Past_Tense,_Part_I",
-        "SourceType": "DS9 episode"
+        "rule": "You can't free a fish from water.",
+        "sourceLabel": "Past Tense, Part I",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Past_Tense,_Part_I",
+        "sourceType": "DS9 episode"
       },
       {
-        "Rule": "Always know what you're buying.",
-        "SourceLabel": "The Ferengi Rules of Acquisition",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
-        "SourceType": "DS9 reference book"
+        "rule": "Always know what you're buying.",
+        "sourceLabel": "The Ferengi Rules of Acquisition",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
+        "sourceType": "DS9 reference book"
       }
     ]
   },
   {
-    "Number": 218,
-    "Entries": [
+    "number": 218,
+    "entries": [
       {
-        "Rule": "Sometimes what you get free costs entirely too much.",
-        "SourceLabel": "Baby on Board",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Baby_on_Board",
-        "SourceType": "DS9 Malibu Comics"
+        "rule": "Sometimes what you get free costs entirely too much.",
+        "sourceLabel": "Baby on Board",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Baby_on_Board",
+        "sourceType": "DS9 Malibu Comics"
       }
     ]
   },
   {
-    "Number": 219,
-    "Entries": [
+    "number": 219,
+    "entries": [
       {
-        "Rule": "Possession is eleven-tenths of the law!",
-        "SourceLabel": "Balance of Power",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Balance_of_Power",
-        "SourceType": "TNG novel"
+        "rule": "Possession is eleven-tenths of the law!",
+        "sourceLabel": "Balance of Power",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Balance_of_Power",
+        "sourceType": "TNG novel"
       }
     ]
   },
   {
-    "Number": 223,
-    "Entries": [
+    "number": 223,
+    "entries": [
       {
-        "Rule": "Beware the man who doesn't take time for Oo-mox.",
-        "SourceLabel": "The Ferengi Rules of Acquisition",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
-        "SourceType": "DS9 reference book"
+        "rule": "Beware the man who doesn't take time for Oo-mox.",
+        "sourceLabel": "The Ferengi Rules of Acquisition",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
+        "sourceType": "DS9 reference book"
       }
     ]
   },
   {
-    "Number": 227,
-    "Entries": [
+    "number": 227,
+    "entries": [
       {
-        "Rule": "If that's what's written, then that's what's written.",
-        "SourceLabel": "Star Trek Online",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Star_Trek_Online",
-        "SourceType": "STO game"
+        "rule": "If that's what's written, then that's what's written.",
+        "sourceLabel": "Star Trek Online",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Star_Trek_Online",
+        "sourceType": "STO game"
       }
     ]
   },
   {
-    "Number": 229,
-    "Entries": [
+    "number": 229,
+    "entries": [
       {
-        "Rule": "Latinum lasts longer than lust.",
-        "SourceLabel": "Ferengi Love Songs",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Ferengi_Love_Songs",
-        "SourceType": "DS9 episode"
+        "rule": "Latinum lasts longer than lust.",
+        "sourceLabel": "Ferengi Love Songs",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Ferengi_Love_Songs",
+        "sourceType": "DS9 episode"
       }
     ]
   },
   {
-    "Number": 235,
-    "Entries": [
+    "number": 235,
+    "entries": [
       {
-        "Rule": "Duck; death is tall.",
-        "SourceLabel": "Mission Gamma: Twilight",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Twilight_(novel",
-        "SourceType": "DS9 novel"
+        "rule": "Duck; death is tall.",
+        "sourceLabel": "Mission Gamma: Twilight",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Twilight_(novel",
+        "sourceType": "DS9 novel"
       }
     ]
   },
   {
-    "Number": 236,
-    "Entries": [
+    "number": 236,
+    "entries": [
       {
-        "Rule": "You can't buy fate.",
-        "SourceLabel": "The Ferengi Rules of Acquisition",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
-        "SourceType": "DS9 reference book"
+        "rule": "You can't buy fate.",
+        "sourceLabel": "The Ferengi Rules of Acquisition",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
+        "sourceType": "DS9 reference book"
       }
     ]
   },
   {
-    "Number": 239,
-    "Entries": [
+    "number": 239,
+    "entries": [
       {
-        "Rule": "Never be afraid to mislabel a product.",
-        "SourceLabel": "Body Parts",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Body_Parts",
-        "SourceType": "DS9 episode"
+        "rule": "Never be afraid to mislabel a product.",
+        "sourceLabel": "Body Parts",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Body_Parts",
+        "sourceType": "DS9 episode"
       }
     ]
   },
   {
-    "Number": 240,
-    "Entries": [
+    "number": 240,
+    "entries": [
       {
-        "Rule": "Time, like latinum, is a highly limited commodity.",
-        "SourceLabel": "Star Trek Online",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Star_Trek_Online",
-        "SourceType": "STO game"
+        "rule": "Time, like latinum, is a highly limited commodity.",
+        "sourceLabel": "Star Trek Online",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Star_Trek_Online",
+        "sourceType": "STO game"
       }
     ]
   },
   {
-    "Number": 242,
-    "Entries": [
+    "number": 242,
+    "entries": [
       {
-        "Rule": "More is good... all is better.",
-        "SourceLabel": "The Ferengi Rules of Acquisition",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
-        "SourceType": "DS9 reference book"
+        "rule": "More is good... all is better.",
+        "sourceLabel": "The Ferengi Rules of Acquisition",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
+        "sourceType": "DS9 reference book"
       }
     ]
   },
   {
-    "Number": 243,
-    "Entries": [
+    "number": 243,
+    "entries": [
       {
-        "Rule": "Always leave yourself an out.",
-        "SourceLabel": "Sacraments of Fire",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Sacraments_of_Fire",
-        "SourceType": "DS9 novel"
+        "rule": "Always leave yourself an out.",
+        "sourceLabel": "Sacraments of Fire",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Sacraments_of_Fire",
+        "sourceType": "DS9 novel"
       }
     ]
   },
   {
-    "Number": 248,
-    "Entries": [
+    "number": 248,
+    "entries": [
       {
-        "Rule": "The definition of insanity is trying the same failed scheme & expecting different results.",
-        "SourceLabel": "Department of Temporal Investigations 3: Shield of the Gods, pg. 11",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Shield_of_the_Gods",
-        "SourceType": "DS9 e-novella"
+        "rule": "The definition of insanity is trying the same failed scheme & expecting different results.",
+        "sourceLabel": "Department of Temporal Investigations 3: Shield of the Gods, pg. 11",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Shield_of_the_Gods",
+        "sourceType": "DS9 e-novella"
       }
     ]
   },
   {
-    "Number": 255,
-    "Entries": [
+    "number": 255,
+    "entries": [
       {
-        "Rule": "A wife is luxury... a smart accountant a necessity.",
-        "SourceLabel": "The Ferengi Rules of Acquisition",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
-        "SourceType": "DS9 reference book"
+        "rule": "A wife is luxury... a smart accountant a necessity.",
+        "sourceLabel": "The Ferengi Rules of Acquisition",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
+        "sourceType": "DS9 reference book"
       }
     ]
   },
   {
-    "Number": 257,
-    "Entries": [
+    "number": 257,
+    "entries": [
       {
-        "Rule": "When the messenger comes to appropriate your profits, kill the messenger.",
-        "SourceLabel": "False Profits",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/False_Profits",
-        "SourceType": "VOY episode"
+        "rule": "When the messenger comes to appropriate your profits, kill the messenger.",
+        "sourceLabel": "False Profits",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/False_Profits",
+        "sourceType": "VOY episode"
       }
     ]
   },
   {
-    "Number": 261,
-    "Entries": [
+    "number": 261,
+    "entries": [
       {
-        "Rule": "A wealthy man can afford anything except a conscience.",
-        "SourceLabel": "The Ferengi Rules of Acquisition",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
-        "SourceType": "DS9 reference book"
+        "rule": "A wealthy man can afford anything except a conscience.",
+        "sourceLabel": "The Ferengi Rules of Acquisition",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
+        "sourceType": "DS9 reference book"
       }
     ]
   },
   {
-    "Number": 263,
-    "Entries": [
+    "number": 263,
+    "entries": [
       {
-        "Rule": "Never allow doubt to tarnish your lust for latinum.",
-        "SourceLabel": "Bar Association",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Bar_Association",
-        "SourceType": "DS9 episode"
+        "rule": "Never allow doubt to tarnish your lust for latinum.",
+        "sourceLabel": "Bar Association",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Bar_Association",
+        "sourceType": "DS9 episode"
       }
     ]
   },
   {
-    "Number": 266,
-    "Entries": [
+    "number": 266,
+    "entries": [
       {
-        "Rule": "When in doubt, lie.",
-        "SourceLabel": "The Ferengi Rules of Acquisition",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
-        "SourceType": "DS9 reference book"
+        "rule": "When in doubt, lie.",
+        "sourceLabel": "The Ferengi Rules of Acquisition",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
+        "sourceType": "DS9 reference book"
       }
     ]
   },
   {
-    "Number": 267,
-    "Entries": [
+    "number": 267,
+    "entries": [
       {
-        "Rule": "If you believe it, they believe it.",
-        "SourceLabel": "Taking Wing",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Taking_Wing",
-        "SourceType": "DS9 novel"
+        "rule": "If you believe it, they believe it.",
+        "sourceLabel": "Taking Wing",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Taking_Wing",
+        "sourceType": "DS9 novel"
       }
     ]
   },
   {
-    "Number": 272,
-    "Entries": [
+    "number": 272,
+    "entries": [
       {
-        "Rule": "Always inspect the merchandise before making a deal.",
-        "SourceLabel": "Star Trek Online",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Star_Trek_Online",
-        "SourceType": "STO game"
+        "rule": "Always inspect the merchandise before making a deal.",
+        "sourceLabel": "Star Trek Online",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Star_Trek_Online",
+        "sourceType": "STO game"
       }
     ]
   },
   {
-    "Number": 280,
-    "Entries": [
+    "number": 280,
+    "entries": [
       {
-        "Rule": "If it ain't broke, don't fix it.",
-        "SourceLabel": "Ferenginar: Satisfaction is Not Guaranteed",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Ferenginar:_Satisfaction_is_Not_Guaranteed",
-        "SourceType": "DS9 novella"
+        "rule": "If it ain't broke, don't fix it.",
+        "sourceLabel": "Ferenginar: Satisfaction is Not Guaranteed",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Ferenginar:_Satisfaction_is_Not_Guaranteed",
+        "sourceType": "DS9 novella"
       }
     ]
   },
   {
-    "Number": 284,
-    "Entries": [
+    "number": 284,
+    "entries": [
       {
-        "Rule": "Deep down, everyone's a Ferengi.",
-        "SourceLabel": "The Ferengi Rules of Acquisition",
-        "SourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
-        "SourceType": "DS9 reference book"
+        "rule": "Deep down, everyone's a Ferengi.",
+        "sourceLabel": "The Ferengi Rules of Acquisition",
+        "sourceURL": "http://memory-beta.wikia.com/wiki/The_Ferengi_Rules_of_Acquisition",
+        "sourceType": "DS9 reference book"
       }
     ]
   },
   {
-    "Number": 285,
-    "Entries": [
+    "number": 285,
+    "entries": [
       {
-        "Rule": "No good deed ever goes unpunished.",
-        "SourceLabel": "The Collaborator",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/The_Collaborator",
-        "SourceType": "DS9 episode"
+        "rule": "No good deed ever goes unpunished.",
+        "sourceLabel": "The Collaborator",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/The_Collaborator",
+        "sourceType": "DS9 episode"
       }
     ]
   },
   {
-    "Number": 287,
-    "Entries": [
+    "number": 287,
+    "entries": [
       {
-        "Rule": "Always get somebody else to do the lifting.",
-        "SourceLabel": "N-Vector",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/N-Vector",
-        "SourceType": "DS9 comic"
+        "rule": "Always get somebody else to do the lifting.",
+        "sourceLabel": "N-Vector",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/N-Vector",
+        "sourceType": "DS9 comic"
       }
     ]
   },
   {
-    "Number": 288,
-    "Entries": [
+    "number": 288,
+    "entries": [
       {
-        "Rule": "Never get into anything that you can't get out of.",
-        "SourceLabel": "N-Vector",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/N-Vector",
-        "SourceType": "DS9 comic"
+        "rule": "Never get into anything that you can't get out of.",
+        "sourceLabel": "N-Vector",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/N-Vector",
+        "sourceType": "DS9 comic"
       }
     ]
   },
   {
-    "Number": 289,
-    "Entries": [
+    "number": 289,
+    "entries": [
       {
-        "Rule": "A man is only worth the sum of his possessions.",
-        "SourceLabel": "Acquisition",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Acquisition",
-        "SourceType": "ENT episode"
+        "rule": "A man is only worth the sum of his possessions.",
+        "sourceLabel": "Acquisition",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Acquisition",
+        "sourceType": "ENT episode"
       }
     ]
   },
   {
-    "Number": 290,
-    "Entries": [
+    "number": 290,
+    "entries": [
       {
-        "Rule": "An angry man is an enemy, and a satisfied man is an ally.",
-        "SourceLabel": "Antimatter",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Antimatter",
-        "SourceType": "DS9 novel"
+        "rule": "An angry man is an enemy, and a satisfied man is an ally.",
+        "sourceLabel": "Antimatter",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Antimatter",
+        "sourceType": "DS9 novel"
       }
     ]
   },
   {
-    "Number": 291,
-    "Entries": [
+    "number": 291,
+    "entries": [
       {
-        "Rule": "The less employees know about the cash flow, the smaller the share they can demand.",
-        "SourceLabel": "Betrayal",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Betrayal",
-        "SourceType": "DS9 novel"
+        "rule": "The less employees know about the cash flow, the smaller the share they can demand.",
+        "sourceLabel": "Betrayal",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Betrayal",
+        "sourceType": "DS9 novel"
       }
     ]
   },
   {
-    "Number": 292,
-    "Entries": [
+    "number": 292,
+    "entries": [
       {
-        "Rule": "Only a fool passes up a business opportunity.",
-        "SourceLabel": "Elite Force II",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Elite_Force_II",
-        "SourceType": "DS9 game"
+        "rule": "Only a fool passes up a business opportunity.",
+        "sourceLabel": "Elite Force II",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Elite_Force_II",
+        "sourceType": "DS9 game"
       }
     ]
   },
   {
-    "Number": 293,
-    "Entries": [
+    "number": 293,
+    "entries": [
       {
-        "Rule": "The more time they take deciding, the more money they will spend.",
-        "SourceLabel": "Stowaways",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Stowaways",
-        "SourceType": "DS9 novel"
+        "rule": "The more time they take deciding, the more money they will spend.",
+        "sourceLabel": "Stowaways",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Stowaways",
+        "sourceType": "DS9 novel"
       }
     ]
   },
   {
-    "Number": 294,
-    "Entries": [
+    "number": 294,
+    "entries": [
       {
-        "Rule": "A bargain usually isn't.",
-        "SourceLabel": "The Pet",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/The_Pet",
-        "SourceType": "DS9 novel"
+        "rule": "A bargain usually isn't.",
+        "sourceLabel": "The Pet",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/The_Pet",
+        "sourceType": "DS9 novel"
       }
     ]
   },
   {
-    "Number": 299,
-    "Entries": [
+    "number": 299,
+    "entries": [
       {
-        "Rule": "Whenever you exploit someone, it never hurts to thank them... that way it's easier to exploit them the next time.",
-        "SourceLabel": "False Profits",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/False_Profits",
-        "SourceType": "VOY episode"
+        "rule": "Whenever you exploit someone, it never hurts to thank them... that way it's easier to exploit them the next time.",
+        "sourceLabel": "False Profits",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/False_Profits",
+        "sourceType": "VOY episode"
       }
     ]
   },
   {
-    "Number": 431,
-    "Entries": [
+    "number": 431,
+    "entries": [
       {
-        "Rule": "When the shooting starts, let the mercenaries handle it!",
-        "SourceLabel": "Mission: Echoes of Light",
-        "SourceURL": "https://memory-beta.fandom.com/wiki/Echoes_of_Light",
-        "SourceType": "STO game"
+        "rule": "When the shooting starts, let the mercenaries handle it!",
+        "sourceLabel": "Mission: Echoes of Light",
+        "sourceURL": "https://memory-beta.fandom.com/wiki/Echoes_of_Light",
+        "sourceType": "STO game"
       }
     ]
   }

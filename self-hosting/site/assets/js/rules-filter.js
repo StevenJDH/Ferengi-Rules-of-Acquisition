@@ -11,15 +11,15 @@ function render(rules, searchText = '', typeFilter = '') {
   const lowerSearch = searchText.toLowerCase();
 
   for (const group of rules) {
-    const matches = group.Entries.filter(entry => {
+    const matches = group.entries.filter(entry => {
       const matchesSearch =
-        entry.Rule.toLowerCase().includes(lowerSearch) ||
-        (entry.SourceLabel &&
-          entry.SourceLabel.toLowerCase().includes(lowerSearch));
-      const matchesType = !typeFilter || (entry.SourceType && entry.SourceType === typeFilter);
+        entry.rule.toLowerCase().includes(lowerSearch) ||
+        (entry.sourceLabel &&
+          entry.sourceLabel.toLowerCase().includes(lowerSearch));
+      const matchesType = !typeFilter || (entry.sourceType && entry.sourceType === typeFilter);
       return matchesSearch && matchesType;
     });
-    if (matches.length > 0) filtered.push({ Number: group.Number, Entries: matches });
+    if (matches.length > 0) filtered.push({ number: group.number, entries: matches });
   }
 
   if (filtered.length === 0) {
@@ -53,22 +53,22 @@ function render(rules, searchText = '', typeFilter = '') {
     const container = document.createElement('div');
     container.classList.add('rule-group');
 
-    const entriesHTML = group.Entries.map(entry => `
+    const entriesHTML = group.entries.map(entry => `
     <div class="rule-entry">
-      <p>${entry.Rule}</p>
+      <p>${entry.rule}</p>
       <p class="rule-source">
         <strong>Source:</strong>
         ${
-          entry.SourceURL
-            ? `<a href="${entry.SourceURL}" target="_blank">${entry.SourceLabel}</a>`
-            : entry.SourceLabel
+          entry.sourceURL
+            ? `<a href="${entry.sourceURL}" target="_blank">${entry.sourceLabel}</a>`
+            : entry.sourceLabel
         }
-        ${entry.SourceType ? `(${entry.SourceType})` : ''}
+        ${entry.sourceType ? `(${entry.sourceType})` : ''}
       </p>
     </div>
     `).join('<hr class="rule-divider">');
 
-    container.innerHTML = `<h3>Rule ${group.Number}</h3>${entriesHTML}`;
+    container.innerHTML = `<h3>Rule ${group.number}</h3>${entriesHTML}`;
     results.appendChild(container);
   }
 }
@@ -76,11 +76,11 @@ function render(rules, searchText = '', typeFilter = '') {
 async function main() {
   const rules = await loadData();
 
-  // Populate SourceType dropdown
+  // Populate sourceType dropdown
   const allTypes = new Set();
   for (const group of rules) {
-    for (const entry of group.Entries) {
-      if (entry.SourceType) allTypes.add(entry.SourceType);
+    for (const entry of group.entries) {
+      if (entry.sourceType) allTypes.add(entry.sourceType);
     }
   }
   const select = document.getElementById('typeFilter');
