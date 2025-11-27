@@ -3,7 +3,8 @@ services:
     build:
       context: ..
       dockerfile: ./local/Dockerfile
-    container_name: ferengi
+    container_name: ferengi-rules-dev
+    stop_grace_period: 5s
     ports:
       - "4000:4000"    # Mapping for Jekyll's web server.
       - "35729:35729"  # Mapping for live reload.

@@ -1,6 +1,6 @@
 DOCKER=docker
 DOCKER_COMPOSE=docker-compose
-PROJECT_NAME=ferengi
+PROJECT_NAME=ferengi-rules
 
 # Default target.
 .PHONY: all
@@ -39,4 +39,4 @@ release:
 # Start the built release.
 .PHONY: start-release
 start-release:
-	$(DOCKER) run --rm -p 8080:80 stevenjdh/$(PROJECT_NAME)
+	$(DOCKER) run --name $(PROJECT_NAME) --rm -p 8080:80 stevenjdh/$(PROJECT_NAME)

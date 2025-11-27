@@ -1,15 +1,15 @@
 # Usage (from parent directory):
-#   docker build -t ferengi -f ./local/Dockerfile .
+#   docker build -f ./local/Dockerfile -t ferengi-rules-jekyll .
 #   Linux / Mac:
-#     docker run --rm -p 4000:4000 -p 35729:35729 \
+#     docker run --name ferengi-rules-dev --rm -p 4000:4000 -p 35729:35729 \
 #       -v "$(pwd)/site:/srv/jekyll" \
 #       -v "$(pwd)/common/Gemfile:/srv/jekyll/Gemfile" \
-#       ferengi
+#       ferengi-rules-jekyll
 #   Windows (git-bash):
-#     docker run --rm -p 4000:4000 -p 35729:35729 \
+#     docker run --name ferengi-rules-dev --rm -p 4000:4000 -p 35729:35729 \
 #       -v "$(cygpath -w $(pwd))/site:/srv/jekyll" \
 #       -v "$(cygpath -w $(pwd))/common/Gemfile:/srv/jekyll/Gemfile" \
-#       ferengi
+#       ferengi-rules-jekyll
 #   NOTE: The volume mounts above allow you to edit the site files on your host machine and
 #         have Jekyll automatically rebuild the site inside the container. If this is not
 #         needed, then they can be omitted from the command.
