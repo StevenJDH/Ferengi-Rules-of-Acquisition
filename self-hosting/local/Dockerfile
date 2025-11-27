@@ -35,5 +35,5 @@ ENV PAGES_REPO_NWO=StevenJDH/Ferengi-Rules-of-Acquisition
 EXPOSE 4000
 EXPOSE 35729
 
-ENTRYPOINT ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0"]
-CMD ["--livereload", "--force_polling"]
+ENTRYPOINT ["sh", "-c", "bundle exec jekyll clean && \
+    bundle exec jekyll serve --host 0.0.0.0 --livereload --force_polling --verbose"]
