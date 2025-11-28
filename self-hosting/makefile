@@ -34,9 +34,9 @@ cleanup: docker-down
 # Build release using multi-stage Dockerfile.
 .PHONY: release
 release:
-	$(DOCKER) build -f ./release/Dockerfile -t stevenjdh/$(PROJECT_NAME) .
+	$(DOCKER) build -f ./release/Dockerfile -t $(PROJECT_NAME) .
 
 # Start the built release.
 .PHONY: start-release
 start-release:
-	$(DOCKER) run --name $(PROJECT_NAME) --rm -p 8080:80 stevenjdh/$(PROJECT_NAME)
+	$(DOCKER) run --name $(PROJECT_NAME) --rm -p 8080:80 $(PROJECT_NAME)

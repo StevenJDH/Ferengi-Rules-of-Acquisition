@@ -1,6 +1,6 @@
 # Usage (from parent directory):
-#   docker build -f ./release/Dockerfile -t stevenjdh/ferengi-rules .
-#   docker run --name ferengi-rules --rm -p 8080:80 stevenjdh/ferengi-rules
+#   docker build -f ./release/Dockerfile -t ferengi-rules .
+#   docker run --name ferengi-rules --rm -p 8080:80 ferengi-rules
 #   URL: http://localhost:8080
 
 # ================================
