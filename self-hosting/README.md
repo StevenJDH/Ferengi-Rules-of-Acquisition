@@ -2,6 +2,7 @@
 
 [![gh-pages](https://github.com/StevenJDH/Ferengi-Rules-of-Acquisition/actions/workflows/jekyll-gh-pages-workflow.yml/badge.svg?branch=main)](https://github.com/StevenJDH/Ferengi-Rules-of-Acquisition/actions/workflows/jekyll-gh-pages-workflow.yml)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fstevenjdh.github.io%2FFerengi-Rules-of-Acquisition%2F&up_message=operational&down_message=malfunction&style=flat&logo=startrek&logoColor=fcdf01)](https://stevenjdh.github.io/Ferengi-Rules-of-Acquisition/)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/StevenJDH/Ferengi-Rules-of-Acquisition?include_prereleases)
 ![Maintenance](https://img.shields.io/badge/yes-4FCA21?label=maintained&style=flat)
 ![GitHub](https://img.shields.io/github/license/StevenJDH/Ferengi-Rules-of-Acquisition)
 
