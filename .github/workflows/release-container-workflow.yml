@@ -41,7 +41,7 @@ jobs:
     permissions:
       packages: write
       contents: read
-    environment: production
+    environment: release
     needs: validate-release-tag
 
     steps:
