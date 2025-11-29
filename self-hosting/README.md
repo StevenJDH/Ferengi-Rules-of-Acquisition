@@ -26,11 +26,9 @@ In this self-hosting section of the repository, there are two container-based pr
 * make CLI 3+ installed. Windows users can install from [here](https://gnuwin32.sourceforge.net/packages/make.htm), and add the bin folder to the system `PATH`.
 
 ## Usage
-
-All commands have been crafted to run from the root of the `self-hosting` directory, otherwise, they will fail without adjustments. A make file has been provided to make, pun intended, working with the projects easier. The essential commands are highlighted below, but please review the make file for any additional ones of interest.
+All commands have been crafted to run from the root of the `self-hosting` directory, otherwise, they will fail without adjustments. A makefile has been provided to make, pun intended, working with the projects easier. The essential commands are highlighted below, but please review the makefile for any additional ones of interest.
 
 ### Local project
-
 To spin up the development environment, use the following command:
 
 ```bash
@@ -47,7 +45,6 @@ make stop # Or 'make clean' to stop and remove image cache used.
 ```
 
 ### Release project
-
 To build a production ready release that can be hosted outside GitHub Pages, use the following command:
 
 ```bash
@@ -62,8 +59,16 @@ make start-release
 
 This will expose the site via `http://localhost:8080`. Make sure to use the correct port, which is different than the development one.
 
-## External REST service integration
+## Container registries
+The release version of the Ferengi Rules of Acquisition site container image is currently hosted on the following platforms:
 
+* [Docker Hub](https://hub.docker.com/r/stevenjdh/ferengi-rules)
+* [Amazon Elastic Container Registry (ECR)](https://gallery.ecr.aws/stevenjdh/ferengi-rules)
+* [GitHub Container Registry](https://github.com/users/StevenJDH/packages/container/package/ferengi-rules)
+
+For production use cases, it is not recommended to pull an image with the `:latest` tag, or no tag since these are equivalent.
+
+## External REST service integration
 External REST services that want to integrate with the Ferengi Rules of Acquisition data can do so by consuming the following JSON file endpoint:
 
 ```text
