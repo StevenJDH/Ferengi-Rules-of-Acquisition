@@ -45,6 +45,11 @@ jobs:
           # and tags are available at checkout.
           fetch-depth: 0
 
+      - name: Update SW Cache Version
+        run: |
+          SHA=$(git rev-parse --short HEAD)
+          sed -i "s/__GIT_SHA__/$SHA/g" ./self-hosting/site/service-worker.js
+
       - name: Generate Docker Metadata
         id: meta
         uses: docker/metadata-action@v5

@@ -17,7 +17,7 @@ In this self-hosting section of the repository, there are two container-based pr
 * Run locally for testing and development with support for Live Reload.
 * Run as a standalone, highly optimized microservice in Kubernetes.
 * Uses Open Graph (OG) tags for various social media platform previews.
-* Install to Desktop (Firefox) and to Apple/Android home screen (A2HS) as a Progressive Web App (PWA).
+* Install to Desktop and to Apple/Android home screen (A2HS) as a Progressive Web App (PWA).
 * Support for browserconfig.xml for Windows tiles and other agents that support it.
 * Structured JSON data for external REST service integration.
 
@@ -51,6 +51,9 @@ To build a production ready release that can be hosted outside GitHub Pages, use
 ```bash
 make release
 ```
+
+> [!IMPORTANT]  
+> When not running on localhost, replace `__GIT_SHA__` in the `site/service-worker.js` file to a new value before building. This is required so that users will cache any new changes made to the site.
 
 After the release is built, it can be tested with this command:
 
