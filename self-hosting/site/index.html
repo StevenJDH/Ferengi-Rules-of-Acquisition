@@ -34,3 +34,22 @@ image: /assets/icons/social-preview.png
   const RULES_JSON_URL = "{{ '/assets/data/rules.json' | relative_url }}";
 </script>
 <script src="{{ '/assets/js/rules-filter.js' | relative_url }}"></script>
+
+<script>
+if (window.location.hostname !== "localhost") {
+  if ("serviceWorker" in navigator) {
+    navigator.serviceWorker.register("{{ '/service-worker.js' | relative_url }}")  // In root for full scope.
+      .then(reg => {
+        if (reg.installing) trackWorker(reg.installing);
+        reg.onupdatefound = () => trackWorker(reg.installing);
+      })
+      .catch(err => console.error("Service Worker registration failed:", err));
+
+    // Logs all lifecycle changes of the worker reliably.
+    function trackWorker(worker) {
+      console.log("Tracking new worker:", worker);
+      worker.onstatechange = () => console.log("Service Worker state:", worker.state);
+    }
+  }
+}
+</script>
