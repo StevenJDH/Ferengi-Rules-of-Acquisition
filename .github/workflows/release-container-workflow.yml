@@ -15,25 +15,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v6
-      with:
-        # Disabling shallow clone ensures all commits
-        # and tags are available at checkout.
-        fetch-depth: 0
+      - name: Set Branch Outputs
+        id: branch-details
+        uses: stevenjdh/branch-details@v1
 
-    - name: Set Branch Outputs
-      id: branch-details
-      uses: stevenjdh/branch-details@v1
-
-    - name: Check Tag for SemVer
-      run: |
-        echo "Checking release tag [${{ steps.branch-details.outputs.tag }}]..."
-        if [[ "${{ steps.branch-details.outputs.is_semver }}" != "true" ]]; then
-          echo "::error::The release tag does not follow semantic versioning ([v]X.Y.Z)."
-          exit 1
-        else
-          echo "Release tag follows semantic versioning."
-        fi
+      - name: Check Tag for SemVer
+        run: |
+          echo "Checking release tag [${{ steps.branch-details.outputs.tag }}]..."
+          if [[ "${{ steps.branch-details.outputs.is_semver }}" != "true" ]]; then
+            echo "::error::The release tag does not follow semantic versioning ([v]X.Y.Z)."
+            exit 1
+          else
+            echo "Release tag follows semantic versioning."
+          fi
 
   deploy:
     name: Deploy Release
@@ -45,64 +39,64 @@ jobs:
     needs: validate-release-tag
 
     steps:
-    - uses: actions/checkout@v6
-      with:
-        # Disabling shallow clone ensures all commits
-        # and tags are available at checkout.
-        fetch-depth: 0
+      - uses: actions/checkout@v6
+        with:
+          # Disabling shallow clone ensures all commits
+          # and tags are available at checkout.
+          fetch-depth: 0
 
-    - name: Generate Docker Metadata
-      id: meta
-      uses: docker/metadata-action@v5
-      with:
-        # List of container registry names to use for image tagging.
-        # Everything will be automatically set to lowercase.
-        images: |
-          public.ecr.aws/${{ github.repository_owner }}/${{ env.IMAGE_NAME }},enable=true
-          docker.io/${{ github.repository_owner }}/${{ env.IMAGE_NAME }},enable=true
-          ghcr.io/${{ github.repository_owner }}/${{ env.IMAGE_NAME }},enable=true
-        tags: |
-          type=ref,event=branch,enable=false
-          type=semver,pattern={{version}},enable=true
-          type=semver,pattern={{major}}.{{minor}},enable=${{ env.IS_PRERELEASE == 'false' }}
-          type=semver,pattern={{major}},enable=${{ env.IS_PRERELEASE == 'false' }}
-          type=sha
-        flavor: |
-          latest=${{ env.IS_PRERELEASE == 'false' }}
-          suffix=${{ env.IS_PRERELEASE == 'true' && '-prerelease' || '' }}
+      - name: Generate Docker Metadata
+        id: meta
+        uses: docker/metadata-action@v5
+        with:
+          # List of container registry names to use for image tagging.
+          # Everything will be automatically set to lowercase.
+          images: |
+            public.ecr.aws/${{ github.repository_owner }}/${{ env.IMAGE_NAME }},enable=true
+            docker.io/${{ github.repository_owner }}/${{ env.IMAGE_NAME }},enable=true
+            ghcr.io/${{ github.repository_owner }}/${{ env.IMAGE_NAME }},enable=true
+          tags: |
+            type=ref,event=branch,enable=false
+            type=semver,pattern={{version}},enable=true
+            type=semver,pattern={{major}}.{{minor}},enable=${{ env.IS_PRERELEASE == 'false' }}
+            type=semver,pattern={{major}},enable=${{ env.IS_PRERELEASE == 'false' }}
+            type=sha
+          flavor: |
+            latest=${{ env.IS_PRERELEASE == 'false' }}
+            suffix=${{ env.IS_PRERELEASE == 'true' && '-prerelease' || '' }}
 
-    - name: Login to AWS Public ECR
-      uses: docker/login-action@v3
-      with:
-        registry: public.ecr.aws
-        username: ${{ secrets.AWS_ACCESS_KEY_ID }}
-        password: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-      env:
-        # Must be us-east-1 for requesting authentication token.
-        # Reference: https://docs.aws.amazon.com/AmazonECR/latest/public/getting-started-cli.html#cli-authenticate-registry
-        AWS_REGION: us-east-1
+      - name: Login to AWS Public ECR
+        uses: docker/login-action@v3
+        with:
+          registry: public.ecr.aws
+          username: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          password: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        env:
+          # Must be us-east-1 for requesting authentication token.
+          # Reference: https://docs.aws.amazon.com/AmazonECR/latest/public/getting-started-cli.html#cli-authenticate-registry
+          AWS_REGION: us-east-1
 
-    - name: Login to DockerHub
-      uses: docker/login-action@v3
-      with:
-        username: ${{ secrets.DOCKERHUB_USERNAME }}
-        password: ${{ secrets.DOCKERHUB_TOKEN }}
+      - name: Login to DockerHub
+        uses: docker/login-action@v3
+        with:
+          username: ${{ secrets.DOCKERHUB_USERNAME }}
+          password: ${{ secrets.DOCKERHUB_TOKEN }}
 
-    - name: Login to GHCR
-      uses: docker/login-action@v3
-      with:
-        registry: ghcr.io
-        username: ${{ github.repository_owner }}
-        password: ${{ secrets.GITHUB_TOKEN }}
+      - name: Login to GHCR
+        uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.repository_owner }}
+          password: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: Build, Tag, and Push Image
-      uses: docker/build-push-action@v6
-      env:
-        DOCKER_BUILD_SUMMARY: false
-      with:
-        context: self-hosting/
-        file: self-hosting/release/Dockerfile
-        push: true
-        tags: ${{ steps.meta.outputs.tags }}
-        labels: ${{ steps.meta.outputs.labels }}
-        annotations: ${{ steps.meta.outputs.annotations }}
+      - name: Build, Tag, and Push Image
+        uses: docker/build-push-action@v6
+        env:
+          DOCKER_BUILD_SUMMARY: false
+        with:
+          context: self-hosting/
+          file: self-hosting/release/Dockerfile
+          push: true
+          tags: ${{ steps.meta.outputs.tags }}
+          labels: ${{ steps.meta.outputs.labels }}
+          annotations: ${{ steps.meta.outputs.annotations }}
