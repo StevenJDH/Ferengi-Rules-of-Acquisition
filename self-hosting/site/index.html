@@ -30,14 +30,14 @@ image: /assets/icons/social-preview.png
 
 <div id="results"></div>
 
-<script>
-  const RULES_JSON_URL = "{{ '/assets/data/rules.json' | relative_url }}";
-</script>
-<script src="{{ '/assets/js/rules-filter.js' | relative_url }}"></script>
-
 <script type="module">
+  import { main as setupRulesFilter } from "{{ '/assets/js/rules-filter.mjs' | relative_url }}";
   import { registerServiceWorker } from "{{ '/assets/js/sw-register.mjs' | relative_url }}";
-  registerServiceWorker("{{ '/service-worker.js' | relative_url }}", { // In root for full scope.
+
+  setupRulesFilter("{{ '/assets/data/rules.json' | relative_url }}");
+
+  // SW in root for full scope.
+  registerServiceWorker("{{ '/service-worker.js' | relative_url }}", {
     excludeHost: "localhost",
     verbose: true
   });

@@ -26,7 +26,7 @@ const ASSETS = [
   "{{ '/assets/icons/favicon.ico' | relative_url }}",
   "{{ '/assets/icons/site.webmanifest' | relative_url }}",
   "{{ '/assets/images/ferengi-cover.jpg' | relative_url }}",
-  "{{ '/assets/js/rules-filter.js' | relative_url }}"
+  "{{ '/assets/js/rules-filter.mjs' | relative_url }}"
 ];
 
 // Pre-cache assets during installation.
@@ -46,7 +46,7 @@ self.addEventListener("activate", event => {
   })());
 });
 
-// Intercept fetch requests for run-time caching.
+// Intercept fetch requests for runtime caching.
 self.addEventListener("fetch", event => {
   const url = new URL(event.request.url);
   // Only handle http(s) requests, ignore chrome-extension://, etc.

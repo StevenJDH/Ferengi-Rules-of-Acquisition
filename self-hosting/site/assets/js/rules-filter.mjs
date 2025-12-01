@@ -1,5 +1,16 @@
-async function loadData() {
-  const response = await fetch(RULES_JSON_URL);
+/**
+ * ES Module: Ferengi Rules of Acquisition Filter
+ *
+ * Features:
+ * - Loads rule data asynchronously from a JSON file using 'fetch()'.
+ * - Renders rules into the DOM with support for grouping and structured display.
+ * - Provides live, case-insensitive searches across rule text and source labels.
+ * - Supports filtering by 'Source Type' via a dynamically populated dropdown.
+ * - Implements "no results" handling with a styled fallback message and the unwritten rule.
+ */
+
+async function loadData(rulesJsonUrl) {
+  const response = await fetch(rulesJsonUrl);
   return await response.json();
 }
 
@@ -73,8 +84,8 @@ function render(rules, searchText = '', typeFilter = '') {
   }
 }
 
-async function main() {
-  const rules = await loadData();
+export async function main(rulesJsonUrl) {
+  const rules = await loadData(rulesJsonUrl);
 
   // Populate sourceType dropdown
   const allTypes = new Set();
@@ -98,8 +109,6 @@ async function main() {
   input.addEventListener('input', update);
   typeSelect.addEventListener('change', update);
 
-  // Initial render: filter based on any pre-filled values
+  // Initial render: filter based on any pre-filled values (Firefox remembers input values).
   update();
 }
-
-main();
