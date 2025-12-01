@@ -68,7 +68,7 @@ async function handleRequest(request) {
 async function fetchAndCacheAsync(request, cache) {
   try {
     const response = await fetch(request);
-    if (response && response.status === 200) {
+    if (response && response.ok) { // All 2xx responses.
       await cache.put(request, response.clone());
     }
     return response;
