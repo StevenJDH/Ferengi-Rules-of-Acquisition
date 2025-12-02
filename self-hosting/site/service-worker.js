@@ -3,7 +3,7 @@
 # to avoid path relativity issues when using locally or remotely.
 ---
 /**
- * A2HA Service Worker for a GitHub Pages Site
+ * A2HS Service Worker for a GitHub Pages Site
  *
  * Features:
  * - Pre-caches core assets listed in ASSETS during install to guarantee offline availability.
