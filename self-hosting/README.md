@@ -76,7 +76,7 @@ For production use cases, it is not recommended to pull an image with the `:late
 External REST services that want to integrate with the Ferengi Rules of Acquisition data can do so by consuming the following JSON file endpoint:
 
 ```text
-https://raw.githubusercontent.com/StevenJDH/Ferengi-Rules-of-Acquisition/refs/heads/main/self-hosting/site/assets/data/rules.json
+https://raw.githubusercontent.com/StevenJDH/Ferengi-Rules-of-Acquisition/refs/tags/1.0.0/self-hosting/site/assets/data/rules.json
 ```
 
 **JSON Schema:**
